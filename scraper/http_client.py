@@ -31,6 +31,8 @@ class RobustHttpClient:
     _instance: Optional["RobustHttpClient"] = None
     _client: Optional[httpx.Client] = None
     _lock = threading.Lock()
+    _last_request_time = 0.0
+    _request_delay_lock = threading.Lock()
 
     def __new__(cls):
         if cls._instance is None:
@@ -54,7 +56,7 @@ class RobustHttpClient:
             ),
             limits=httpx.Limits(
                 max_connections=config.MAX_WORKERS,
-                max_keepalive_connections=config.MAX_WORKERS // 2,
+                max_keepalive_connections=max(1, config.MAX_WORKERS // 2),
                 keepalive_expiry=30.0,
             ),
             headers={
@@ -78,7 +80,20 @@ class RobustHttpClient:
             verify=True,
             http2=True,
         )
-        logger.info("[HttpClient] Initialized with connection pooling, HTTP/2, retry logic")
+        logger.info(f"[HttpClient] Initialized with {config.MAX_WORKERS} workers, "
+                   f"delay={config.REQUEST_DELAY_SECONDS}s, HTTP/2, retry logic")
+
+    def _respect_rate_limit(self):
+        """Enforce minimum delay between requests to be respectful to the server."""
+        delay = config.REQUEST_DELAY_SECONDS
+        if delay <= 0:
+            return
+        with self._request_delay_lock:
+            now = time.monotonic()
+            elapsed = now - self._last_request_time
+            if elapsed < delay:
+                time.sleep(delay - elapsed)
+            self._last_request_time = time.monotonic()
 
     @retry(
         wait=wait_exponential(multiplier=1, min=2, max=30),
@@ -95,7 +110,8 @@ class RobustHttpClient:
         before_sleep=before_sleep_log(logger, logging.WARNING),
     )
     def get(self, url: str, **kwargs) -> httpx.Response:
-        """GET request with automatic retry."""
+        """GET request with automatic retry and rate limiting."""
+        self._respect_rate_limit()
         response = self._client.get(url, **kwargs)
         response.raise_for_status()
         return response
@@ -115,7 +131,8 @@ class RobustHttpClient:
         before_sleep=before_sleep_log(logger, logging.WARNING),
     )
     def post(self, url: str, **kwargs) -> httpx.Response:
-        """POST request with automatic retry."""
+        """POST request with automatic retry and rate limiting."""
+        self._respect_rate_limit()
         response = self._client.post(url, **kwargs)
         response.raise_for_status()
         return response

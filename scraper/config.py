@@ -24,7 +24,7 @@ class Config:
     REQUEST_TIMEOUT_SECONDS: int = 15
 
     # Parallelization
-    MAX_WORKERS: int = 10
+    MAX_WORKERS: int = 4
     USE_THREADING: bool = True
 
     # Paths
