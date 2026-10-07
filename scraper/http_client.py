@@ -113,7 +113,7 @@ class RobustHttpClient:
         """GET request with automatic retry and rate limiting."""
         self._respect_rate_limit()
         response = self._client.get(url, **kwargs)
-        response.raise_for_status()
+        # Do NOT raise on 4xx/5xx - let caller handle it
         return response
 
     @retry(
@@ -134,7 +134,7 @@ class RobustHttpClient:
         """POST request with automatic retry and rate limiting."""
         self._respect_rate_limit()
         response = self._client.post(url, **kwargs)
-        response.raise_for_status()
+        # Do NOT raise on 4xx/5xx - let caller handle it
         return response
 
     def close(self):

@@ -68,6 +68,7 @@ class AmendmentScanner:
             response = self.http_client.get(url)
             html = response.text
             final_url = str(response.url)
+            status_code = response.status_code
         except Exception as e:
             logger.warning(f"[Scanner] Request failed for ID {amendment_id}: {e}")
             return {
@@ -77,6 +78,37 @@ class AmendmentScanner:
                 "final_url": url,
                 "exists": False,
                 "error": True
+            }
+
+        # Handle 404 - check if it's a draft/error page with content
+        if status_code == 404:
+            # Check if the 404 page contains draft content
+            if self._is_error_page(html):
+                # This is a draft amendment - extract motion slug from the HTML
+                motion_slug = self._extract_motion_slug_from_html(html)
+                if not motion_slug:
+                    # Fallback: try to extract from final URL
+                    motion_slug = self._extract_motion_slug_from_final_url(final_url)
+                
+                if motion_slug:
+                    logger.info(f"[Scanner] ID {amendment_id}: DRAFT (404) -> {motion_slug}")
+                    return {
+                        "amendment_id": amendment_id,
+                        "motion_slug": motion_slug,
+                        "readable": False,  # Draft = not readable
+                        "final_url": final_url,
+                        "exists": True,
+                        "error": False
+                    }
+            
+            # True 404 - not found
+            return {
+                "amendment_id": amendment_id,
+                "motion_slug": None,
+                "readable": False,
+                "final_url": final_url,
+                "exists": False,
+                "error": False
             }
 
         if self._is_not_found_redirect(final_url):
@@ -114,6 +146,41 @@ class AmendmentScanner:
             "exists": True,
             "error": False
         }
+
+    def _extract_motion_slug_from_html(self, html: str) -> Optional[str]:
+        """Extract motion slug from breadcrumb or page content on error/draft pages."""
+        try:
+            from bs4 import BeautifulSoup
+            soup = BeautifulSoup(html, "html.parser")
+            
+            # Try breadcrumb first
+            breadcrumb = soup.find(class_="breadcrumb")
+            if breadcrumb:
+                items = breadcrumb.find_all("li")
+                if len(items) >= 2:
+                    # Second item usually has the motion link
+                    link = items[1].find("a", href=True)
+                    if link:
+                        href = link["href"]
+                        import re
+                        match = re.search(rf"/{config.CONVENTION}/([^/]+)", href)
+                        if match:
+                            return match.group(1)
+            
+            # Try to find any link to a motion page
+            for link in soup.find_all("a", href=True):
+                href = link["href"]
+                if f"/{config.CONVENTION}/" in href and "/amendment/" not in href:
+                    import re
+                    match = re.search(rf"/{config.CONVENTION}/([^/]+)", href)
+                    if match:
+                        slug = match.group(1)
+                        if slug not in ["login", "motion", "rest", "page", "pdfcollection"]:
+                            return slug
+                        
+        except Exception:
+            pass
+        return None
 
     def scan_range(
         self,
