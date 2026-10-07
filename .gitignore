@@ -13,6 +13,9 @@ output/
 *.log
 *.zip
 
+# Temp extract (scraper output)
+temp_extract/
+
 # Service account keys (NEVER commit)
 scraper/dienstkonto-schluessel/
 credentials/

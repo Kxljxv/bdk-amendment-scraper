@@ -1,7 +1,0 @@
-=== METADATEN ===
-type: motion
-motionSlug: proposed-procedure
-url: https://antraege.gruene.de/52bdk/proposed-procedure
-timestamp: 2026-10-07T12:41:59.983041
-=== INHALT ===
-<p class="error">Element not found</p>
