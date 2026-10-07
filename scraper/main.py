@@ -91,13 +91,13 @@ def zip_and_clear_output(output_dir: Path, archive_dir: Path, logger):
         return False
 
 
-def run_phase_1(http_client, storage: Storage, logger):
+def run_phase_1(storage: Storage, logger):
     """Run Phase 1: Scan amendment IDs."""
     logger.info("=" * 70)
     logger.info("PHASE 1: Scanning Amendment IDs")
     logger.info("=" * 70)
 
-    scanner = AmendmentScanner(http_client, storage)
+    scanner = AmendmentScanner(storage)
     results = scanner.scan_range(config.START_AMENDMENT_ID, config.MAX_CONSECUTIVE_NOT_FOUND)
 
     if results:
@@ -109,7 +109,7 @@ def run_phase_1(http_client, storage: Storage, logger):
     return results
 
 
-def run_phase_2(http_client, storage: Storage, scan_results: list, logger):
+def run_phase_2(storage: Storage, scan_results: list, logger):
     """Run Phase 2: Scrape content for amendments."""
     logger.info("=" * 70)
     logger.info("PHASE 2: Scraping Amendment Content")
@@ -122,36 +122,36 @@ def run_phase_2(http_client, storage: Storage, scan_results: list, logger):
             logger.info("[Phase 2] No scan results found.")
             return
 
-    scraper = ContentScraper(http_client, storage)
+    scraper = ContentScraper(storage)
     scraper.scrape_amendments_batch(scan_results)
 
 
-def run_phase_3(http_client, storage: Storage, logger):
+def run_phase_3(storage: Storage, logger):
     """Run Phase 3: Scrape motions from start page."""
     logger.info("=" * 70)
     logger.info("PHASE 3: Scraping Motions")
     logger.info("=" * 70)
 
-    motion_scraper = MotionScraper(http_client, storage)
+    motion_scraper = MotionScraper(storage)
     motion_scraper.scrape_all_motions()
 
 
-def run_scrape_cycle(http_client, storage: Storage, logger):
+def run_scrape_cycle(storage: Storage, logger):
     """Run one complete scrape cycle."""
     scan_results = []
 
     try:
-        scan_results = run_phase_1(http_client, storage, logger)
+        scan_results = run_phase_1(storage, logger)
     except Exception as e:
         logger.error(f"[Phase 1] Error: {e}", exc_info=True)
 
     try:
-        run_phase_2(http_client, storage, scan_results, logger)
+        run_phase_2(storage, scan_results, logger)
     except Exception as e:
         logger.error(f"[Phase 2] Error: {e}", exc_info=True)
 
     try:
-        run_phase_3(http_client, storage, logger)
+        run_phase_3(storage, logger)
     except Exception as e:
         logger.error(f"[Phase 3] Error: {e}", exc_info=True)
 
@@ -206,7 +206,7 @@ def main():
             logger.info("=" * 70)
 
             try:
-                run_scrape_cycle(http_client, storage, logger)
+                run_scrape_cycle(storage, logger)
             except Exception as e:
                 logger.error(f"[Run #{run_count}] Fatal error in cycle: {e}", exc_info=True)
 
