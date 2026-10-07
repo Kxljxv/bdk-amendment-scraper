@@ -1,0 +1,71 @@
+=== METADATEN ===
+amendmentId: 25246
+motionSlug: Anhang-3-Urabstimmungsordnung-10-Abs-1-Abstimmungsverfahren-62381
+readable: True
+url: https://antraege.gruene.de/52bdk/Anhang-3-Urabstimmungsordnung-10-Abs-1-Abstimmungsverfahren-62381/25246
+timestamp: 2026-10-07T12:41:57.377572
+=== INHALT ===
+<main class="antragsgruen-width-main well" id="mainContent"><div class="primaryHeader"><h1>Änderungsantrag zu Anhang 3: Urabstimmungsordnung § 10 Abs. 1, Abstimmungsverfahren</h1></div> <script crossorigin="anonymous" type="module">
+        import { AmendmentShow } from '/js/modules/frontend/AmendmentShow.js';
+        new AmendmentShow();
+    </script>
+<nav class="navbar navbar-default sidebarSmall visible-sm-block visible-xs-block" id="sidebarSmall">
+<div class="container-fluid">
+<div class="navbar-header">
+<button aria-expanded="false" class="navbar-toggle collapsed" data-target="#sidebarSmallContent" data-toggle="collapse" type="button">
+<span class="sr-only">Hauptmenü</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="sidebarSmallContent">
+<ul><li class="amendmentCreate"><a href="/52bdk/Anhang-3-Urabstimmungsordnung-10-Abs-1-Abstimmungsverfahren-62381/amendment/create?createFromAmendment=25246" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Neuen ÄA auf dieser Basis stellen</a></li></ul>
+</div>
+</div>
+</nav><div class="motionData" style="min-height: 0px;"><div class="content"><div class="sr-only" id="motionDataTableDescription">Diese Tabelle beschreibt den Status, die Antragstellerin und verschiedene Rahmendaten zum Änderungsantrag</div><table aria-describedby="motionDataTableDescription" class="motionDataTable"><caption>Rahmendaten zum Änderungsantrag</caption><tr><th scope="row">Antragsteller*in:</th><td>Katharina Helling <small style="font-weight: normal;">(KV München)</small><div class="moreSupporters"><a href="#supporters">und 13 weitere Antragsteller*innen</a> <span class="womenQuota">(Frauenanteil: 21%)</span></div></td></tr>
+<tr class="statusRow"><th scope="row">Status:</th><td>Antragsteller*innen sammeln <small>(Berechtigung: Ausgewählte Gruppen)</small></td></tr>
+<tr><th scope="row">Angelegt:</th><td>05.10.2026, 16:49</td></tr>
+</table><div class="alert alert-info supportCollectionHint" role="alert">Dieser Antrag ist noch nicht eingereicht. Nötig sind <strong>mindestens 91 Mitantragsteller*innen, davon 46 Frauen (aktueller Stand: 13 / 3)</strong>. Wenn du ihn unterstützen willst, kannst du das unten auf dieser Seite tun.<div style="vertical-align: middle; line-height: 40px; margin-top: 20px;"><a class="btn btn-default pull-right" href="/login?backUrl=%2F52bdk%2FAnhang-3-Urabstimmungsordnung-10-Abs-1-Abstimmungsverfahren-62381%2F25246" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-log-in"></span> Login</a>Du musst dich einloggen, um Änderungsanträge stellen zu können.</div></div></div></div><div class="motionTextHolder" id="section_796"><div class="greenHeader"><h2>Satzungstext</h2><div class="btn-group btn-group-xs greenHeaderDropDown amendmentTextModeSelector">
+<button aria-expanded="false" class="btn btn-link dropdown-toggle" data-toggle="dropdown" title="Textdarstellung" type="button">
+<span class="sr-only">Textdarstellung</span>
+<span aria-hidden="true" class="glyphicon glyphicon-cog"></span>
+</button>
+<ul class="dropdown-menu dropdown-menu-right"><li class="selected"><a class="showOnlyChanges" href="#">Nur die Änderungen anzeigen</a></li><li><a class="showFullText" href="#">Kompletten Antragstext anzeigen</a></li></ul></div></div><div class="paragraph lineNumbers" id="section_796_0"><div class="onlyChangedText"><section class="paragraph"><div class="text motionTextFormattings fixedWidthFont" dir="ltr"><h4 class="lineSummary">Nach Zeile 1 einfügen:</h4><div><ul aria-label="Einfügen: „Es gelten die gleichen Mehrheitserfordernisse und Voraussetzungen für die Beschlussfähigkeit/Mindestbeteiligungsquorum, wie sie auch auf einer Bundesversammlung erforderlich sind. Es sei denn, die Bundessatzung legt für Urabstimmungen davon abweichendes fest. Die nachfolgenden Bestimmungen sind dementsprechend anzuwenden.”" class="inserted"><li><p>Es gelten die gleichen Mehrheitserfordernisse und Voraussetzungen für die Beschlussfähigkeit/Mindestbeteiligungsquorum, wie sie auch auf einer Bundesversammlung erforderlich sind. Es sei denn, die Bundessatzung legt für Urabstimmungen davon abweichendes fest. Die nachfolgenden Bestimmungen sind dementsprechend anzuwenden.</p></li></ul></div></div></section></div><div class="fullMotionText text motionTextFormattings textOrig fixedWidthFont hidden"><ol start="1"><li value="1"><span aria-hidden="true" class="lineNumber" data-line-number="1"></span>Über mehrere Urabstimmungsinitiativen kann gemeinsam abgestimmt werden.</li></ol><ul aria-label="Einfügen: „Es gelten die gleichen Mehrheitserfordernisse und Voraussetzungen für die Beschlussfähigkeit/Mindestbeteiligungsquorum, wie sie auch auf einer Bundesversammlung erforderlich sind. Es sei denn, die Bundessatzung legt für Urabstimmungen davon abweichendes fest. Die nachfolgenden Bestimmungen sind dementsprechend anzuwenden.”" class="inserted"><li><p>Es gelten die gleichen Mehrheitserfordernisse und Voraussetzungen für die Beschlussfähigkeit/Mindestbeteiligungsquorum, wie sie auch auf einer Bundesversammlung erforderlich sind. Es sei denn, die Bundessatzung legt für Urabstimmungen davon abweichendes fest. Die nachfolgenden Bestimmungen sind dementsprechend anzuwenden.</p></li></ul></div></div></div><section class="motionTextHolder" id="amendmentExplanation"><h3 class="green">Begründung</h3><div class="paragraph"><div class="text"><p>Diese Einfügung eines neuen Absatz in § 10 Urabstimmungsordnung hat in erster Linie feststellenden Charakter.</p>
+<p><strong>Durch die Ergänzung soll klargestellt werden, dass auch für Urabstimmungen nur innerhalb der Satzung festgelegt werden kann, welche Mehrheitserfordernisse notwendig sind und im Übrigen die Anforderungen erfüllt sein müssen, die auch für die Bundesversammlung als oberstes Organ der Partei gelten.</strong></p>
+<p>Die Satzung ist die ranghöchste Norm innerhalb der Partei BÜNDNIS 90 / DIE GRÜNEN. Oftmals auch als „grünes Grundgesetz“ bezeichnet.</p>
+<p>Die Bundesversammlung („Mitglieder- oder Vertreterversammlung“) ist nach Parteiengesetz (und Bundessatzung) das oberste Organ von BÜNDNIS 90 / DIE GRÜNEN (§ 9 Abs. 1 PartG, § 14 Abs. 4 Bundessatzung).</p>
+<p>Gemäß § 15 Abs. 1 PartG fasst sie, wie auch alle anderen Organe einer Partei, Beschlüsse grundsätzlich mit einfacher Mehrheit ohne besonderes Mindestquorum. Außer in einem Gesetz oder aus der Bundessatzung geht etwas anderes hervor (§ 15 Abs. 1 PartG).</p>
+<p>Die Bundessatzung legt für Entscheidungen durch die Organe allgemeine Mindestquoren fest, mit denen die Organe jeweils beschlussfähig sind.</p>
+<p>Die Bundesversammlung ist danach grundsätzlich beschlussfähig, wenn und solange mehr als ein Drittel der stimmberechtigten Delegierten anwesend ist (§ 24 Abs. 3 Bundessatzung).</p>
+<p>Für besonders bedeutsame, grundlegende Entscheidungen gelten allerdings höhere Maßstäbe, wie zum Beispiel für Satzungsänderungen:</p>
+<p>Das Parteiengesetz legt hier zwar keine erhöhten Anforderungen fest, allerdings ist § 33 Abs. 1 Satz 1 BGB zu beachten, der auch auf politische Parteien anzuwenden ist (so Schönberger, Parteienrecht, § 15 PartG Rz. 5).</p>
+<p>Diese Vorschrift ist allerdings abdingbar durch eine abweichende Regelung innerhalb der Satzung (§ 40 BGB).</p>
+<p>Von diesem Recht haben BÜNDNIS 90 / DIE GRÜNEN Gebrauch gemacht und in § 26 der Bundessatzung festgelegt, dass für Satzungsänderungen eine Mehrheit von zwei Dritteln erforderlich ist und Beschlussfähigkeit darüber nur vorliegt, wenn 50 % der Stimmberechtigten anwesend sind.</p>
+<p>Die rechtlich umstrittene Frage, ob Satzungsänderungen per Urabstimmung auf Grund von § 9 Abs. 5 PartG und des dort formulierten Parteitagsvorbehalts überhaupt möglich sind, wird hier bewusst ausgeklammert. Für die Feststellung, dass Grundsätze über Beschlussfassungen innerhalb der Satzung zu regeln sind und die für die Bundesversammlungn als oberstes Parteiorgan geltenden Regeln den Mindeststandard vorgeben, es sei denn die Satzung regelt abweichendes, kann diese Frage offen bleiben.</p>
+<p>Innerhalb der Satzung von BÜNDNIS 90 / DIE GRÜNEN gibt es darüber hinaus noch abweichende Mehrheitserfordernisse für u. a. Beschlüsse über Änderungen des Grundsatzprogramms (§ 2 Abs. 1 Bundessatzung) oder die Beschlussfassung über die Auflösung von Landesverbänden bei schwerwiegenden Verstößen gegen Grundwerte oder Satzung der Organisation (§ 14 Abs. 4 Nr. 8 Bundessatzung).</p>
+<p>Diese höheren Hürden erfüllen mehrere Zielsetzungen. Es wird sichergestellt, dass bei besonders bedeutsamen Entscheidungen</p>
+<ul>
+<li>die demokratische Willensbildung, die auf Parteitagen durch Rede/Gegenrede erfolgt, mit ausreichend vielen Stimmberechtigten stattfindet,</li>
+<li>nicht nur ein kleiner Teil der Abstimmungsberechtigten eine Änderung herbeiführt.</li>
+<li>das Ergebnis von einer besonders breiten Basis mitgetragen und verantwortet wird.</li>
+<li>das Fundament von BÜNDNIS 90 / DIE GRÜNEN (Grundregeln und Grundwerte) stabil und beständig ist.</li>
+</ul>
+<p>Und nicht zuletzt verdeutlicht es auch den Abstimmenden, dass diese Entscheidung besondere Bedeutung hat, die sich von anderen Abstimmungsfragen unterscheidet.</p>
+<p>Für Urabstimmungen wurde innerhalb der Satzung nicht festgelegt, ob und in welchen Fällen abweichende Mehrheiten/Beteiligungsquoren gelten. Also sollten als Mindeststandard die Regeln gelten, die innerhalb der Satzung vom obersten Parteiorgan für selbiges festgelgt wurden.</p>
+<h2><br/>
+<span class="underline"><strong>Begründung in einfacher Sprache</strong></span></h2><p>Die vorgeschlagene Ergänzung soll klarstellen, dass auch für Urabstimmungen nur in der Satzung stehen kann, wie viele Stimmen nötig sind. Sonst gelten die gleichen Regeln wie für die Bundesversammlung.</p>
+<p>Die Satzung ist die wichtigste Regel bei BÜNDNIS 90 / DIE GRÜNEN. Man nennt sie auch das “grüne Grundgesetz”.</p>
+<p>Die Bundesversammlung ist das höchste Organ der Partei. Sie trifft Entscheidungen normalerweise mit einfacher Mehrheit, also wenn mehr als die Hälfte dafür stimmt. Es gibt aber auch andere Regeln und zwar dann wenn ein Gesetz etwas anderes bestimmt. Oder in der Satzung was anderes festgelegt wurde.</p>
+<p>Die Satzung sagt, wie viele Leute anwesend sein müssen, damit eine Entscheidung gültig ist. Für die Bundesversammlung müssen mehr als ein Drittel der stimmberechtigten Delegierten da sein.</p>
+<p>Bei wichtigen Entscheidungen, wie zum Beispiel Änderungen der Satzung, gelten strengere Regeln. Die Satzung sagt, dass dafür zwei Drittel der Stimmen nötig sind und mindestens die Hälfte der Stimmberechtigten anwesend sein muss.</p>
+<p>Es gibt auch noch andere wichtige Entscheidungen besondere Regeln, zum Beispiel:</p>
+<ul>
+<li>für Änderungen des Grundsatzprogramms oder</li>
+<li>die Auflösung von Landesverbänden, wenn sie sich nicht an die Regeln halten.</li>
+</ul>
+<p>Diese strengeren Regeln sollen sicherstellen, dass viele Leute an wichtigen Entscheidungen beteiligt sind und dass die Entscheidungen von einer breiten Basis getragen werden. Und die Grundregeln und Grundwerte der Partei stabil bleiben.</p></div></div></section><section aria-labelledby="supportersTitle" class="supporters" id="supporters">
+<h2 class="green" id="supportersTitle">weitere Antragsteller*innen</h2>
+<div class="content"><br/><ul><li>Philipp Schmagold (KV Plön)</li><li>Horst Kunz (KV München)</li><li>Christoph Behnke (KV Stade)</li><li>Gustav Blaß (KV Gera)</li><li>Thomas Wolff (KV Berlin-Charlottenburg/Wilmersdorf)</li><li>Claudia Laux (KV Coburg-Land)</li><li>Ralph Pies (KV Offenbach-Land)</li><li>Klemens Griesehop (KV Berlin-Reinickendorf)</li><li>Albert Dietz (KV Ahrweiler)</li><li>Max Lissowski (KV Dresden)</li><li>Tim Barz-Cech (KV Gelsenkirchen)</li><li>Dustin Eikmeier (KV Berlin-Lichtenberg)</li><li>Bettina Deutelmoser (KV Stade)</li></ul><div class="alert alert-info" role="alert"><span aria-hidden="true" class="icon glyphicon glyphicon-exclamation-sign"></span><span class="sr-only">Fehler:</span>Nur zugelassene Gruppen können Anträge unterstützen.
+                </div></div>
+</section></main>

@@ -1,0 +1,31 @@
+# Amendment URLs for 52bdk
+# Generated: 2026-10-07T12:41:45.868922
+# Format: amendment_id | motion_slug | readable | url
+
+25227 | anhang-3-go-der-bundesversammlungen-4-abs-1-antrage-fristen-21667 | True | https://antraege.gruene.de/52bdk/anhang-3-go-der-bundesversammlungen-4-abs-1-antrage-fristen-21667/25227
+25228 | vom-aufstiegsversprechen-zur-chancengarantie-damit-herkunft-nicht-ub-13749 | True | https://antraege.gruene.de/52bdk/vom-aufstiegsversprechen-zur-chancengarantie-damit-herkunft-nicht-ub-13749/25228
+25229 | vom-aufstiegsversprechen-zur-chancengarantie-damit-herkunft-nicht-ub-13749 | True | https://antraege.gruene.de/52bdk/vom-aufstiegsversprechen-zur-chancengarantie-damit-herkunft-nicht-ub-13749/25229
+25225 | statut-der-bundesarbeitsgemeinschaften-wahl-derdelegierten-zum-lander-54530 | True | https://antraege.gruene.de/52bdk/statut-der-bundesarbeitsgemeinschaften-wahl-derdelegierten-zum-lander-54530/25225
+25226 | 26-satzung-satzungsanderung-durch-urabstimmung-26071 | True | https://antraege.gruene.de/52bdk/26-satzung-satzungsanderung-durch-urabstimmung-26071/25226
+25232 | anhang-3-go-der-bundesversammlungen-4-abs-1-antrage-fristen-21667 | False | https://antraege.gruene.de/52bdk/anhang-3-go-der-bundesversammlungen-4-abs-1-antrage-fristen-21667/25232
+25230 | 14-bundesversammlung-abs-1-delegiertenberechnung-62152 | True | https://antraege.gruene.de/52bdk/14-bundesversammlung-abs-1-delegiertenberechnung-62152/25230
+25231 | 14-Bundesversammlung-Abs-2-Mindestquotierung-nach-Frauenstatut-18665 | True | https://antraege.gruene.de/52bdk/14-Bundesversammlung-Abs-2-Mindestquotierung-nach-Frauenstatut-18665/25231
+25249 | Anhang-3-Urabstimmungsordnung-13-Abs-1-online-gestutzt-55379 | True | https://antraege.gruene.de/52bdk/Anhang-3-Urabstimmungsordnung-13-Abs-1-online-gestutzt-55379/25249
+25248 | 27-Urabstimmung-Abs-2-online-gestutzt-36161 | True | https://antraege.gruene.de/52bdk/27-Urabstimmung-Abs-2-online-gestutzt-36161/25248
+25245 | 14-bundesversammlung-antragsberechtigung-37168 | True | https://antraege.gruene.de/52bdk/14-bundesversammlung-antragsberechtigung-37168/25245
+25241 | anhang-3-zur-satzung-neu-mitgliederratsordnung-8558 | True | https://antraege.gruene.de/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/25241
+25247 | 14-Bundesversammlung-Abs-3-Fristen-19284 | True | https://antraege.gruene.de/52bdk/14-Bundesversammlung-Abs-3-Fristen-19284/25247
+25243 | Anhang-3-Urabstimmungsordnung-8-Abs-1-Urabstimmungsunterlagen-25334 | False | https://antraege.gruene.de/52bdk/Anhang-3-Urabstimmungsordnung-8-Abs-1-Urabstimmungsunterlagen-25334/25243
+25242 | Anhang-3-Urabstimmungsordnung-10-Abs-1-Abstimmungsverfahren-62381 | False | https://antraege.gruene.de/52bdk/Anhang-3-Urabstimmungsordnung-10-Abs-1-Abstimmungsverfahren-62381/25242
+25244 | Anhang-3-Urabstimmungsordnung-8-Abs-1-Urabstimmungsunterlagen-25334 | True | https://antraege.gruene.de/52bdk/Anhang-3-Urabstimmungsordnung-8-Abs-1-Urabstimmungsunterlagen-25334/25244
+25246 | Anhang-3-Urabstimmungsordnung-10-Abs-1-Abstimmungsverfahren-62381 | True | https://antraege.gruene.de/52bdk/Anhang-3-Urabstimmungsordnung-10-Abs-1-Abstimmungsverfahren-62381/25246
+25250 | Anhang-3-Urabstimmungsordnung-13-Abs-2-online-gestutzt-48269 | True | https://antraege.gruene.de/52bdk/Anhang-3-Urabstimmungsordnung-13-Abs-2-online-gestutzt-48269/25250
+25251 | Anhang-3-Urabstimmungsordnung-13-Abs-1-online-gestutzt-55379 | True | https://antraege.gruene.de/52bdk/Anhang-3-Urabstimmungsordnung-13-Abs-1-online-gestutzt-55379/25251
+25252 | wehrhaft-fur-den-frieden-grune-rustungspolitik-europaisch-neu-defini-38758 | True | https://antraege.gruene.de/52bdk/wehrhaft-fur-den-frieden-grune-rustungspolitik-europaisch-neu-defini-38758/25252
+25254 | wehrhaft-fur-den-frieden-grune-rustungspolitik-europaisch-neu-defini-38758 | True | https://antraege.gruene.de/52bdk/wehrhaft-fur-den-frieden-grune-rustungspolitik-europaisch-neu-defini-38758/25254
+25256 | wehrhaft-fur-den-frieden-grune-rustungspolitik-europaisch-neu-defini-38758 | True | https://antraege.gruene.de/52bdk/wehrhaft-fur-den-frieden-grune-rustungspolitik-europaisch-neu-defini-38758/25256
+25255 | wehrhaft-fur-den-frieden-grune-rustungspolitik-europaisch-neu-defini-38758 | True | https://antraege.gruene.de/52bdk/wehrhaft-fur-den-frieden-grune-rustungspolitik-europaisch-neu-defini-38758/25255
+25259 | ki-zum-wohle-nicht-zur-abschaffung-der-menschheit-verankerung-eines-11183 | True | https://antraege.gruene.de/52bdk/ki-zum-wohle-nicht-zur-abschaffung-der-menschheit-verankerung-eines-11183/25259
+25253 | wehrhaft-fur-den-frieden-grune-rustungspolitik-europaisch-neu-defini-38758 | True | https://antraege.gruene.de/52bdk/wehrhaft-fur-den-frieden-grune-rustungspolitik-europaisch-neu-defini-38758/25253
+25258 | wehrhaft-fur-den-frieden-grune-rustungspolitik-europaisch-neu-defini-38758 | True | https://antraege.gruene.de/52bdk/wehrhaft-fur-den-frieden-grune-rustungspolitik-europaisch-neu-defini-38758/25258
+25257 | wehrhaft-fur-den-frieden-grune-rustungspolitik-europaisch-neu-defini-38758 | True | https://antraege.gruene.de/52bdk/wehrhaft-fur-den-frieden-grune-rustungspolitik-europaisch-neu-defini-38758/25257

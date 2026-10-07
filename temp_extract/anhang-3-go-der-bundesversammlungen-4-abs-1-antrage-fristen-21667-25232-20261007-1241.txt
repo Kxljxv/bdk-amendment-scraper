@@ -1,0 +1,12 @@
+=== METADATEN ===
+amendmentId: 25232
+motionSlug: anhang-3-go-der-bundesversammlungen-4-abs-1-antrage-fristen-21667
+readable: False
+url: https://antraege.gruene.de/52bdk/anhang-3-go-der-bundesversammlungen-4-abs-1-antrage-fristen-21667/25232
+timestamp: 2026-10-07T12:41:56.307331
+=== INHALT ===
+<main class="antragsgruen-width-main well" id="mainContent"><h1>Error</h1>
+<div class="content">
+<div class="alert alert-danger">Dieser Änderungsantrag kann nicht angezeigt werden.</div>
+</div>
+</main>

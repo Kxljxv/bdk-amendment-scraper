@@ -1,0 +1,904 @@
+=== METADATEN ===
+type: motion
+motionSlug: anhang-3-zur-satzung-neu-mitgliederratsordnung-8558
+url: https://antraege.gruene.de/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558
+timestamp: 2026-10-07T12:42:02.909454
+=== INHALT ===
+<main class="antragsgruen-width-main well" id="mainContent"> <div class="primaryHeader"><h1>S-03: Anhang 3 zur Satzung, Neu: Mitgliederratsordnung</h1></div><script crossorigin="anonymous" type="module">
+    import { MotionShow } from '/js/modules/frontend/MotionShow.js';
+    new MotionShow();
+</script>
+<nav class="navbar navbar-default sidebarSmall visible-sm-block visible-xs-block" id="motionSidebarSmall">
+<div class="container-fluid">
+<div class="navbar-header">
+<a class="navbar-brand" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Änderungsantrag stellen</a><button aria-expanded="false" class="navbar-toggle collapsed" data-target="#sidebarSmallContent" data-toggle="collapse" type="button">
+<span class="sr-only">Hauptmenü</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="sidebarSmallContent">
+<ul><li class="download"><a href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/pdf" target="_blank"><span aria-hidden="true" class="icon glyphicon glyphicon-download-alt"></span>PDF-Version</a></li></ul>
+</div>
+</div>
+</nav><nav class="motionPrevNextLinks toolbarBelowTitle">
+<div class="prev">
+<a href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            Voriger Antrag        </a>
+</div>
+<div class="next">
+<a href="/52bdk/vorschlag-zur-tagesordnung-38811">
+            Nächster Antrag            <span aria-hidden="true" class="glyphicon glyphicon-chevron-right"></span>
+</a>
+</div>
+</nav>
+<div class="motionData" style="min-height: 20px;"><div class="content"><div class="sr-only" id="motionDataTableDescription">Diese Tabelle beschreibt den Status, die Antragstellerin und verschiedene Rahmendaten zum Antrag</div><table aria-describedby="motionDataTableDescription" class="motionDataTable"><caption>Rahmendaten zum Antrag</caption><tr><th scope="row">Veranstaltung:</th><td><a href="/52bdk">52. Bundesdelegiertenkonferenz Berlin</a></td></tr>
+<tr><th scope="row">Tagesordnungspunkt:</th><td>S TOP 03 - Satzung und Geschäftsordnung (1/2)</td></tr>
+<tr><th scope="row">Antragsteller*in:</th><td>Bundesvorstand <small style="font-weight: normal;">(dort beschlossen am: 01.10.2026)</small></td></tr>
+<tr class="statusRow"><th scope="row">Status:</th><td>Eingereicht</td></tr>
+<tr><th scope="row">Eingereicht:</th><td>02.10.2026, 20:12</td></tr>
+</table></div></div><section aria-labelledby="section_783_title" class="motionTextHolder sectionType1 motionTextHolder1" id="section_783"><h2 class="green" id="section_783_title">Antragstext</h2><div class="paragraph lineNumbers" id="section_783_0"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><h2><span aria-hidden="true" class="lineNumber" data-line-number="1"></span><strong>Mitgliederratsordnung</strong></h2><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=0" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_1"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="2"></span><strong>§1 Präambel</strong></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 2 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 2 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 2 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="1"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 2 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=1" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_2"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="3"></span>Aufgabe eines Mitgliederrates ist es, ein für die ganze Gesellschaft und die <br/><span aria-hidden="true" class="lineNumber" data-line-number="4"></span>Parteimitglieder relevantes Thema zu diskutieren, Handlungsempfehlungen für die <br/><span aria-hidden="true" class="lineNumber" data-line-number="5"></span>Partei zu erarbeiten und gegebenenfalls einen Antrag an die Bundesversammlung zu <br/><span aria-hidden="true" class="lineNumber" data-line-number="6"></span>stellen. Ein Mitgliederrat versteht sich als Kollektivorgan, dessen Mitglieder <br/><span aria-hidden="true" class="lineNumber" data-line-number="7"></span>sich untereinander offen und fair austauschen. Die gemeinsamen Beschlüsse werden <br/><span aria-hidden="true" class="lineNumber" data-line-number="8"></span>protokolliert und der Partei digital zur Verfügung gestellt.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 3 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 3 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 3 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="2"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 3 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=2" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_3"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="9"></span><strong>§ 2 Mitgliederratsinitiativen von Parteigliederungen</strong></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 4 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 4 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 4 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="3"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 4 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=3" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_4"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="10"></span>(1) Einer Mitgliederratsinitiative von Parteigliederungen nach §29 (3) der <br/><span aria-hidden="true" class="lineNumber" data-line-number="11"></span>Satzung sind zusätzlich zu dem Antragstext folgende Unterlagen beizufügen:</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 5 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 5 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 5 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="4"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 5 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=4" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_5"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="12"></span>von dem*der Protokollführer*in unterzeichneter Protokollauszug der <br/><span aria-hidden="true" class="lineNumber" data-line-number="13"></span>Versammlung, auf der die Unterstützung der Mitgliederratsinitiative durch <br/><span aria-hidden="true" class="lineNumber" data-line-number="14"></span>den Landesverband oder Kreisverband beschlossen wurde,</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 6 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 6 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 6 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="5"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 6 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=5" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_6"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="15"></span>Anschrift von zwei Vertrauenspersonen (Initiator*innen).</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 7 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 7 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 7 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="6"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 7 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=6" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_7"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="16"></span>(2) Die nach §29 (3) erforderliche Mindestzahl von einem Zehntel der <br/><span aria-hidden="true" class="lineNumber" data-line-number="17"></span>Kreisverbände berechnet sich nach der Gesamtzahl der Kreisverbände, die zum <br/><span aria-hidden="true" class="lineNumber" data-line-number="18"></span>31.12. des Vorjahres beim Bundesverband gemeldet war.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 8 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 8 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 8 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="7"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 8 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=7" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_8"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="19"></span><strong>§ 3 Mitgliederratsinitiativen von Mitgliedern</strong></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 9 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 9 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 9 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="8"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 9 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=8" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_9"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="20"></span>(1) Jedes Mitglied von BÜNDNIS 90/DIE GRÜNEN ist nach §29 (3) der Satzung <br/><span aria-hidden="true" class="lineNumber" data-line-number="21"></span>berechtigt, das Verfahren für eine Mitgliederratsinitiative einzuleiten.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="22"></span>(2) Einer Mitgliederratsinitiative von Mitgliedern nach §29 (3) der Satzung sind <br/><span aria-hidden="true" class="lineNumber" data-line-number="23"></span>zusätzlich zu dem Antragstext folgende Unterlagen beizufügen:</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 10 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 10 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 10 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="9"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 10 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=9" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_10"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="24"></span>Anschrift von zwei Vertrauenspersonen (Initiator*innen),</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 11 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 11 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 11 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="10"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 11 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=10" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_11"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="25"></span>Name, Anschrift, Kreisverband, Unterschrift von fünf von hundert <br/><span aria-hidden="true" class="lineNumber" data-line-number="26"></span>Mitgliedern von BÜNDNIS 90/DIE GRÜNEN.</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 12 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 12 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 12 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="11"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 12 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=11" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_12"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="27"></span>(3) Maßgeblich für die Berechnung des Quorums von fünf von Hundert der <br/><span aria-hidden="true" class="lineNumber" data-line-number="28"></span>Mitglieder ist die Zahl der Mitglieder zum 31.12. des Vorjahres lt. <br/><span aria-hidden="true" class="lineNumber" data-line-number="29"></span>Prüfungsbericht des Wirtschaftsprüfungsinstituts.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 13 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 13 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 13 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="12"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 13 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=12" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_13"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="30"></span><strong>§ 4 Antragstext</strong></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 14 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 14 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 14 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="13"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 14 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=13" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_14"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="31"></span>(1) Ein Antragstext zur Einberufung eines Mitgliederrates muss folgende Angaben <br/><span aria-hidden="true" class="lineNumber" data-line-number="32"></span>enthalten:</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 15 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 15 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 15 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="14"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 15 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=14" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_15"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="33"></span>a. Begründung des Sachverhaltes inkl. konkreter Fragestellung</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 16 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 16 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 16 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="15"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 16 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=15" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_16"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="34"></span>b. Anzahl der Mitglieder des Mitgliederrates</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 17 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 17 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 17 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="16"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 17 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=16" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_17"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="35"></span>(2) Ein Mitgliederrat dient der Beratung gesellschaftlich relevanter und <br/><span aria-hidden="true" class="lineNumber" data-line-number="36"></span>innerparteilich strittiger Fragen. Ausgeschlossen sind Personalentscheidungen, <br/><span aria-hidden="true" class="lineNumber" data-line-number="37"></span>Angelegenheiten laufender Gerichts- oder Schiedsverfahren sowie <br/><span aria-hidden="true" class="lineNumber" data-line-number="38"></span>Einzelfallentscheidungen mit unmittelbarer Wirkung gegenüber einzelnen Personen. <br/><span aria-hidden="true" class="lineNumber" data-line-number="39"></span>Das Thema ist klar abgrenzbar und lässt Raum für unterschiedliche <br/><span aria-hidden="true" class="lineNumber" data-line-number="40"></span>Lösungsansätze.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 18 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 18 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 18 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="17"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 18 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=17" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_18"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="41"></span><strong>§ 5 Informationspflichten der Bundesgeschäftsstelle</strong></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 19 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 19 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 19 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="18"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 19 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=18" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_19"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="42"></span>(1) Die Einleitung einer Mitgliederratsinitiative ist der Bundesgeschäftsstelle <br/><span aria-hidden="true" class="lineNumber" data-line-number="43"></span>unter Beifügung des Antragstextes und aller in §2 oder §3 geforderten Unterlagen <br/><span aria-hidden="true" class="lineNumber" data-line-number="44"></span>mitzuteilen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="45"></span>(2) Die*der Generalsekretär*in ist gemäß §29 (3) der Satzung verpflichtet, im <br/><span aria-hidden="true" class="lineNumber" data-line-number="46"></span>Rahmen der regelmäßigen Verteiler der Partei die Mitglieder über eine <br/><span aria-hidden="true" class="lineNumber" data-line-number="47"></span>Mitgliederratsinitiative zu informieren.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="48"></span>(3) Über die Unterschriftensammlung zur Einleitung einer <br/><span aria-hidden="true" class="lineNumber" data-line-number="49"></span>Mitgliederratsinitiative nach §3 Mitgliederratsordnung (MiRaO) ist die <br/><span aria-hidden="true" class="lineNumber" data-line-number="50"></span>Mitgliederbasis innerhalb von vier Wochen nach Eingang des Antragsschreibens in <br/><span aria-hidden="true" class="lineNumber" data-line-number="51"></span>der Bundesgeschäftsstelle durch Versendung des Antragstexts im Rahmen der <br/><span aria-hidden="true" class="lineNumber" data-line-number="52"></span>regelmäßigen Verteiler zu informieren. Über die erfolgreiche Einberufung eines <br/><span aria-hidden="true" class="lineNumber" data-line-number="53"></span>Mitgliederrates ist die Mitgliederbasis innerhalb von 2 Wochen nach Eingang der, <br/><span aria-hidden="true" class="lineNumber" data-line-number="54"></span>gemäß §2 oder §3 MiRaO, vorzulegenden Unterlagen über die Kreisverbände zu <br/><span aria-hidden="true" class="lineNumber" data-line-number="55"></span>informieren.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 20 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 20 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 20 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="19"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 20 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=19" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_20"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="56"></span><strong>§ 6 Rahmenbedingungen</strong></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 21 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 21 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 21 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="20"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 21 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=20" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_21"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="57"></span>(1) Es kann höchstens ein Mitgliederrat im Jahr einberufen werden. Dies gilt <br/><span aria-hidden="true" class="lineNumber" data-line-number="58"></span>nicht für die Mitgliederratsinitiative nach §29 (3) Nummer 1 der Satzung. Ein <br/><span aria-hidden="true" class="lineNumber" data-line-number="59"></span>Antrag auf Durchführung eines Mitgliederrats kann nur für das laufende oder das <br/><span aria-hidden="true" class="lineNumber" data-line-number="60"></span>folgende Jahr gestellt werden. Ein einmal im Mitgliederrat behandelter Inhalt <br/><span aria-hidden="true" class="lineNumber" data-line-number="61"></span>kann erst nach Ablauf von 3 Jahren erneut Gegenstand eines Mitgliederrates sein. <br/><span aria-hidden="true" class="lineNumber" data-line-number="62"></span>In zu begründenden Ausnahmefällen, etwa bei besonderer Dringlichkeit oder einer <br/><span aria-hidden="true" class="lineNumber" data-line-number="63"></span>wesentlichen Veränderung der Sachlage, kann ein Mitgliederrat zu einem bereits <br/><span aria-hidden="true" class="lineNumber" data-line-number="64"></span>behandelten Thema auch vor Ablauf der Dreijahresfrist einberufen werden.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="65"></span>(2) Ein Mitgliederrat legt seinen Abschlussbericht frühestens drei und <br/><span aria-hidden="true" class="lineNumber" data-line-number="66"></span>spätestens sechs Monate nach seiner konstituierenden Sitzung vor. Dieser <br/><span aria-hidden="true" class="lineNumber" data-line-number="67"></span>Abschlussbericht enthält die auftragsbezogenen Handlungsempfehlungen und <br/><span aria-hidden="true" class="lineNumber" data-line-number="68"></span>mögliche Anträge. Bei der Erstellung des Abschlussberichtes wird ein <br/><span aria-hidden="true" class="lineNumber" data-line-number="69"></span>Mitgliederrat durch die Bundesgeschäftsstelle personell unterstützt.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="70"></span>(3) Ein Mitgliederrat soll höchstens sechs Mal tagen. Er tagt in der Regel <br/><span aria-hidden="true" class="lineNumber" data-line-number="71"></span>digital.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="72"></span>(4) Der*die Generalsekretär*in ist für die Durchführung eines Mitgliederrates <br/><span aria-hidden="true" class="lineNumber" data-line-number="73"></span>verantwortlich.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="74"></span>(5) Reise- und Hotelkosten, sowie Verpflegungskosten, die den Mitgliedern durch <br/><span aria-hidden="true" class="lineNumber" data-line-number="75"></span>die Teilnahme an einem Mitgliederrat entstehen, werden vom Bundesverband gemäß <br/><span aria-hidden="true" class="lineNumber" data-line-number="76"></span>der Kostenerstattungsordnung des Bundesverbandes erstattet.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="77"></span>(6) Die Kosten eines Mitgliederrates trägt die Bundespartei.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 22 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 22 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 22 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="21"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 22 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=21" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_22"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="78"></span><strong>§ 7 Organisation</strong></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 23 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 23 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 23 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="22"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 23 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=22" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_23"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="79"></span>(1) Nach Einberufung eines Mitgliederrates beauftragt der Bundesverband in der <br/><span aria-hidden="true" class="lineNumber" data-line-number="80"></span>Regel eine externe Prozessbegleitung. Die externe Prozessbegleitung soll <br/><span aria-hidden="true" class="lineNumber" data-line-number="81"></span>öffentlich ausgeschrieben werden. Die Prozessbegleitung ist insbesondere <br/><span aria-hidden="true" class="lineNumber" data-line-number="82"></span>verantwortlich für:</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 24 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 24 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 24 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="23"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 24 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=23" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_24"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="83"></span>die Durchführung des Auslosungsverfahrens nach §8 MiRaO,</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 25 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 25 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 25 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="24"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 25 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=24" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_25"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="84"></span>die Benachrichtigung und Information der ausgelosten Mitglieder,</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 26 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 26 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 26 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="25"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 26 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=25" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_26"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="85"></span>die Planung, Moderation und Durchführung der Sitzungen,</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 27 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 27 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 27 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="26"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 27 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=26" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_27"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="86"></span>das Wissensmanagement im Rahmen des Mitgliederratsprozesses.</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 28 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 28 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 28 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="27"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 28 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=27" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_28"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="87"></span>(2) Die Sitzungen eines Mitgliederrates werden inhaltlich und organisatorisch <br/><span aria-hidden="true" class="lineNumber" data-line-number="88"></span>von der externen Prozessbegleitung in der Regel in Zusammenarbeit mit den <br/><span aria-hidden="true" class="lineNumber" data-line-number="89"></span>Vorsitzenden des Mitgliederrates und der*dem Generalsekretär*in vor- und <br/><span aria-hidden="true" class="lineNumber" data-line-number="90"></span>nachbereitet.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 29 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 29 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 29 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="28"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 29 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=28" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_29"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="91"></span><strong>§ 8 Auslosung</strong></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 30 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 30 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 30 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="29"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 30 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=29" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_30"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="92"></span>(1) Die Teilnehmer*innen eines Mitgliederrates werden per Losverfahren bestimmt. <br/><span aria-hidden="true" class="lineNumber" data-line-number="93"></span>Die Teilnahme ist freiwillig.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="94"></span>(2) Zu Losen sind mindestens 30 und höchstens 60 Personen. Ein Mitgliederrat ist <br/><span aria-hidden="true" class="lineNumber" data-line-number="95"></span>gemäß des Frauenstatuts zu besetzen. Die Auswahl soll die Bevölkerung <br/><span aria-hidden="true" class="lineNumber" data-line-number="96"></span>repräsentieren. Dazu wird ein mehrstufiges Zufallsstichprobenverfahren <br/><span aria-hidden="true" class="lineNumber" data-line-number="97"></span>angewandt. Zunächst wird ein erster Mitgliederpool gelost. Diese Gruppe wird <br/><span aria-hidden="true" class="lineNumber" data-line-number="98"></span>anschließend zu verschiedenen Repräsentationskriterien auf Basis des <br/><span aria-hidden="true" class="lineNumber" data-line-number="99"></span>Vielfaltsstatutes und ihrer Teilnahmebereitschaft befragt. Auf Grundlage dieser <br/><span aria-hidden="true" class="lineNumber" data-line-number="100"></span>Rückmeldungen wird ein Mitgliederrat gelost, der dem Querschnitt der Bevölkerung <br/><span aria-hidden="true" class="lineNumber" data-line-number="101"></span>entsprechen soll.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="102"></span>(3) Zur Teilnahme berechtigt ist jedes Parteimitglied. Ausgenommen von der <br/><span aria-hidden="true" class="lineNumber" data-line-number="103"></span>Teilnahme sind Parteimitglieder, die in einem beruflichen oder finanziellen <br/><span aria-hidden="true" class="lineNumber" data-line-number="104"></span>Abhängigkeitsverhältnis zum Bundesverband, Landesverbänden oder einem Bundes-, <br/><span aria-hidden="true" class="lineNumber" data-line-number="105"></span>Landes- oder europäischen Parlament stehen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="106"></span>(4) Personenbezogene Daten, die auf Kreisverbandsebene erhoben werden, werden <br/><span aria-hidden="true" class="lineNumber" data-line-number="107"></span>dem Bundesverband zur Auslosung eines Mitgliederrates zur Verfügung gestellt.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="108"></span>(5) Die Auslosung erfolgt anonym und vertraulich unter Aufsicht des <br/><span aria-hidden="true" class="lineNumber" data-line-number="109"></span>Justiziariats der Bundesgeschäftsstelle. Eine Nachverfolgung, nach welchen <br/><span aria-hidden="true" class="lineNumber" data-line-number="110"></span>Kriterien die Person gelost wurde, darf nicht möglich sein.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 31 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 31 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 31 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="30"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 31 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=30" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_31"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="111"></span><strong>§ 9 Arbeitsweise des Mitgliederrat</strong></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 32 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 32 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 32 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="31"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 32 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=31" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_32"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="112"></span>(1) Ein Mitgliederrat tagt mitgliederöffentlich. Die allgemeine Öffentlichkeit <br/><span aria-hidden="true" class="lineNumber" data-line-number="113"></span>kann zugelassen werden. Er kann die Mitgliederöffentlichkeit mit einer 2/3 <br/><span aria-hidden="true" class="lineNumber" data-line-number="114"></span>Mehrheit ausschließen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="115"></span>(2) Ein Mitgliederrat ist beschlussfähig, wenn mind. die Hälfte der Mitglieder <br/><span aria-hidden="true" class="lineNumber" data-line-number="116"></span>anwesend ist.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="117"></span>(3) Ein Mitgliederrat wählt mit einfacher Mehrheit aus seiner Mitte zwei <br/><span aria-hidden="true" class="lineNumber" data-line-number="118"></span>Vorsitzende, die die Sitzungen gemeinsam mit der externen Prozessbegleitung und <br/><span aria-hidden="true" class="lineNumber" data-line-number="119"></span>dem*der Generalsekretär*in vor- und nachbereiten. Die Ämter sind paritätisch zu <br/><span aria-hidden="true" class="lineNumber" data-line-number="120"></span>be-setzen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="121"></span>(4) Jedes Mitglied des Mitgliederrates hat während der Sitzung Rederecht. Die <br/><span aria-hidden="true" class="lineNumber" data-line-number="122"></span>Redezeit kann aus organisatorischen Gründen auf Vorschlag der Vorsitzenden des <br/><span aria-hidden="true" class="lineNumber" data-line-number="123"></span>Mitgliederrates begrenzt werden.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="124"></span>(5) Ein Mitgliederrat fasst Beschlüsse grundsätzlich mit einfacher Mehrheit. Der <br/><span aria-hidden="true" class="lineNumber" data-line-number="125"></span>Abschlussbericht und/oder Antrag ist auf der BDK mit einer einfachen Mehrheit zu <br/><span aria-hidden="true" class="lineNumber" data-line-number="126"></span>beschließen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="127"></span>(6) Ein Mitgliederrat kann beschließen, zu seinen Sitzungen neben Mitarbeitenden <br/><span aria-hidden="true" class="lineNumber" data-line-number="128"></span>der Bundesgeschäftsstelle auch externe Gäste (z.B. Fachexpert*innen, BAG-<br/><span aria-hidden="true" class="lineNumber" data-line-number="129"></span>Sprecher*innen oder Amts- und Mandatsträger*innen) mit Rederecht einzuladen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="130"></span>(7) Mit Konstituierung eines Mitgliederrates kann eine parteiweite Umfrage zum <br/><span aria-hidden="true" class="lineNumber" data-line-number="131"></span>Sachverhalt beauftragt werden. Die Fachabteilung der Bundesgeschäftsstelle <br/><span aria-hidden="true" class="lineNumber" data-line-number="132"></span>erarbeitet gemeinsam mit dem Mitgliederrat Fragestellungen und führt die <br/><span aria-hidden="true" class="lineNumber" data-line-number="133"></span>Mitgliederbefragung durch. Die Ergebnisse werden dem Mitgliederrat vorgestellt <br/><span aria-hidden="true" class="lineNumber" data-line-number="134"></span>und in die Beratungen miteinbezogen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 33 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 33 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 33 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="32"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 33 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=32" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_33"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="135"></span><strong>§ 10 Schlussbestimmungen</strong></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 34 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 34 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 34 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="33"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 34 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=33" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_34"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="136"></span>(1) Diese Mitgliederratsordnung kann mit einfacher Mehrheit durch die <br/><span aria-hidden="true" class="lineNumber" data-line-number="137"></span>Bundesversammlung oder den Länderrat geändert werden.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="138"></span>(2) Diese Mitgliederratsordnung tritt mit ihrer Verabschiedung auf der <br/><span aria-hidden="true" class="lineNumber" data-line-number="139"></span>Bundesversammlung am 06.12.2026 in Kraft.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 35 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 35 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 35 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="34"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 35 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create?sectionId=783&amp;paragraphNo=34" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div></section><section aria-labelledby="section_784_title" class="motionTextHolder sectionType1 motionTextHolder2" id="section_784"><h2 class="green" id="section_784_title">Einfache Sprache</h2><div class="paragraph lineNumbers" id="section_784_0"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="140"></span><strong>§ 1 Wozu gibt es einen Mitgliederrat?</strong>
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="141"></span>• Ein Mitgliederrat bespricht ein wichtiges Thema. Das Thema ist für die <br/><span aria-hidden="true" class="lineNumber" data-line-number="142"></span>Gesellschaft und für die Parteimitglieder wichtig.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="143"></span>• Er erarbeitet Empfehlungen für die Partei.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="144"></span>• Wenn nötig, stellt er einen Antrag an die Bundesversammlung.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="145"></span>• Die Mitglieder sprechen offen und fair miteinander.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_1"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="146"></span><strong>§ 2 Wenn Parteigliederungen einen Mitgliederrat wollen</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 2 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 2 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 2 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="1"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 2 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_2"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="147"></span>Parteigliederungen sind zum Beispiel Landesverbände oder Kreisverbände.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="148"></span>• Sie schreiben einen Antragstext. Dazu brauchen sie:
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="149"></span>o einen Auszug aus dem Protokoll der Versammlung, auf der die Unterstützung <br/><span aria-hidden="true" class="lineNumber" data-line-number="150"></span>beschlossen wurde. Die Person, die das Protokoll geführt hat, unterschreibt ihn.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="151"></span>o die Adressen von zwei Vertrauenspersonen. Sie sind die Initiator*innen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="152"></span>• Es müssen mindestens ein Zehntel der Kreisverbände mitmachen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="153"></span>• Für die Zahl der Kreisverbände zählt der Stand vom 31.12. des Vorjahres. So <br/><span aria-hidden="true" class="lineNumber" data-line-number="154"></span>viele waren beim Bundesverband gemeldet.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 3 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 3 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 3 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="2"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 3 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_3"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="155"></span><strong>§ 3 Wenn Mitglieder einen Mitgliederrat wollen</strong>
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="156"></span>• Jedes Mitglied darf einen Mitgliederrat vorschlagen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="157"></span>• Dafür braucht es den Antragstext und die Adressen von zwei Vertrauenspersonen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="158"></span>• Außerdem brauchen sie Unterschriften von 5 von 100 Mitgliedern (5 Prozent). Zu <br/><span aria-hidden="true" class="lineNumber" data-line-number="159"></span>jeder Unterschrift gehören Name, Adresse und Kreisverband.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="160"></span>• Für die Rechnung zählt die Zahl der Mitglieder am 31.12. des Vorjahres.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 4 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 4 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 4 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="3"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 4 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_4"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="161"></span><strong>§ 4 Was im Antrag stehen muss</strong>
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="162"></span>• Der Antrag erklärt, worum es geht, und stellt eine konkrete Frage.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="163"></span>• Er nennt, wie viele Mitglieder der Mitgliederrat haben soll.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="164"></span>• Das Thema muss für die Gesellschaft wichtig sein. In der Partei muss es dazu <br/><span aria-hidden="true" class="lineNumber" data-line-number="165"></span>Diskussion geben.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="166"></span>• Das Thema darf nicht sein:
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="167"></span>• eine Entscheidung über Personen, zum Beispiel eine Wahl,
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="168"></span>o eine Sache, über die gerade ein Gericht oder Schiedsgericht entscheidet.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="169"></span>o eine Einzelfall-Entscheidung, die direkt eine einzelne Person betrifft.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="170"></span>• Das Thema muss klar abgegrenzt sein. Es muss mehrere mögliche Lösungen geben.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 5 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 5 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 5 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="4"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 5 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_5"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="171"></span><strong>§ 5 Was die Bundesgeschäftsstelle tun muss</strong>
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="172"></span>• Wer einen Mitgliederrat starten will, meldet das der Bundesgeschäftsstelle. <br/><span aria-hidden="true" class="lineNumber" data-line-number="173"></span>Der Antragstext und alle nötigen Unterlagen müssen dabei sein.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="174"></span>• Der*die Generalsekretär*in informiert die Mitglieder über die üblichen <br/><span aria-hidden="true" class="lineNumber" data-line-number="175"></span>Verteiler der Partei.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="176"></span>• Bei einer Unterschriftensammlung (§ 3) gilt: Die Mitglieder bekommen den <br/><span aria-hidden="true" class="lineNumber" data-line-number="177"></span>Antragstext spätestens 4 Wochen nach dem Eingang des Antrags.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="178"></span>• Wenn der Mitgliederrat erfolgreich beantragt wurde, werden die Mitglieder <br/><span aria-hidden="true" class="lineNumber" data-line-number="179"></span>innerhalb von 2 Wochen informiert. Das geschieht über die Kreisverbände. Die 2 <br/><span aria-hidden="true" class="lineNumber" data-line-number="180"></span>Wochen zählen ab dem Eingang der Unterlagen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 6 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 6 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 6 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="5"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 6 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_6"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="181"></span><strong>§ 6 Die Rahmenbedingungen</strong>
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="182"></span>• Wie oft? Es gibt höchstens einen Mitgliederrat pro Jahr. Eine Ausnahme gilt <br/><span aria-hidden="true" class="lineNumber" data-line-number="183"></span>für die Initiative nach § 29 (3) Nummer 1 der Satzung.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="184"></span>• Wann beantragen? Ein Antrag gilt nur für das laufende oder das nächste Jahr.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="185"></span>• Gleiches Thema? Ein Thema darf erst nach 3 Jahren wieder behandelt werden. <br/><span aria-hidden="true" class="lineNumber" data-line-number="186"></span>Eine Ausnahme ist möglich, wenn es sehr dringend ist oder sich die Lage stark <br/><span aria-hidden="true" class="lineNumber" data-line-number="187"></span>verändert hat. Das muss begründet werden.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="188"></span>• Abschlussbericht: Der Mitgliederrat legt ihn frühestens 3 und spätestens 6 <br/><span aria-hidden="true" class="lineNumber" data-line-number="189"></span>Monate nach der ersten Sitzung vor. Darin stehen Empfehlungen und mögliche <br/><span aria-hidden="true" class="lineNumber" data-line-number="190"></span>Anträge. Die Bundesgeschäftsstelle hilft dabei mit Personal.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="191"></span>• Sitzungen: Es gibt höchstens 6 Sitzungen. Sie finden in der Regel digital <br/><span aria-hidden="true" class="lineNumber" data-line-number="192"></span>statt.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="193"></span>• Verantwortung: Der*die Generalsekretär*in ist für den Mitgliederrat <br/><span aria-hidden="true" class="lineNumber" data-line-number="194"></span>verantwortlich.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="195"></span>• Kosten: Reise-, Hotel- und Essenskosten der Teilnehmenden zahlt der <br/><span aria-hidden="true" class="lineNumber" data-line-number="196"></span>Bundesverband. Es gilt die Kostenerstattungsordnung. Alle Kosten trägt die <br/><span aria-hidden="true" class="lineNumber" data-line-number="197"></span>Bundespartei.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 7 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 7 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 7 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="6"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 7 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_7"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="198"></span><strong>§ 7 Organisation</strong>
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="199"></span>• Der Bundesverband beauftragt in der Regel eine externe Prozessbegleitung.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="200"></span>• Die Prozessbegleitung ist zuständig für:
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="201"></span>o die Auslosung der Teilnehmenden,
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="202"></span>o die Information der ausgelosten Mitglieder,
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="203"></span>o Planung, Leitung und Durchführung der Sitzungen,
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="204"></span>• Die Sitzungen werden meist gemeinsam vorbereitet und nachbereitet. Beteiligt <br/><span aria-hidden="true" class="lineNumber" data-line-number="205"></span>sind die Prozessbegleitung, die Vorsitzenden des Mitgliederrates und der*die <br/><span aria-hidden="true" class="lineNumber" data-line-number="206"></span>Generalsekretär*in.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 8 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 8 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 8 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="7"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 8 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_8"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="207"></span><strong>§ 8 Wer sitzt im Mitgliederrat? </strong>
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="208"></span>• Die Teilnehmenden werden ausgelost. Die Teilnahme ist freiwillig.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="209"></span>• Es werden mindestens 30 und höchstens 60 Personen ausgelost.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="210"></span>• Der Mitgliederrat muss nach dem Frauenstatut besetzt werden.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="211"></span>• Die Gruppe soll möglichst die Bevölkerung abbilden. Dafür gibt es mehrere <br/><span aria-hidden="true" class="lineNumber" data-line-number="212"></span>Schritte:
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="213"></span>1. Zuerst wird eine größere Gruppe von Mitgliedern ausgelost.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="214"></span>2. Diese Gruppe wird befragt. Es geht um Merkmale nach dem Vielfaltsstatut und <br/><span aria-hidden="true" class="lineNumber" data-line-number="215"></span>um die Bereitschaft mitzumachen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="216"></span>3. Aus den Antworten wird der Mitgliederrat ausgelost.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="217"></span>• Teilnehmen darf jedes Parteimitglied. Ausgenommen sind Mitglieder, die <br/><span aria-hidden="true" class="lineNumber" data-line-number="218"></span>beruflich oder finanziell abhängig sind vom Bundesverband, von Landesverbänden <br/><span aria-hidden="true" class="lineNumber" data-line-number="219"></span>oder von einem Bundes-, Landes- oder Europaparlament.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="220"></span>• Die Kreisverbände geben dem Bundesverband die nötigen persönlichen Daten.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="221"></span>• Die Auslosung ist anonym und vertraulich. Das Justiziariat der <br/><span aria-hidden="true" class="lineNumber" data-line-number="222"></span>Bundesgeschäftsstelle beaufsichtigt sie. Man darf später nicht nachvollziehen <br/><span aria-hidden="true" class="lineNumber" data-line-number="223"></span>können, nach welchen Kriterien jemand ausgelost wurde.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 9 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 9 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 9 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="8"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 9 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_9"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="224"></span><strong>§ 9 So arbeitet der Mitgliederrat</strong>
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="225"></span>• Die Sitzungen sind für alle Parteimitglieder offen. Auch die allgemeine <br/><span aria-hidden="true" class="lineNumber" data-line-number="226"></span>Öffentlichkeit kann zugelassen werden. Mit einer Zwei-Drittel-Mehrheit kann der <br/><span aria-hidden="true" class="lineNumber" data-line-number="227"></span>Mitgliederrat die Parteimitglieder ausschließen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="228"></span>• Er ist beschlussfähig, wenn mindestens die Hälfte der Mitglieder da ist.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="229"></span>• Er wählt zwei Vorsitzende mit einfacher Mehrheit. Die beiden Ämter werden mit <br/><span aria-hidden="true" class="lineNumber" data-line-number="230"></span>mindestens einer Frau besetzt. Die Vorsitzenden bereiten die Sitzungen mit der <br/><span aria-hidden="true" class="lineNumber" data-line-number="231"></span>Prozessbegleitung und dem*der Generalsekretär*in vor und nach.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="232"></span>• Alle Mitglieder dürfen in der Sitzung reden. Die Redezeit kann begrenzt <br/><span aria-hidden="true" class="lineNumber" data-line-number="233"></span>werden, wenn die Vorsitzenden das vorschlagen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="234"></span>• Beschlüsse brauchen in der Regel eine einfache Mehrheit. Auch der <br/><span aria-hidden="true" class="lineNumber" data-line-number="235"></span>Abschlussbericht oder Antrag wird auf der BDK mit einfacher Mehrheit <br/><span aria-hidden="true" class="lineNumber" data-line-number="236"></span>beschlossen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="237"></span>• Der Mitgliederrat kann externe Gäste mit Rederecht einladen, zum Beispiel <br/><span aria-hidden="true" class="lineNumber" data-line-number="238"></span>Fachleute, BAG-Sprecher*innen oder Mandatsträger*innen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="239"></span>• Der Mitgliederrat kann eine Umfrage unter allen Mitgliedern beauftragen. Die <br/><span aria-hidden="true" class="lineNumber" data-line-number="240"></span>Fachabteilung der Bundesgeschäftsstelle erarbeitet die Fragen mit dem <br/><span aria-hidden="true" class="lineNumber" data-line-number="241"></span>Mitgliederrat und führt die Befragung durch. Die Ergebnisse fließen in die <br/><span aria-hidden="true" class="lineNumber" data-line-number="242"></span>Beratungen ein.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 10 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 10 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 10 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="9"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 10 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_10"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="243"></span><strong>§ 10 Schlussbestimmungen</strong>
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="244"></span>• Die Bundesversammlung oder der Länderrat kann die Ordnung mit einfacher <br/><span aria-hidden="true" class="lineNumber" data-line-number="245"></span>Mehrheit ändern.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="246"></span>• Die Ordnung gilt, sobald die Bundesversammlung sie am 06.12.2026 verabschiedet <br/><span aria-hidden="true" class="lineNumber" data-line-number="247"></span>hat.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 11 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 11 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 11 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="10"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 11 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div></section><section aria-labelledby="section_785_title" class="motionTextHolder sectionType1 motionTextHolder3" id="section_785"><h2 class="green" id="section_785_title">Begründung</h2><div class="paragraph" id="section_785_0"><div class="text motionTextFormattings textOrig" dir="ltr"><p>Mit der Urabstimmung 2026 wurde der Mitgliederrat als neues Gremium in die Satzung aufgenommen. Diese Mitgliederratsordnung regelt die Arbeitsweise des Mitgliederrates.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Begründung) öffnen</span> </button>
+</div>
+<form action="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="FJ9tHREB_nEIkFFL-hwen3yXwld4VI0VQ7GNTU1tfftf2AtXSzPGE1ymJhutXiyrNvWlDklmv3on6eoXewVKug=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Begründung) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Begründung) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="785"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Begründung)</span> Speichern    </button>
+</form></section>
+</div></div></section> <form class="gotoLineNumerPanel form-inline">
+<div class="form-group">
+<label class="sr-only" for="gotoLineNumber">Line number</label>
+<div class="input-group">
+<div class="input-group-addon">Gehe zu Zeile:</div>
+<input class="form-control" id="gotoLineNumber" name="lineNumber" type="number"/>
+<span class="input-group-btn">
+<button class="btn btn-default" type="submit">Los</button>
+</span>
+</div>
+</div>
+<span class="lineNumberNotFound hidden">Zeile nicht gefunden</span>
+</form>
+<section aria-labelledby="supportersTitle" class="supporters" id="supporters">
+<h2 class="green" id="supportersTitle">weitere Antragsteller*innen</h2>
+<div class="content"><br/><div class="alert alert-info" role="alert"><span aria-hidden="true" class="icon glyphicon glyphicon-exclamation-sign"></span><span class="sr-only">Fehler:</span>Nur zugelassene Gruppen können Anträge unterstützen.
+                </div></div>
+</section><section aria-labelledby="amendmentsTitle" class="amendments"><h2 class="green" id="amendmentsTitle">Änderungsanträge</h2>
+<div class="content"><div class="pull-right"><a class="btn btn-default btn-sm" href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558/amendment/create" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Änderungsantrag stellen</a></div><em>keine</em></div></section><script crossorigin="anonymous" type="module">
+    import { initComments } from '/js/modules/frontend/Comments.js';
+    document.querySelectorAll(".commentsWidget").forEach(widget => initComments(widget));
+</script>
+<nav class="motionPrevNextLinks toolbarAtBottom">
+<div class="prev">
+<a href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            Voriger Antrag        </a>
+</div>
+<div class="next">
+<a href="/52bdk/vorschlag-zur-tagesordnung-38811">
+            Nächster Antrag            <span aria-hidden="true" class="glyphicon glyphicon-chevron-right"></span>
+</a>
+</div>
+</nav>
+</main>

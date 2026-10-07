@@ -1,0 +1,1617 @@
+=== METADATEN ===
+type: motion
+motionSlug: gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571
+url: https://antraege.gruene.de/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571
+timestamp: 2026-10-07T12:42:05.726721
+=== INHALT ===
+<main class="antragsgruen-width-main well" id="mainContent"> <div class="primaryHeader"><h1>V-07: Gemeinsam statt allein. Internationale Zusammenarbeit stärken. Die internationale Zusammenarbeit ist weltweit in der Krise</h1></div><script crossorigin="anonymous" type="module">
+    import { MotionShow } from '/js/modules/frontend/MotionShow.js';
+    new MotionShow();
+</script>
+<nav class="navbar navbar-default sidebarSmall visible-sm-block visible-xs-block" id="motionSidebarSmall">
+<div class="container-fluid">
+<div class="navbar-header">
+<a class="navbar-brand" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Änderungsantrag stellen</a><button aria-expanded="false" class="navbar-toggle collapsed" data-target="#sidebarSmallContent" data-toggle="collapse" type="button">
+<span class="sr-only">Hauptmenü</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="sidebarSmallContent">
+<ul><li class="download"><a href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/pdf" target="_blank"><span aria-hidden="true" class="icon glyphicon glyphicon-download-alt"></span>PDF-Version</a></li></ul>
+</div>
+</div>
+</nav><nav class="motionPrevNextLinks toolbarBelowTitle">
+<div class="prev">
+<a href="/52bdk/innerparteiliche-teilhabe-fur-chronisch-kranke-und-hausgebundene-mitgl-20622">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            Voriger Antrag        </a>
+</div>
+<div class="next">
+<a href="/52bdk/wehrhaft-fur-den-frieden-grune-rustungspolitik-europaisch-neu-defini-38758">
+            Nächster Antrag            <span aria-hidden="true" class="glyphicon glyphicon-chevron-right"></span>
+</a>
+</div>
+</nav>
+<div class="motionData" style="min-height: 20px;"><div class="content"><div class="sr-only" id="motionDataTableDescription">Diese Tabelle beschreibt den Status, die Antragstellerin und verschiedene Rahmendaten zum Antrag</div><table aria-describedby="motionDataTableDescription" class="motionDataTable"><caption>Rahmendaten zum Antrag</caption><tr><th scope="row">Veranstaltung:</th><td><a href="/52bdk">52. Bundesdelegiertenkonferenz Berlin</a></td></tr>
+<tr><th scope="row">Tagesordnungspunkt:</th><td>V TOP 10 - Verschiedenes (1/2)</td></tr>
+<tr><th scope="row">Antragsteller*in:</th><td>BAG Globale Entwicklung <small style="font-weight: normal;">(dort beschlossen am: 28.09.2026)</small></td></tr>
+<tr class="statusRow"><th scope="row">Status:</th><td>Eingereicht</td></tr>
+<tr><th scope="row">Eingereicht:</th><td>05.10.2026, 18:29</td></tr>
+</table></div></div><section aria-labelledby="section_783_title" class="motionTextHolder sectionType1 motionTextHolder1" id="section_783"><h2 class="green" id="section_783_title">Antragstext</h2><div class="paragraph lineNumbers" id="section_783_0"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="1"></span>Mit den <strong>Nachhaltigen Entwicklungszielen der Agenda 2030 und dem Klimaabkommen <br/><span aria-hidden="true" class="lineNumber" data-line-number="2"></span>von Paris</strong> hat die internationale Staatengemeinschaft 2015 einen Aufbruch gewagt. <br/><span aria-hidden="true" class="lineNumber" data-line-number="3"></span>Ein zentrales Anliegen der Agenda 2030 ist ihre Universalität. Die <br/><span aria-hidden="true" class="lineNumber" data-line-number="4"></span>Weltgemeinschaft Sie hat sich darauf verständigt, globale Herausforderungen <br/><span aria-hidden="true" class="lineNumber" data-line-number="5"></span>gemeinsam anzugehen und eine gerechtere, nachhaltige Zukunft zu gestalten, in <br/><span aria-hidden="true" class="lineNumber" data-line-number="6"></span>der Frieden, Klimaschutz und Entwicklung eng miteinander verzahnt sind. Die <br/><span aria-hidden="true" class="lineNumber" data-line-number="7"></span>Folgen der Corona-Pandemie und des russischen Angriffskrieges gegen die Ukraine <br/><span aria-hidden="true" class="lineNumber" data-line-number="8"></span>sowie der jüngsten Kriege und Konflikte, insbesondere des Iran-Krieges, haben <br/><span aria-hidden="true" class="lineNumber" data-line-number="9"></span><strong>Armut und Hunger in vielen Ländern des Globalen Südens jedoch wieder deutlich <br/><span aria-hidden="true" class="lineNumber" data-line-number="10"></span>verstärkt</strong>. Auch bei uns werden Lebensgrundlagen bedroht, nicht zuletzt durch die <br/><span aria-hidden="true" class="lineNumber" data-line-number="11"></span>immer mehr sichtbar werdenden Folgen der sich verschärfenden globalen Klima- und <br/><span aria-hidden="true" class="lineNumber" data-line-number="12"></span>Umweltkrise.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=0" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_1"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="13"></span>In dieser Situation bräuchte es eine Stärkung der internationalen Zusammenarbeit <br/><span aria-hidden="true" class="lineNumber" data-line-number="14"></span>(IZ) im Allgemeinen, und damit auch der Entwicklungszusammenarbeit (EZ) im <br/><span aria-hidden="true" class="lineNumber" data-line-number="15"></span>Konkreten. Denn jeder Euro, den wir heute in die Entwicklungszusammenarbeit <br/><span aria-hidden="true" class="lineNumber" data-line-number="16"></span>investieren, erspart uns morgen ein Vielfaches an Nothilfe – sie ist eine <br/><span aria-hidden="true" class="lineNumber" data-line-number="17"></span>Investition in Frieden, Stabilität und eine lebenswerte Zukunft weltweit. <br/><span aria-hidden="true" class="lineNumber" data-line-number="18"></span>Stattdessen ist sie in den letzten Jahren weltweit drastisch geschwächt worden. <br/><span aria-hidden="true" class="lineNumber" data-line-number="19"></span>Die Zerschlagung von USAID im Frühjahr 2025 könnte, einer im Fachmagazin The <br/><span aria-hidden="true" class="lineNumber" data-line-number="20"></span>Lancet veröffentlichten Untersuchung zufolge, bis 2030 zu mehr als 14 Mio. <br/><span aria-hidden="true" class="lineNumber" data-line-number="21"></span>zusätzlichen Todesfällen führen. Zahlreiche Staaten – neben den USA auch <br/><span aria-hidden="true" class="lineNumber" data-line-number="22"></span>Deutschland, Großbritannien, Frankreich und Japan – kürzen ihre Mittel für <br/><span aria-hidden="true" class="lineNumber" data-line-number="23"></span>Entwicklungszusammenarbeit (Official Development Assistance, ODA). Die<strong> Krise der <br/><span aria-hidden="true" class="lineNumber" data-line-number="24"></span>IZ und des Multilateralismus </strong>wird begleitet von einer Desinformations- und <br/><span aria-hidden="true" class="lineNumber" data-line-number="25"></span>Verhetzungskampagne gegen die EZ, die zu ihrem Reputationsverlust geführt hat. <br/><span aria-hidden="true" class="lineNumber" data-line-number="26"></span>Ursache dieser Entwicklung ist u. a. auch ein politischer Rollback, der auf ein <br/><span aria-hidden="true" class="lineNumber" data-line-number="27"></span>enges Sicherheitsverständnis und kurzfristig gedachte nationale Interessen setzt <br/><span aria-hidden="true" class="lineNumber" data-line-number="28"></span>– und damit einen Widerspruch zu gemeinsamen Interessen in einer von Krisen und <br/><span aria-hidden="true" class="lineNumber" data-line-number="29"></span>Kriegen geprägten Welt konstruiert.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 2 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 2 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 2 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="1"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 2 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=1" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_2"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="30"></span>Diese Entwicklungen sind auch in Deutschland zu beobachten. <strong>Die Mittel für <br/><span aria-hidden="true" class="lineNumber" data-line-number="31"></span>Entwicklungszusammenarbeit </strong>(ODA) wurden seit 2024 deutlich gekürzt, die ODA-<br/><span aria-hidden="true" class="lineNumber" data-line-number="32"></span>Quote
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="33"></span>(ODA-Anteil am Bruttonationaleinkommen) fiel von 0,82 % 2023 auf 0,52 % 2026, <br/><span aria-hidden="true" class="lineNumber" data-line-number="34"></span>was gegenüber dem Niveau von 2022 einen <strong>Rückgang um 40 %</strong> bedeutet. Dies steht im <br/><span aria-hidden="true" class="lineNumber" data-line-number="35"></span>deutlichen Widerspruch zu allen bisherigen Zusagen der Bundesregierung – zuletzt <br/><span aria-hidden="true" class="lineNumber" data-line-number="36"></span>bei der 4. UN-Konferenz für Entwicklungsfinanzierung 2025 in Sevilla – <br/><span aria-hidden="true" class="lineNumber" data-line-number="37"></span>mindestens 0,7 % bereitzustellen. In einer Zeit, in der der Bundesregierung – <br/><span aria-hidden="true" class="lineNumber" data-line-number="38"></span>nicht zuletzt durch das Sondervermögen – mehr Geld denn je zur Verfügung steht, <br/><span aria-hidden="true" class="lineNumber" data-line-number="39"></span>sind die gebrochene 0,7-Prozent-Zusage der zugesagten ODA-Quote sowie die <br/><span aria-hidden="true" class="lineNumber" data-line-number="40"></span>überproportional starken Kürzungen im BMZ-Etat keine Frage fehlender Mittel, <br/><span aria-hidden="true" class="lineNumber" data-line-number="41"></span>sondern eine bewusste politische Entscheidung.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 3 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 3 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 3 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="2"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 3 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=2" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_3"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="42"></span>Gleichzeitig gab es im Kontext der Koalitionsverhandlungen mit der SPD den <br/><span aria-hidden="true" class="lineNumber" data-line-number="43"></span>Vorschlag der CDU/CSU, das BMZ abzuschaffen, und insgesamt eine nachlassende <br/><span aria-hidden="true" class="lineNumber" data-line-number="44"></span>Unterstützung im konservativen Lager für die EZ, begleitet von <strong>Kampagnen u.a. <br/><span aria-hidden="true" class="lineNumber" data-line-number="45"></span>von der AfD und in den sozialen Medien gegen die EZ</strong>, so z. B. die vielfach <br/><span aria-hidden="true" class="lineNumber" data-line-number="46"></span>strapazierte Kritik an deutscher Förderung von Radwegen in Peru, die Teil eines <br/><span aria-hidden="true" class="lineNumber" data-line-number="47"></span>sinnvollen Ausbaus des klimafreundlichen öffentlichen Nahverkehrs ist: Der <br/><span aria-hidden="true" class="lineNumber" data-line-number="48"></span>Verkehrssektor ist Perus größte CO₂‑Quelle, und von seiner Modernisierung <br/><span aria-hidden="true" class="lineNumber" data-line-number="49"></span>profitieren der globale Klimaschutz ebenso wie beteiligte deutsche Unternehmen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 4 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 4 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 4 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="3"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 4 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=3" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_4"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="50"></span>Außerdem ist eine stärkere Orientierung an eigenen wirtschaftlichen Interessen <br/><span aria-hidden="true" class="lineNumber" data-line-number="51"></span>zu beobachten, z. B. im 11-Punkte-Plan von BMZ und BMWE für eine größere <br/><span aria-hidden="true" class="lineNumber" data-line-number="52"></span>Beteiligung der deutschen Wirtschaft an den Projektvergaben in der finanziellen <br/><span aria-hidden="true" class="lineNumber" data-line-number="53"></span>Zusammenarbeit (FZ). Wenn BMZ und BMWE die Wirtschaft stärker einbinden wollen, <br/><span aria-hidden="true" class="lineNumber" data-line-number="54"></span>ist es wichtig, dass am Ende nicht nur große Konzerne, sondern <strong>auch <br/><span aria-hidden="true" class="lineNumber" data-line-number="55"></span>mittelständische, kleine und gemeinwohlorientierte Unternehmen</strong> sowie <br/><span aria-hidden="true" class="lineNumber" data-line-number="56"></span>zivilgesellschaftliche Organisationen eingebunden werden und der Fokus auf <br/><span aria-hidden="true" class="lineNumber" data-line-number="57"></span>menschlicher und wirtschaftlicher Entwicklung in den Partnerländern liegt. <br/><span aria-hidden="true" class="lineNumber" data-line-number="58"></span>Darüber hinaus werden entwicklungspolitische Gelder zunehmend konditionalisiert <br/><span aria-hidden="true" class="lineNumber" data-line-number="59"></span>und an Migrationsabwehr gekoppelt. Von der feministischen Außen- und <br/><span aria-hidden="true" class="lineNumber" data-line-number="60"></span>Entwicklungspolitik der Ampelregierung bleiben dagegen nur einige feministische <br/><span aria-hidden="true" class="lineNumber" data-line-number="61"></span>Ansätze beim BMZ übrig. Einige der Ergebnisse des Reformprozesses des BMZ gehen <br/><span aria-hidden="true" class="lineNumber" data-line-number="62"></span>auch auf in Teilen ungerechtfertigte Kritik zurück. Das BMZ sollte auf falsche <br/><span aria-hidden="true" class="lineNumber" data-line-number="63"></span>Aussagen selbstbewusst reagieren und nicht vor diesen einknicken. Auch in der <br/><span aria-hidden="true" class="lineNumber" data-line-number="64"></span>Vergangenheit hat die Wirtschaft durch EZ profitiert.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 5 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 5 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 5 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="4"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 5 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=4" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_5"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="65"></span>Die Kürzungen der Mittel für EZ haben gravierende Folgen – nicht nur für die <br/><span aria-hidden="true" class="lineNumber" data-line-number="66"></span>Länder des Globalen Südens, sondern auch für Deutschland. Neben dem Mehrwert, <br/><span aria-hidden="true" class="lineNumber" data-line-number="67"></span>den internationale Kooperation für gegenseitiges Lernen, Wissen und Forschung <br/><span aria-hidden="true" class="lineNumber" data-line-number="68"></span>bringt, droht Deutschland mit sinkenden Mitteln für die EZ auch an <br/><span aria-hidden="true" class="lineNumber" data-line-number="69"></span>internationaler Bedeutung und Glaubwürdigkeit zu verlieren. Das ist nicht <br/><span aria-hidden="true" class="lineNumber" data-line-number="70"></span>zuletzt angesichts der <strong>geopolitischen Konkurrenz zu diktatorischen Ländern wie <br/><span aria-hidden="true" class="lineNumber" data-line-number="71"></span>Russland und China</strong> fatal, die daran arbeiten, ihren Einfluss im Globalen Süden <br/><span aria-hidden="true" class="lineNumber" data-line-number="72"></span>auszuweiten. Es ist nicht nur eine Frage der Solidarität, sondern auch des <br/><span aria-hidden="true" class="lineNumber" data-line-number="73"></span>wohlverstandenen Eigeninteresses, die IZ mit den Ländern des Globalen Südens zu
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="74"></span>stärken und die oft gegebene Zusage wieder einzuhalten, 0,7 % des <br/><span aria-hidden="true" class="lineNumber" data-line-number="75"></span>Bruttonationaleinkommens (BNE) für die IZ bereitzustellen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 6 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 6 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 6 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="5"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 6 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=5" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_6"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><h2><span aria-hidden="true" class="lineNumber" data-line-number="76"></span><strong>Internationale Zusammenarbeit ist wichtig für <br/><span aria-hidden="true" class="lineNumber" data-line-number="77"></span>die Zukunft unseres Planeten und braucht eine <br/><span aria-hidden="true" class="lineNumber" data-line-number="78"></span>neue Art der Partnerschaft</strong></h2><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 7 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 7 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 7 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="6"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 7 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=6" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_7"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="79"></span><strong>Internationale Zusammenarbeit</strong> bedeutet, zusammen mit Partnern weltweit für <br/><span aria-hidden="true" class="lineNumber" data-line-number="80"></span>gerechte und starke Gesellschaften zu arbeiten. Sie <strong>hat enorme Fortschritte <br/><span aria-hidden="true" class="lineNumber" data-line-number="81"></span>ermöglicht</strong>: Die weltweite Kindersterblichkeit hat sich seit 2000 halbiert, die <br/><span aria-hidden="true" class="lineNumber" data-line-number="82"></span>durchschnittliche Lebenserwartung stieg in derselben Zeit von 66 auf über 73 <br/><span aria-hidden="true" class="lineNumber" data-line-number="83"></span>Jahre, bessere Gesundheitsversorgung und gestiegener Zugang zu Bildung haben das <br/><span aria-hidden="true" class="lineNumber" data-line-number="84"></span>Leben von vielen Millionen Menschen verbessert. Die IZ hat international für den <br/><span aria-hidden="true" class="lineNumber" data-line-number="85"></span>Konsens zu nachhaltigen Entwicklungszielen mobilisiert und entsprechende globale <br/><span aria-hidden="true" class="lineNumber" data-line-number="86"></span>Kooperationen und Initiativen ermöglicht.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 8 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 8 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 8 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="7"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 8 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=7" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_8"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="87"></span>Eine <strong>partnerschaftliche IZ auf der Basis gemeinsamer Interessen und Ziele</strong> ist <br/><span aria-hidden="true" class="lineNumber" data-line-number="88"></span>dabei aus mehreren Gründen wichtig. Sie ist nicht nur Ausdruck der Solidarität <br/><span aria-hidden="true" class="lineNumber" data-line-number="89"></span>mit den Armen und Ärmsten im Globalen Süden und dient dazu, Hunger und Armut zu <br/><span aria-hidden="true" class="lineNumber" data-line-number="90"></span>bekämpfen und Gesundheits- und Bildungssysteme zu stärken, sondern sie soll auch <br/><span aria-hidden="true" class="lineNumber" data-line-number="91"></span>bei der gemeinsamen Lösung globaler Herausforderungen und Probleme wie der <br/><span aria-hidden="true" class="lineNumber" data-line-number="92"></span>weltweiten Umwelt- und Klimakrise unterstützen; dazu gehört auch der Schutz <br/><span aria-hidden="true" class="lineNumber" data-line-number="93"></span>globaler öffentlicher Güter wie z. B. des Regenwalds im Amazonasgebiet. Diese <br/><span aria-hidden="true" class="lineNumber" data-line-number="94"></span>Solidarität ist auch eine Frage historischer Verantwortung: Koloniale <br/><span aria-hidden="true" class="lineNumber" data-line-number="95"></span>Machtverhältnisse wirken bis heute in Ungleichheitsverhältnissen fort, und <br/><span aria-hidden="true" class="lineNumber" data-line-number="96"></span>ausgerechnet die Länder, <strong>die am wenigsten zur Klimakrise beigetragen haben</strong>, <br/><span aria-hidden="true" class="lineNumber" data-line-number="97"></span>leiden heute am stärksten unter ihren Folgen. Deshalb muss IZ dazu beitragen, <br/><span aria-hidden="true" class="lineNumber" data-line-number="98"></span>eine Welt zu schaffen, in der alle Menschen weltweit ein menschenwürdiges Leben <br/><span aria-hidden="true" class="lineNumber" data-line-number="99"></span>führen können und die planetaren Grenzen eingehalten werden, um der drohenden <br/><span aria-hidden="true" class="lineNumber" data-line-number="100"></span>Umwelt- und Klimakatastrophe zu begegnen. Um globale Herausforderungen und <br/><span aria-hidden="true" class="lineNumber" data-line-number="101"></span>Probleme zu bewältigen, braucht es neben starken bilateralen Partnerschaften <br/><span aria-hidden="true" class="lineNumber" data-line-number="102"></span>gleichzeitig auch multilaterale Kooperationen im Rahmen von UN-Organisationen, <br/><span aria-hidden="true" class="lineNumber" data-line-number="103"></span>Weltbank, EU und anderen internationalen Institutionen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 9 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 9 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 9 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="8"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 9 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=8" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_9"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="104"></span>Eine zukunftsfähige internationale Zusammenarbeit muss deshalb auch <br/><span aria-hidden="true" class="lineNumber" data-line-number="105"></span>postkoloniale Kontinuitäten und die daraus entstandenen globalen Macht- und <br/><span aria-hidden="true" class="lineNumber" data-line-number="106"></span>Ungleichheitsverhältnisse kritisch reflektieren und überwinden. Wirtschaftliche <br/><span aria-hidden="true" class="lineNumber" data-line-number="107"></span>und politische Abhängigkeiten, ungleiche Zugänge zu Ressourcen, Wissen, <br/><span aria-hidden="true" class="lineNumber" data-line-number="108"></span>Technologie und Finanzierung sowie asymmetrische Entscheidungsstrukturen prägen <br/><span aria-hidden="true" class="lineNumber" data-line-number="109"></span>internationale Beziehungen bis heute. Eine neue Partnerschaft darf diese <br/><span aria-hidden="true" class="lineNumber" data-line-number="110"></span>Strukturen nicht reproduzieren, sondern muss zu ihrer Überwindung beitragen. <br/><span aria-hidden="true" class="lineNumber" data-line-number="111"></span>Dazu gehören insbesondere mehr Entscheidungsmacht und Ressourcen für <br/><span aria-hidden="true" class="lineNumber" data-line-number="112"></span>Akteur*innen des Globalen Südens, die Anerkennung unterschiedlicher <br/><span aria-hidden="true" class="lineNumber" data-line-number="113"></span>Wissenssysteme sowie eine gerechtere Gestaltung der internationalen Finanz-, <br/><span aria-hidden="true" class="lineNumber" data-line-number="114"></span>Handels- und Klimapolitik.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 10 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 10 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 10 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="9"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 10 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=9" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_10"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="115"></span>IZ ist darüber hinaus auch ein <strong>wichtiges Element von Soft Powe</strong>r im <br/><span aria-hidden="true" class="lineNumber" data-line-number="116"></span>geopolitischen und geoökonomischen Ringen mit autoritären und diktatorischen <br/><span aria-hidden="true" class="lineNumber" data-line-number="117"></span>Mächten wie Russland und China. IZ dient in diesem Kontext auch dazu, Sicherheit <br/><span aria-hidden="true" class="lineNumber" data-line-number="118"></span>und friedliche Konfliktbearbeitung zu unterstützen und Strategien zur Nutzung <br/><span aria-hidden="true" class="lineNumber" data-line-number="119"></span>von KI zum Wohle der Menschheit und Abwendung ihrer Gefahren zu entwickeln. In <br/><span aria-hidden="true" class="lineNumber" data-line-number="120"></span>Zeiten zunehmender Angriffe auf die regelbasierte internationale Ordnung ist die <br/><span aria-hidden="true" class="lineNumber" data-line-number="121"></span>IZ zudem ein zentrales Handlungsfeld zur <strong>Stärkung einer demokratischen, <br/><span aria-hidden="true" class="lineNumber" data-line-number="122"></span>unabhängigen Zivilgesellschaft</strong>weltweit: Schon heute leben 85% der <br/><span aria-hidden="true" class="lineNumber" data-line-number="123"></span>Weltbevölkerung in Ländern, in denen zivilgesellschaftliche Handlungsräume <br/><span aria-hidden="true" class="lineNumber" data-line-number="124"></span>eingeschränkt, unterdrückt oder ganz geschlossen sind (vgl. Atlas der <br/><span aria-hidden="true" class="lineNumber" data-line-number="125"></span>Zivilgesellschaft 2026) – dem entgegenzuwirken, muss eine zentrale Aufgabe der <br/><span aria-hidden="true" class="lineNumber" data-line-number="126"></span>IZ bleiben. Vor diesem geopolitischen Hintergrund ist eine starke Verankerung <br/><span aria-hidden="true" class="lineNumber" data-line-number="127"></span>der IZ in der EU und deren Strukturen und Werten unabdingbar.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 11 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 11 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 11 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="10"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 11 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=10" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_11"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="128"></span>Eine partnerschaftliche IZ muss das alte Geber-Nehmer-Denken der klassischen <br/><span aria-hidden="true" class="lineNumber" data-line-number="129"></span>Entwicklungszusammenarbeit überwinden und bestehende Machtasymmetrien kritisch <br/><span aria-hidden="true" class="lineNumber" data-line-number="130"></span>reflektieren und abbauen. Sie muss sich stattdessen auf gemeinsame Interessen <br/><span aria-hidden="true" class="lineNumber" data-line-number="131"></span>und Ziele, gegenseitiges Lernen und <strong>eine stärkere Entscheidungsmacht der <br/><span aria-hidden="true" class="lineNumber" data-line-number="132"></span>Partner*innen im Globalen Süden</strong> fokussieren. Über Schwerpunkte, Instrumente und <br/><span aria-hidden="true" class="lineNumber" data-line-number="133"></span>die konkrete Ausgestaltung der Zusammenarbeit muss gemeinsam entschieden werden. <br/><span aria-hidden="true" class="lineNumber" data-line-number="134"></span>Dazu gehört auch, Finanzierungs- und Entscheidungsstrukturen so <br/><span aria-hidden="true" class="lineNumber" data-line-number="135"></span>weiterzuentwickeln, dass lokale und zivilgesellschaftliche Akteur*innen im <br/><span aria-hidden="true" class="lineNumber" data-line-number="136"></span>Globalen Süden direkten Zugang zu Ressourcen erhalten und ihre Expertise und ihr <br/><span aria-hidden="true" class="lineNumber" data-line-number="137"></span>Wissen gleichberechtigt einbringen können. Alle beteiligten Staaten müssen <br/><span aria-hidden="true" class="lineNumber" data-line-number="138"></span>entsprechend ihren Möglichkeiten Verantwortung für die Umsetzung der <br/><span aria-hidden="true" class="lineNumber" data-line-number="139"></span>vereinbarten Programme und Maßnahmen übernehmen. Was die Länder des Globalen <br/><span aria-hidden="true" class="lineNumber" data-line-number="140"></span>Südens im Rahmen einer partnerschaftlichen IZ konkret beitragen können, <br/><span aria-hidden="true" class="lineNumber" data-line-number="141"></span>unterscheidet sich erheblich. Staaten wie Brasilien oder Indien verfügen über <br/><span aria-hidden="true" class="lineNumber" data-line-number="142"></span>ganz andere Möglichkeiten und Ressourcen als die armen und ärmsten Länder der <br/><span aria-hidden="true" class="lineNumber" data-line-number="143"></span>Welt (Least Developed Countries, LDCs).<br/><span aria-hidden="true" class="lineNumber" data-line-number="144"></span><br/><span aria-hidden="true" class="lineNumber" data-line-number="145"></span><strong>Internationale Zusammenarbeit ist heute wichtiger denn je. </strong>Sie schließt u.a. <br/><span aria-hidden="true" class="lineNumber" data-line-number="146"></span>auch die gemeinsame Suche nach Lösungen für die Verschuldungskrise im Globalen <br/><span aria-hidden="true" class="lineNumber" data-line-number="147"></span>Süden und die Aushandlung und Umsetzung fairer Handelsabkommen mit den Ländern <br/><span aria-hidden="true" class="lineNumber" data-line-number="148"></span>des Globalen Südens ein.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 12 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 12 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 12 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="11"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 12 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=11" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_12"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><h2><span aria-hidden="true" class="lineNumber" data-line-number="149"></span><strong>Der Weg zur neuen IZ</strong></h2><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 13 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 13 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 13 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="12"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 13 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=12" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_13"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="150"></span>Nachdem das BMZ im März 2023 seine Strategie „Feministische Entwicklungspolitik. <br/><span aria-hidden="true" class="lineNumber" data-line-number="151"></span>Für gerechte und starke Gesellschaften weltweit“ vorgestellt hat, entwickelte <br/><span aria-hidden="true" class="lineNumber" data-line-number="152"></span>sich ein Momentum, feministische Entwicklungspolitik als politische <br/><span aria-hidden="true" class="lineNumber" data-line-number="153"></span>Handlungsmaxime in der deutschen IZ und im öffentlichen Diskurs zu etablieren. <br/><span aria-hidden="true" class="lineNumber" data-line-number="154"></span>Das Ampel-Aus sowie ein politischer wie gesellschaftlicher Backlash gefährden <br/><span aria-hidden="true" class="lineNumber" data-line-number="155"></span>seitdem die Einhaltung und Verteidigung einer menschenrechtszentrierten und <br/><span aria-hidden="true" class="lineNumber" data-line-number="156"></span>wertegeleiteten IZ. Frauen und marginalisierte Gruppen wie z.B. queere Menschen <br/><span aria-hidden="true" class="lineNumber" data-line-number="157"></span>sind davon besonders betroffen. Als Partei Bündnis 90/Die Grünen bekennen wir <br/><span aria-hidden="true" class="lineNumber" data-line-number="158"></span>uns explizit zur Einhaltung und Verteidigung von Menschenrechten und achten
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="159"></span>dabei besonders auf den Schutz und die Verteidigung von Minderheiten. Dies <br/><span aria-hidden="true" class="lineNumber" data-line-number="160"></span>bedeutet auch das Eintreten für eine feministische IZ, konkret entlang der 3 <br/><span aria-hidden="true" class="lineNumber" data-line-number="161"></span>"R": gleiche Rechte, gerechter Zugang zu Ressourcen und echte politische <br/><span aria-hidden="true" class="lineNumber" data-line-number="162"></span>Repräsentanz für Frauen weltweit. Frauen und ihre Organisationen sind dabei <br/><span aria-hidden="true" class="lineNumber" data-line-number="163"></span>nicht nur Zielgruppe, sondern zentrale Akteurinnen des Wandels: ihre politische <br/><span aria-hidden="true" class="lineNumber" data-line-number="164"></span>Teilhabe und starke Frauen- und andere Menschenrechtsorganisationen vor Ort <br/><span aria-hidden="true" class="lineNumber" data-line-number="165"></span>entscheiden über sind entscheidend für den Erfolg feministischer IZ. <br/><span aria-hidden="true" class="lineNumber" data-line-number="166"></span><strong>Feministische IZ geht damit deutlich über reine Frauenförderung hinaus</strong>, denn sie <br/><span aria-hidden="true" class="lineNumber" data-line-number="167"></span>ist für alle Menschen da und setzt sich für gerechte und starke Gesellschaften <br/><span aria-hidden="true" class="lineNumber" data-line-number="168"></span>lokal wie global ein.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 14 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 14 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 14 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="13"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 14 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=13" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_14"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="169"></span>Der Weg aus der Krise zu einem neuen Verständnis der IZ als strategisch <br/><span aria-hidden="true" class="lineNumber" data-line-number="170"></span>relevanten Bereich von Regierungshandeln führt auch über den Umbau der <br/><span aria-hidden="true" class="lineNumber" data-line-number="171"></span>institutionellen Verankerung. Dafür braucht es ein BMZ, bei dem die <br/><span aria-hidden="true" class="lineNumber" data-line-number="172"></span>strategischen Kompetenzen und Kapazitäten der IZ gebündelt sind. Die <strong>Humanitäre <br/><span aria-hidden="true" class="lineNumber" data-line-number="173"></span>Hilfe</strong> gehört unbedingt mit dazu und<strong> sollte im BMZ verankert werden</strong>. Das fördert <br/><span aria-hidden="true" class="lineNumber" data-line-number="174"></span>die Integration in die IZ. Wir fordern, neben dem Budget für klassische <br/><span aria-hidden="true" class="lineNumber" data-line-number="175"></span>Entwicklungszusammenarbeit auch das Budget für Humanitäre Hilfe wieder deutlich <br/><span aria-hidden="true" class="lineNumber" data-line-number="176"></span>aufzustocken und stärker in Richtung des vorhandenen Bedarfs zu entwickeln – vor <br/><span aria-hidden="true" class="lineNumber" data-line-number="177"></span>allem angesichts der nachhaltigen Bedeutung der IZ für stabile <br/><span aria-hidden="true" class="lineNumber" data-line-number="178"></span>Lebensverhältnisse auf unserem gemeinsamen Planeten.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 15 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 15 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 15 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="14"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 15 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=14" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_15"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="179"></span>Der Konkurrenz um knappe Mittel und dem Klima des Misstrauens gegen die EZ muss
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="180"></span>das BMZ mit einem selbstbewussten Ansatz begegnen, der gleichermaßen legitime <br/><span aria-hidden="true" class="lineNumber" data-line-number="181"></span>deutsche Interessen und die Interessen der Partnerländer berücksichtigt. <br/><span aria-hidden="true" class="lineNumber" data-line-number="182"></span><strong>Erfolgreich kann nur sein, was die Partner auch wirklich selbst wollen.</strong>Dafür <br/><span aria-hidden="true" class="lineNumber" data-line-number="183"></span>muss sich das BMZ selbst viel stärker mit Institutionen der Partnerländer <br/><span aria-hidden="true" class="lineNumber" data-line-number="184"></span>verzahnen, um vor Ort gemeinsame Entscheidungen über Schwerpunkte und die Art <br/><span aria-hidden="true" class="lineNumber" data-line-number="185"></span>der Zusammenarbeit zu fällen. IZ muss sich in Zukunft stärker auf lokale <br/><span aria-hidden="true" class="lineNumber" data-line-number="186"></span>Expertise und Wissensbestände in den Partnerländern stützen. Das gilt für die <br/><span aria-hidden="true" class="lineNumber" data-line-number="187"></span>Planung ebenso wie für die Umsetzung vor Ort: Partner*innen sollten stärker <br/><span aria-hidden="true" class="lineNumber" data-line-number="188"></span>eingebunden werden, ganz nach dem Prinzip “Nothing about us without us”. Dabei <br/><span aria-hidden="true" class="lineNumber" data-line-number="189"></span>müssen auch unterschiedliche Wissenssysteme gleichberechtigt anerkannt werden. <br/><span aria-hidden="true" class="lineNumber" data-line-number="190"></span>Insbesondere das Wissen indigener und lokaler Gemeinschaften ist bei der <br/><span aria-hidden="true" class="lineNumber" data-line-number="191"></span>Gestaltung von Strategien für Klimaschutz, Biodiversität, Ernährungssicherung <br/><span aria-hidden="true" class="lineNumber" data-line-number="192"></span>und nachhaltige Entwicklung einzubeziehen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 16 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 16 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 16 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="15"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 16 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=15" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_16"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="193"></span>Damit die IZ ihre öffentliche Unterstützung nicht verliert, muss sie nicht nur <br/><span aria-hidden="true" class="lineNumber" data-line-number="194"></span>neue Kommunikationsstrategien entwickeln, um den Mehrwert der IZ besser zu <br/><span aria-hidden="true" class="lineNumber" data-line-number="195"></span>erklären, sondern vor allem die <strong>Wirksamkeit</strong> der Maßnahmen in den Mittelpunkt <br/><span aria-hidden="true" class="lineNumber" data-line-number="196"></span>allen Handelns stellen. Weg von Lippenbekenntnissen und ganz nach dem <br/><span aria-hidden="true" class="lineNumber" data-line-number="197"></span>norwegischen Modell “Fakta har makta” (Fakten haben Macht) schaffen wir es so, <br/><span aria-hidden="true" class="lineNumber" data-line-number="198"></span>hin zu echter Veränderung! Das BMZ benötigt dazu Programmplanung und -steuerung, <br/><span aria-hidden="true" class="lineNumber" data-line-number="199"></span>die flexibler reagieren, evidenzbasiert sind und eine echte Lernkultur <br/><span aria-hidden="true" class="lineNumber" data-line-number="200"></span>etablieren. Das BMZ muss dabei der Versuchung widerstehen, Dinge schönzureden. <br/><span aria-hidden="true" class="lineNumber" data-line-number="201"></span>Zugleich muss es Desinformationskampagnen entschieden entgegentreten und die <br/><span aria-hidden="true" class="lineNumber" data-line-number="202"></span>öffentliche Debatte offensiv mitgestalten. Dazu braucht es <br/><span aria-hidden="true" class="lineNumber" data-line-number="203"></span><strong>Kommunikationsstrategien</strong>, die überzeugend vermitteln, warum internationale <br/><span aria-hidden="true" class="lineNumber" data-line-number="204"></span>Zusammenarbeit im Interesse der Bürger*innen liegt. Erste Ansätze können sein, <br/><span aria-hidden="true" class="lineNumber" data-line-number="205"></span>deutsche Interessen im Hinblick auf globale Probleme herauszustellen (“globale <br/><span aria-hidden="true" class="lineNumber" data-line-number="206"></span>Probleme sind nur gemeinsam lösbar”), den Mehrwert internationaler <br/><span aria-hidden="true" class="lineNumber" data-line-number="207"></span>Zusammenarbeit für Deutschland zu betonen (“es nützt auch uns, wenn wir andere <br/><span aria-hidden="true" class="lineNumber" data-line-number="208"></span>unterstützen”) und Deutschlands Platz in der Welt zu unterstreichen (“wir <br/><span aria-hidden="true" class="lineNumber" data-line-number="209"></span>übernehmen Verantwortung in der Welt”). Um negativen Erzählungen über die IZ und <br/><span aria-hidden="true" class="lineNumber" data-line-number="210"></span>das dominante Narrativ des “Helfens anderswo” entgegenzutreten, plädieren wir <br/><span aria-hidden="true" class="lineNumber" data-line-number="211"></span>dafür, in ein neues und vertieftes öffentliches Verständnis von und für IZ zu <br/><span aria-hidden="true" class="lineNumber" data-line-number="212"></span>investieren.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 17 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 17 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 17 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="16"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 17 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=16" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_17"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="213"></span>Die staatliche deutsche IZ steht nicht allein da. Es gibt eine breite deutsche <br/><span aria-hidden="true" class="lineNumber" data-line-number="214"></span><strong>Zivilgesellschaft</strong>, die sich engagiert. Dieses Engagement kann vom BMZ besser <br/><span aria-hidden="true" class="lineNumber" data-line-number="215"></span>genutzt werden, indem Förderansätze strategischer verzahnt werden. Die <br/><span aria-hidden="true" class="lineNumber" data-line-number="216"></span>Organisationen der Zivilgesellschaft sind die besten Multiplikatoren für die <br/><span aria-hidden="true" class="lineNumber" data-line-number="217"></span>Anliegen der IZ. Ihre Förderung ist wichtiger Bestandteil der bilateralen IZ- <br/><span aria-hidden="true" class="lineNumber" data-line-number="218"></span>Strategie.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 18 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 18 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 18 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="17"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 18 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=17" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_18"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="219"></span>Neben der bilateralen Zusammenarbeit spielt Deutschland eine wichtige Rolle in <br/><span aria-hidden="true" class="lineNumber" data-line-number="220"></span>der <strong>multilateralen Zusammenarbeit</strong>. Die eigene Sichtbarkeit ist dort geringer, <br/><span aria-hidden="true" class="lineNumber" data-line-number="221"></span>die Wirkungen sind aber oft umfassender und stärker, weil die Programme größer <br/><span aria-hidden="true" class="lineNumber" data-line-number="222"></span>dimensioniert sind und Ressourcen bündeln. Aufgabe des BMZ ist es unter anderem, <br/><span aria-hidden="true" class="lineNumber" data-line-number="223"></span>auf der multilateralen Ebene Gestaltungseinfluss zu gewinnen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 19 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 19 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 19 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="18"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 19 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=18" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_19"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="224"></span><span class="underline"><strong>Unsere Vorschläge und Forderungen:</strong></span></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 20 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 20 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 20 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="19"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 20 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=19" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_20"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="225"></span><strong>Erhöhung der Mittel für die IZ</strong>: Rückkehr zur Einhaltung der 0,7%-ODA-Quote <br/><span aria-hidden="true" class="lineNumber" data-line-number="226"></span>(inkl. einer Quote von 0,15 % des Bruttonationaleinkommens für die Least <br/><span aria-hidden="true" class="lineNumber" data-line-number="227"></span>Developed Countries), dabei Erhöhung der Mittel sowohl für die klassische <br/><span aria-hidden="true" class="lineNumber" data-line-number="228"></span>EZ als auch für die humanitäre Hilfe, darüber hinaus auch mehr Mittel für <br/><span aria-hidden="true" class="lineNumber" data-line-number="229"></span>IZ jenseits von ODA.</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 21 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 21 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 21 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="20"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 21 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=20" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_21"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="230"></span><strong>Weiterentwicklung der Partnerschaften mit dem Globalen Süden</strong>: Gemeinsame <br/><span aria-hidden="true" class="lineNumber" data-line-number="231"></span>Entscheidung über Schwerpunkte und Art der Zusammenarbeit, <br/><span aria-hidden="true" class="lineNumber" data-line-number="232"></span>gemeinschaftliche Planung und gegenseitiges Lernen sowie stärkere <br/><span aria-hidden="true" class="lineNumber" data-line-number="233"></span>Zielgruppenorientierung, stärkeres Einbinden der Interessen der Partner, <br/><span aria-hidden="true" class="lineNumber" data-line-number="234"></span>mehr lokale Führungskräfte.</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 22 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 22 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 22 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="21"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 22 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=21" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_22"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="235"></span><strong>Gerechte globale Finanz-, Handels- und Wissensordnung</strong>: Die internationale <br/><span aria-hidden="true" class="lineNumber" data-line-number="236"></span>Zusammenarbeit muss zu einer gerechteren Gestaltung der globalen Finanz-, <br/><span aria-hidden="true" class="lineNumber" data-line-number="237"></span>Handels- und Wissensordnung beitragen. Dazu gehören faire und transparente <br/><span aria-hidden="true" class="lineNumber" data-line-number="238"></span>Verfahren zur Bewältigung von Überschuldung, mehr Mitsprache der Länder <br/><span aria-hidden="true" class="lineNumber" data-line-number="239"></span>des Globalen Südens in internationalen Finanzinstitutionen, eine <br/><span aria-hidden="true" class="lineNumber" data-line-number="240"></span>gerechtere Gestaltung internationaler Handelsbeziehungen sowie ein <br/><span aria-hidden="true" class="lineNumber" data-line-number="241"></span>verbesserter Zugang zu Wissen und Technologien. Ziel muss es sein, <br/><span aria-hidden="true" class="lineNumber" data-line-number="242"></span>wirtschaftliche Abhängigkeiten abzubauen und den Ländern des Globalen <br/><span aria-hidden="true" class="lineNumber" data-line-number="243"></span>Südens größere Möglichkeiten für eigene Wertschöpfung und nachhaltige <br/><span aria-hidden="true" class="lineNumber" data-line-number="244"></span>Entwicklung zu eröffnen.</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 23 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 23 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 23 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="22"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 23 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=22" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_23"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="245"></span><strong>Erhöhung der Wirksamkeit</strong>: Bessere Nutzung der bestehenden Evidenz und <br/><span aria-hidden="true" class="lineNumber" data-line-number="246"></span>Etablierung einer echten Lernkultur, übergeordnete Ziele benennen, <br/><span aria-hidden="true" class="lineNumber" data-line-number="247"></span>flexible Programmplanung und -steuerung, mehr größere Programme statt <br/><span aria-hidden="true" class="lineNumber" data-line-number="248"></span>vieler kleinteiliger Projekte.</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 24 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 24 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 24 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="23"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 24 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=23" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_24"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="249"></span><strong>Verbesserung der Kommunikation in Deutschland</strong>: Mehr Mut und <br/><span aria-hidden="true" class="lineNumber" data-line-number="250"></span>Selbstbewusstsein aufgrund von guter und strategisch wichtiger Arbeit, <br/><span aria-hidden="true" class="lineNumber" data-line-number="251"></span>Erhöhung der Ressourcen des BMZ und anderer Ministerien für Kommunikation <br/><span aria-hidden="true" class="lineNumber" data-line-number="252"></span>in Deutschland, um die Wichtigkeit der IZ gegenüber den Bürger*innen <br/><span aria-hidden="true" class="lineNumber" data-line-number="253"></span>besser kommunizieren zu können.</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 25 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 25 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 25 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="24"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 25 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=24" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_25"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="254"></span><strong>Stärkung der institutionellen Grundlagen:</strong> Ein eigenständiges, <br/><span aria-hidden="true" class="lineNumber" data-line-number="255"></span>handlungsfähiges BMZ mit gebündelten strategischen Kompetenzen, inklusive <br/><span aria-hidden="true" class="lineNumber" data-line-number="256"></span>Verankerung der Humanitären Hilfe und verstärkter Integration in <br/><span aria-hidden="true" class="lineNumber" data-line-number="257"></span>europäische Strukturen.</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 26 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 26 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 26 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="25"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 26 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=25" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_26"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="258"></span><strong>Stärkung des Multilateralismus und des UN-Systems</strong>: Deutschland muss sich <br/><span aria-hidden="true" class="lineNumber" data-line-number="259"></span>für ein starkes, handlungsfähiges und demokratisch legitimiertes <br/><span aria-hidden="true" class="lineNumber" data-line-number="260"></span>multilaterales System einsetzen. Die Vereinten Nationen und ihre <br/><span aria-hidden="true" class="lineNumber" data-line-number="261"></span>Institutionen müssen finanziell und politisch gestärkt und die Mitsprache <br/><span aria-hidden="true" class="lineNumber" data-line-number="262"></span>und Repräsentation der Länder des Globalen Südens in internationalen <br/><span aria-hidden="true" class="lineNumber" data-line-number="263"></span>Entscheidungsstrukturen verbessert werden. Globale Herausforderungen wie <br/><span aria-hidden="true" class="lineNumber" data-line-number="264"></span>Armut, Klimakrise, Verschuldung, Frieden und Sicherheit können nur durch <br/><span aria-hidden="true" class="lineNumber" data-line-number="265"></span>verbindliche multilaterale Zusammenarbeit bearbeitet werden.</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 27 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 27 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 27 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="26"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 27 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=26" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_27"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><span aria-hidden="true" class="lineNumber" data-line-number="266"></span><strong>Verteidigung von Zivilgesellschaft und feministischer IZ:</strong> Schutz und <br/><span aria-hidden="true" class="lineNumber" data-line-number="267"></span>Stärkung
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="268"></span>demokratischer, unabhängiger Zivilgesellschaft sowie von <br/><span aria-hidden="true" class="lineNumber" data-line-number="269"></span>Menschenrechtsorganisationen als zentrale Partnerinnen, klares Bekenntnis <br/><span aria-hidden="true" class="lineNumber" data-line-number="270"></span>zu feministischer IZ, insbesondere entlang der 3 R.</li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 28 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 28 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 28 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="27"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 28 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create?sectionId=783&amp;paragraphNo=27" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div></section><section aria-labelledby="section_784_title" class="motionTextHolder sectionType1 motionTextHolder2" id="section_784"><h2 class="green" id="section_784_title">Einfache Sprache</h2><div class="paragraph lineNumbers" id="section_784_0"><div class="text motionTextFormattings textOrig" dir="ltr"><h2><span aria-hidden="true" class="lineNumber" data-line-number="271"></span><strong>Zusammen statt allein - </strong><strong>Wir brauchen mehr <br/><span aria-hidden="true" class="lineNumber" data-line-number="272"></span>Zusammenarbeit zwischen den Ländern</strong></h2><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_1"><div class="text motionTextFormattings textOrig" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="273"></span><strong><span class="underline">Die Welt hat große Probleme</span></strong></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 2 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 2 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 2 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="1"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 2 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_2"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="274"></span>2015 haben fast alle Länder der Welt beschlossen: Wir wollen gemeinsam etwas <br/><span aria-hidden="true" class="lineNumber" data-line-number="275"></span>gegen Armut, Hunger und den Klimawandel tun. Dafür gibt es die Nachhaltigen <br/><span aria-hidden="true" class="lineNumber" data-line-number="276"></span>Entwicklungsziele (das sind Ziele für eine bessere Welt bis 2030) und das <br/><span aria-hidden="true" class="lineNumber" data-line-number="277"></span>Klimaabkommen von Paris (ein Vertrag, um das Klima zu schützen).</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 3 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 3 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 3 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="2"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 3 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_3"><div class="text motionTextFormattings textOrig" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="278"></span><strong><span class="underline">Aber jetzt gibt es viele neue Probleme:</span></strong></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 4 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 4 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 4 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="3"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 4 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_4"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="279"></span>Die Corona-Pandemie (die weltweite Krankheit)</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 5 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 5 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 5 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="4"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 5 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_5"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="280"></span>Der Krieg in der Ukraine (Russland greift die Ukraine an)</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 6 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 6 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 6 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="5"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 6 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_6"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="281"></span>Andere Kriege, zum Beispiel im Iran</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 7 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 7 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 7 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="6"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 7 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_7"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="282"></span>Die Klimakrise (das Wetter verändert sich, es wird heißer, es gibt mehr Stürme)</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 8 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 8 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 8 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="7"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 8 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_8"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="283"></span>Durch diese Probleme gibt es wieder mehr Armut und Hunger – besonders in ärmeren <br/><span aria-hidden="true" class="lineNumber" data-line-number="284"></span>Ländern. Auch bei uns in Deutschland merken wir: Das Leben wird schwieriger, <br/><span aria-hidden="true" class="lineNumber" data-line-number="285"></span>weil das Klima sich verändert.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 9 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 9 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 9 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="8"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 9 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_9"><div class="text motionTextFormattings textOrig" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="286"></span><strong><span class="underline">Warum ist Zusammenarbeit wichtig?</span></strong></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 10 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 10 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 10 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="9"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 10 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_10"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="287"></span>Wenn Länder zusammenarbeiten, können sie viel erreichen. Zum Beispiel:</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 11 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 11 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 11 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="10"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 11 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_11"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="288"></span>Weniger Kinder sterben.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 12 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 12 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 12 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="11"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 12 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_12"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="289"></span>Die Menschen werden älter.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 13 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 13 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 13 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="12"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 13 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_13"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="290"></span>Es gibt bessere Ärzte und Schulen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 14 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 14 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 14 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="13"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 14 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_14"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="291"></span>Die Umwelt wird geschützt.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 15 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 15 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 15 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="14"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 15 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_15"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="292"></span>Jeder Euro, den wir in diese Zusammenarbeit stecken, hilft später, größere <br/><span aria-hidden="true" class="lineNumber" data-line-number="293"></span>Probleme zu vermeiden. Es ist wie eine Versicherung: Wenn wir jetzt helfen, <br/><span aria-hidden="true" class="lineNumber" data-line-number="294"></span>sparen wir später Geld und Leid.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 16 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 16 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 16 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="15"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 16 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_16"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="295"></span>Aber: Viele Länder geben weniger Geld für diese Zusammenarbeit aus. Zum <br/><span aria-hidden="true" class="lineNumber" data-line-number="296"></span>Beispiel:</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 17 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 17 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 17 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="16"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 17 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_17"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="297"></span>Die USA haben ihre Hilfsorganisation USAID fast abgeschafft. Dadurch könnten bis <br/><span aria-hidden="true" class="lineNumber" data-line-number="298"></span>2030 14 Millionen Menschen mehr sterben.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 18 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 18 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 18 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="17"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 18 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_18"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="299"></span>Auch Deutschland, Großbritannien, Frankreich und Japan geben weniger Geld.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 19 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 19 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 19 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="18"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 19 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_19"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="300"></span>Was passiert in Deutschland?</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 20 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 20 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 20 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="19"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 20 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_20"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="301"></span>Deutschland hat versprochen: Wir geben 0,7 % von unserem Geld für die <br/><span aria-hidden="true" class="lineNumber" data-line-number="302"></span>Zusammenarbeit mit ärmeren Ländern aus. Das nennt man ODA-Quote.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 21 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 21 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 21 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="20"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 21 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_21"><div class="text motionTextFormattings textOrig" dir="ltr"><h4><span aria-hidden="true" class="lineNumber" data-line-number="303"></span><strong><span class="underline">Aber:</span></strong></h4><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 22 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 22 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 22 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="21"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 22 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_22"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="304"></span>2023 waren es noch 0,82 %.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 23 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 23 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 23 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="22"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 23 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_23"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="305"></span>2026 sind es nur noch 0,52 %. Das ist 40 % weniger als 2022.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 24 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 24 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 24 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="23"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 24 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_24"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="306"></span>Die Regierung hat also weniger Geld für diese wichtige Arbeit gegeben – obwohl <br/><span aria-hidden="true" class="lineNumber" data-line-number="307"></span>Deutschland eigentlich genug Geld hat.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 25 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 25 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 25 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="24"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 25 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_25"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="308"></span>Gleichzeitig gibt es Kritik an der Zusammenarbeit. Einige Leute sagen: „Warum <br/><span aria-hidden="true" class="lineNumber" data-line-number="309"></span>geben wir Geld für Radwege in Peru aus?“ Aber:</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 26 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 26 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 26 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="25"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 26 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_26"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="310"></span>In Peru fahren viele Autos, die viel schmutzige Luft machen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 27 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 27 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 27 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="26"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 27 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_27"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="311"></span>Radwege helfen, das Klima zu schützen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 28 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 28 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 28 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="27"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 28 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_28"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="312"></span>Auch deutsche Firmen profitieren davon.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 29 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 29 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 29 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="28"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 29 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_29"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="313"></span>Warum ist die Zusammenarbeit gut für uns?</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 30 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 30 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 30 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="29"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 30 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_30"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="314"></span>Solidarität Wir helfen Menschen in Not – das ist fair. Viele arme Länder haben <br/><span aria-hidden="true" class="lineNumber" data-line-number="315"></span>am wenigsten zum Klimawandel beigetragen, leiden aber am meisten darunter.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 31 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 31 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 31 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="30"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 31 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_31"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="316"></span>Sicherheit Wenn Länder stabil sind, gibt es weniger Kriege und Flucht.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 32 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 32 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 32 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="31"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 32 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_32"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="317"></span>Wirtschaft Wenn andere Länder stärker werden, können sie mehr mit uns handeln. <br/><span aria-hidden="true" class="lineNumber" data-line-number="318"></span>Das ist gut für deutsche Firmen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 33 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 33 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 33 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="32"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 33 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_33"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="319"></span>Einfluss in der Welt Länder wie Russland und China wollen mehr Macht. Wenn wir <br/><span aria-hidden="true" class="lineNumber" data-line-number="320"></span>nicht helfen, verlieren wir Freunde und Einfluss.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 34 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 34 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 34 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="33"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 34 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_34"><div class="text motionTextFormattings textOrig" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="321"></span><strong><span class="underline">Was muss sich ändern?</span></strong></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 35 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 35 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 35 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="34"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 35 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_35"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="322"></span>Die Zusammenarbeit muss fairer werden. Bisher bestimmen oft die reichen Länder, <br/><span aria-hidden="true" class="lineNumber" data-line-number="323"></span>was passiert. Das muss anders sein:</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 36 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 36 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 36 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="35"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 36 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_36"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="324"></span>Die ärmeren Länder sollen mehr mitbestimmen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 37 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 37 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 37 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="36"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 37 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_37"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="325"></span>Wir müssen zuhören, was die Menschen vor Ort brauchen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 38 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 38 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 38 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="37"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 38 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_38"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="326"></span>Wir müssen lernen, dass es verschiedene Arten von Wissen gibt. Zum Beispiel: <br/><span aria-hidden="true" class="lineNumber" data-line-number="327"></span>Indigene Völker (Ureinwohner*innen) wissen oft am besten, wie man die Natur <br/><span aria-hidden="true" class="lineNumber" data-line-number="328"></span>schützt.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 39 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 39 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 39 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="38"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 39 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_39"><div class="text motionTextFormattings textOrig" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="329"></span><strong><span class="underline">Unsere Forderungen</span></strong></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 40 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 40 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 40 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="39"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 40 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_40"><div class="text motionTextFormattings textOrig" dir="ltr"><h3><span aria-hidden="true" class="lineNumber" data-line-number="330"></span><strong><span class="underline">Wir von Bündnis 90/Die Grünen fordern:</span></strong></h3><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 41 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 41 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 41 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="40"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 41 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_41"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="331"></span>✅ Mehr Geld für die Zusammenarbeit:</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 42 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 42 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 42 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="41"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 42 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_42"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="332"></span>Deutschland soll wieder 0,7 % seines Geldes dafür ausgeben.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 43 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 43 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 43 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="42"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 43 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_43"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="333"></span>Besonders arme Länder (die Least Developed Countries) brauchen mehr Hilfe.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 44 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 44 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 44 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="43"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 44 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_44"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="334"></span>✅ Bessere Partnerschaften</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 45 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 45 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 45 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="44"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 45 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_45"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="335"></span>Die ärmeren Länder sollen mitentscheiden, wie die Hilfe aussieht.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 46 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 46 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 46 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="45"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 46 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_46"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="336"></span>Es soll mehr lokale Expert*innen (Menschen aus dem Land) geben, die die Projekte <br/><span aria-hidden="true" class="lineNumber" data-line-number="337"></span>leiten.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 47 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 47 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 47 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="46"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 47 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_47"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="338"></span>✅ Gerechtere Regeln für die Welt</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 48 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 48 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 48 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="47"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 48 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_48"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="339"></span>Arme Länder sollen mehr mitreden können – zum Beispiel bei der Weltbank oder der <br/><span aria-hidden="true" class="lineNumber" data-line-number="340"></span>UNO.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 49 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 49 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 49 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="48"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 49 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_49"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="341"></span>Es soll faire Handelsabkommen geben.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 50 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 50 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 50 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="49"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 50 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_50"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="342"></span>Schulden von armen Ländern sollen erlassen werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 51 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 51 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 51 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="50"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 51 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_51"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="343"></span>✅ Mehr Wirkung</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 52 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 52 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 52 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="51"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 52 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_52"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="344"></span>Die Projekte sollen besser geplant werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 53 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 53 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 53 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="52"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 53 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_53"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="345"></span>Es soll weniger kleine Projekte geben, sondern mehr große, die wirklich etwas <br/><span aria-hidden="true" class="lineNumber" data-line-number="346"></span>verändern.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 54 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 54 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 54 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="53"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 54 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_54"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="347"></span>✅ Bessere Information für die Menschen in Deutschland</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 55 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 55 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 55 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="54"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 55 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_55"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="348"></span>Die Regierung soll erklären, warum die Zusammenarbeit wichtig ist.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 56 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 56 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 56 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="55"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 56 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_56"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="349"></span>Sie soll zeigen, dass sie auch Deutschland nützt.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 57 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 57 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 57 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="56"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 57 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_57"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="350"></span>✅ Starkes Ministerium für Zusammenarbeit</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 58 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 58 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 58 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="57"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 58 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_58"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="351"></span>Das Bundesministerium für wirtschaftliche Zusammenarbeit (BMZ) soll mehr Macht <br/><span aria-hidden="true" class="lineNumber" data-line-number="352"></span>und Geld bekommen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 59 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 59 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 59 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="58"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 59 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_59"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="353"></span>Die Humanitäre Hilfe (Hilfe in Katastrophen) soll auch zum BMZ gehören.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 60 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 60 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 60 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="59"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 60 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_60"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="354"></span>✅ Schutz für die Zivilgesellschaft</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 61 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 61 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 61 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="60"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 61 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_61"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="355"></span>Menschenrechtsorganisationen und Frauenrechte müssen gestärkt werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 62 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 62 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 62 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="61"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 62 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_62"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="356"></span>Die Zusammenarbeit soll feministisch sein: Das heißt, Frauen und benachteiligte <br/><span aria-hidden="true" class="lineNumber" data-line-number="357"></span>Gruppen sollen gleichberechtigt sein.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 63 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 63 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 63 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="62"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 63 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_63"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="358"></span>Zusammenfassung: Die Zusammenarbeit zwischen den Ländern ist wichtig – für <br/><span aria-hidden="true" class="lineNumber" data-line-number="359"></span>Frieden, für das Klima und für eine gerechte Welt. Aber sie hat Probleme:</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 64 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 64 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 64 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="63"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 64 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_64"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="360"></span>Es gibt weniger Geld.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 65 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 65 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 65 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="64"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 65 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_65"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="361"></span>Die reichen Länder bestimmen zu viel.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 66 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 66 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 66 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="65"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 66 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_66"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="362"></span>Viele Menschen verstehen nicht, warum sie wichtig ist.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 67 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 67 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 67 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="66"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 67 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_67"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="363"></span>Wir fordern: Mehr Geld, mehr Mitbestimmung für arme Länder, und bessere <br/><span aria-hidden="true" class="lineNumber" data-line-number="364"></span>Informationen für alle.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 68 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="EIwDUI2MdsfyjIEVYU2xiQR2gnu3GQmhlF4G2IrP2ylKwFw6-OYvqMr1y3wFf5zLUBO0DY9MeeLDJGSdzLezag=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 68 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 68 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="67"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 68 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div></section> <form class="gotoLineNumerPanel form-inline">
+<div class="form-group">
+<label class="sr-only" for="gotoLineNumber">Line number</label>
+<div class="input-group">
+<div class="input-group-addon">Gehe zu Zeile:</div>
+<input class="form-control" id="gotoLineNumber" name="lineNumber" type="number"/>
+<span class="input-group-btn">
+<button class="btn btn-default" type="submit">Los</button>
+</span>
+</div>
+</div>
+<span class="lineNumberNotFound hidden">Zeile nicht gefunden</span>
+</form>
+<section aria-labelledby="supportersTitle" class="supporters" id="supporters">
+<h2 class="green" id="supportersTitle">weitere Antragsteller*innen</h2>
+<div class="content"><br/><div class="alert alert-info" role="alert"><span aria-hidden="true" class="icon glyphicon glyphicon-exclamation-sign"></span><span class="sr-only">Fehler:</span>Nur zugelassene Gruppen können Anträge unterstützen.
+                </div></div>
+</section><section aria-labelledby="amendmentsTitle" class="amendments"><h2 class="green" id="amendmentsTitle">Änderungsanträge</h2>
+<div class="content"><div class="pull-right"><a class="btn btn-default btn-sm" href="/52bdk/gemeinsam-statt-allein-internationale-zusammenarbeit-starken-die-int-57571/amendment/create" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Änderungsantrag stellen</a></div><em>keine</em></div></section><script crossorigin="anonymous" type="module">
+    import { initComments } from '/js/modules/frontend/Comments.js';
+    document.querySelectorAll(".commentsWidget").forEach(widget => initComments(widget));
+</script>
+<nav class="motionPrevNextLinks toolbarAtBottom">
+<div class="prev">
+<a href="/52bdk/innerparteiliche-teilhabe-fur-chronisch-kranke-und-hausgebundene-mitgl-20622">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            Voriger Antrag        </a>
+</div>
+<div class="next">
+<a href="/52bdk/wehrhaft-fur-den-frieden-grune-rustungspolitik-europaisch-neu-defini-38758">
+            Nächster Antrag            <span aria-hidden="true" class="glyphicon glyphicon-chevron-right"></span>
+</a>
+</div>
+</nav>
+</main>

@@ -1,0 +1,652 @@
+=== METADATEN ===
+type: motion
+motionSlug: frieden-in-den-lehrplan-10685
+url: https://antraege.gruene.de/52bdk/frieden-in-den-lehrplan-10685
+timestamp: 2026-10-07T12:42:06.585360
+=== INHALT ===
+<main class="antragsgruen-width-main well" id="mainContent"> <div class="primaryHeader"><h1>V-11: Frieden in den Lehrplan!</h1></div><script crossorigin="anonymous" type="module">
+    import { MotionShow } from '/js/modules/frontend/MotionShow.js';
+    new MotionShow();
+</script>
+<nav class="navbar navbar-default sidebarSmall visible-sm-block visible-xs-block" id="motionSidebarSmall">
+<div class="container-fluid">
+<div class="navbar-header">
+<a class="navbar-brand" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Änderungsantrag stellen</a><button aria-expanded="false" class="navbar-toggle collapsed" data-target="#sidebarSmallContent" data-toggle="collapse" type="button">
+<span class="sr-only">Hauptmenü</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="sidebarSmallContent">
+<ul><li class="download"><a href="/52bdk/frieden-in-den-lehrplan-10685/pdf" target="_blank"><span aria-hidden="true" class="icon glyphicon glyphicon-download-alt"></span>PDF-Version</a></li></ul>
+</div>
+</div>
+</nav><nav class="motionPrevNextLinks toolbarBelowTitle">
+<div class="prev">
+<a href="/52bdk/das-gelbe-heft-weiterdenken-kindergesundheit-starken-und-pravention-f-43896">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            Voriger Antrag        </a>
+</div>
+<div class="next">
+<a href="/52bdk/fur-die-ubergewinnsteuer-37086">
+            Nächster Antrag            <span aria-hidden="true" class="glyphicon glyphicon-chevron-right"></span>
+</a>
+</div>
+</nav>
+<div class="motionData" style="min-height: 20px;"><div class="content"><div class="sr-only" id="motionDataTableDescription">Diese Tabelle beschreibt den Status, die Antragstellerin und verschiedene Rahmendaten zum Antrag</div><table aria-describedby="motionDataTableDescription" class="motionDataTable"><caption>Rahmendaten zum Antrag</caption><tr><th scope="row">Veranstaltung:</th><td><a href="/52bdk">52. Bundesdelegiertenkonferenz Berlin</a></td></tr>
+<tr><th scope="row">Tagesordnungspunkt:</th><td>V TOP 10 - Verschiedenes (1/2)</td></tr>
+<tr><th scope="row">Antragsteller*in:</th><td>Thomas Mohr <small style="font-weight: normal;">(KV München)</small><div class="moreSupporters"><a href="#supporters">und 94 weitere Antragsteller*innen</a> <span class="womenQuota">(Frauenanteil: 48%)</span></div></td></tr>
+<tr class="statusRow"><th scope="row">Status:</th><td>Eingereicht</td></tr>
+<tr><th scope="row">Eingereicht:</th><td>06.10.2026, 20:49</td></tr>
+</table></div></div><section aria-labelledby="section_783_title" class="motionTextHolder sectionType1 motionTextHolder1" id="section_783"><h2 class="green" id="section_783_title">Antragstext</h2><div class="paragraph lineNumbers" id="section_783_0"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="1"></span>Die aktuellen Kriege betreffen junge Menschen in besonderer Weise: Sie sollen <br/><span aria-hidden="true" class="lineNumber" data-line-number="2"></span>Wehrdienst leisten. Die riesigen Schulden für Aufrüstung gehen zulasten der <br/><span aria-hidden="true" class="lineNumber" data-line-number="3"></span>Investitionen in ihre Zukunft, zum Beispiel in Bildung und Klimaschutz. Und auch <br/><span aria-hidden="true" class="lineNumber" data-line-number="4"></span>im Schulalltag spiegeln sich internationale Konflikte wie in der Ukraine oder in <br/><span aria-hidden="true" class="lineNumber" data-line-number="5"></span>Nahost längst wider.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=0" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_1"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="6"></span>Junge Menschen haben ein Recht auf Mitsprache. Um dieses Recht gut informiert <br/><span aria-hidden="true" class="lineNumber" data-line-number="7"></span>ausüben zu können und eine friedliche Zukunft aktiv mitzugestalten, brauchen sie <br/><span aria-hidden="true" class="lineNumber" data-line-number="8"></span>die Chance, sich differenziert mit den Themen Krieg und Frieden <br/><span aria-hidden="true" class="lineNumber" data-line-number="9"></span>auseinanderzusetzen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 2 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 2 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 2 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="1"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 2 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=1" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_2"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="10"></span><strong>WIR FORDERN:</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 3 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 3 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 3 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="2"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 3 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=2" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_3"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="11"></span><strong>1. Strukturelle Verankerung der Friedensbildung fördern</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 4 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 4 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 4 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="3"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 4 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=3" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_4"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="12"></span>Die <strong>Bildungsministerkonferenz</strong> soll Friedensbildung als Querschnittsaufgabe in <br/><span aria-hidden="true" class="lineNumber" data-line-number="13"></span>ihren Beschlüssen verankern und dabei auf die bestehenden Empfehlungen zur <br/><span aria-hidden="true" class="lineNumber" data-line-number="14"></span>Demokratiebildung, Bildung für nachhaltige Entwicklung und Menschenrechtsbildung <br/><span aria-hidden="true" class="lineNumber" data-line-number="15"></span>aufbauen. Ein <strong>eigener Beschluss zur Friedensbildung</strong> wäre ein wichtiger Schritt <br/><span aria-hidden="true" class="lineNumber" data-line-number="16"></span>und ein sichtbares Zeichen, um der wachsenden Bedeutung der damit verbundenen <br/><span aria-hidden="true" class="lineNumber" data-line-number="17"></span>Themen und Bildungsziele gerecht zu werden und die strukturelle Verankerung in <br/><span aria-hidden="true" class="lineNumber" data-line-number="18"></span>den Ländern zu fördern<span class="underline">.</span></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 5 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 5 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 5 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="4"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 5 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=4" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_5"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="19"></span><strong>2. Friedensbildung von der Grundschule bis zur Oberstufe in die Curricula <br/><span aria-hidden="true" class="lineNumber" data-line-number="20"></span>aufnehmen</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 6 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 6 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 6 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="5"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 6 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=5" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_6"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="21"></span>Friedensbildung ist weitaus mehr als die Vermittlung von Wissen über Fragen von <br/><span aria-hidden="true" class="lineNumber" data-line-number="22"></span>Krieg und Frieden. Sie fördert Kompetenzen für einen gewaltfreien Umgang mit <br/><span aria-hidden="true" class="lineNumber" data-line-number="23"></span>Konflikten, zwischen Menschen und in der Gesellschaft. Sie stärkt <br/><span aria-hidden="true" class="lineNumber" data-line-number="24"></span>friedensfördernde Haltungen und Friedenshandeln im eigenen Umfeld. Das sind <br/><span aria-hidden="true" class="lineNumber" data-line-number="25"></span>Kompetenzen, die wir angesichts eskalierender Konflikte weltweit und zunehmender <br/><span aria-hidden="true" class="lineNumber" data-line-number="26"></span>Polarisierung auch in unserer Gesellschaft dringend brauchen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 7 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 7 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 7 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="6"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 7 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=6" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_7"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="27"></span>Friedensbildung sollte als verbindliches, <strong>fächerübergreifendes Lernfeld</strong> in allen <br/><span aria-hidden="true" class="lineNumber" data-line-number="28"></span>Schulformen und Jahrgangsstufen verankert werden. Ihre Themen und <br/><span aria-hidden="true" class="lineNumber" data-line-number="29"></span>Bildungsansätze für konstruktiven Umgang mit Konflikten sollten als <br/><span aria-hidden="true" class="lineNumber" data-line-number="30"></span>Querschnittsaufgabe in bestehende Fächer aufgenommen werden. Die Integration von <br/><span aria-hidden="true" class="lineNumber" data-line-number="31"></span>Friedensbildung in die Lehrpläne ist in jedem Bundesland anders gestaltet. Wir <br/><span aria-hidden="true" class="lineNumber" data-line-number="32"></span>empfehlen dazu die <strong>Durchführung einer länderübergreifenden Lehrplanstudie</strong>, um <br/><span aria-hidden="true" class="lineNumber" data-line-number="33"></span>Bedarfe und Potentiale festzustellen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 8 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 8 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 8 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="7"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 8 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=7" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_8"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="34"></span><strong>3. Friedensbildung in der Aus- und Weiterbildung von Lehrkräften stärken</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 9 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 9 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 9 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="8"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 9 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=8" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_9"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="35"></span>Die Konflikte in unserer Gesellschaft und in der Welt spiegeln sich in der <br/><span aria-hidden="true" class="lineNumber" data-line-number="36"></span>Schule wider. Lehrkräfte sind damit konfrontiert und müssen darauf eingehen. <br/><span aria-hidden="true" class="lineNumber" data-line-number="37"></span>Friedensbildung sollte daher bereits im Lehramtsstudium, im Referendariat und in <br/><span aria-hidden="true" class="lineNumber" data-line-number="38"></span>der Lehrkräftefortbildung stärker integriert werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 10 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 10 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 10 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="9"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 10 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=9" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_10"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="39"></span>Dafür braucht es <strong>Lehrstühle für Friedensbildung</strong> an Hochschulen und Universitäten <br/><span aria-hidden="true" class="lineNumber" data-line-number="40"></span>und <strong>Fachstellen für Friedensbildung</strong> in allen Bundesländern, die Schulen und <br/><span aria-hidden="true" class="lineNumber" data-line-number="41"></span>Lehrkräfte mit Fortbildungen und Materialien unterstützen sowie schulische und <br/><span aria-hidden="true" class="lineNumber" data-line-number="42"></span>außerschulische Akteure vernetzen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 11 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 11 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 11 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="10"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 11 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=10" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_11"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="43"></span><strong>4. Außerschulische Akteure und Strukturen für Friedensbildung stärken</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 12 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 12 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 12 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="11"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 12 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=11" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_12"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="44"></span>Aktuell dominiert die Bundeswehr über ihre Jugendoffiziere als außerschulischer <br/><span aria-hidden="true" class="lineNumber" data-line-number="45"></span>Akteur beim Thema Krieg und Frieden. Ebenso wie die Bundeswehr sind im Auftrag <br/><span aria-hidden="true" class="lineNumber" data-line-number="46"></span>der Bundesregierung aber auch zivile Fachkräfte z.B. über das Auswärtige Amt und <br/><span aria-hidden="true" class="lineNumber" data-line-number="47"></span>den Zivilen Friedensdienst des Bundesministeriums für wirtschaftliche <br/><span aria-hidden="true" class="lineNumber" data-line-number="48"></span>Zusammenarbeit und Entwicklung in Krisengebieten tätig. Doch deren Arbeit ist in <br/><span aria-hidden="true" class="lineNumber" data-line-number="49"></span>Deutschland weitestgehend unbekannt. Einzelne Bundesländer haben Beschlüsse für <br/><span aria-hidden="true" class="lineNumber" data-line-number="50"></span>ausgewogene Repräsentanz unterschiedlicher Expertisen in der Schule getroffen. <br/><span aria-hidden="true" class="lineNumber" data-line-number="51"></span>Die Bildungspolitik muss Strukturen wie die Servicestellen für Friedensbildung <br/><span aria-hidden="true" class="lineNumber" data-line-number="52"></span>stärken und Förderprogramme entsprechend ausstatten, damit mehr Fachleute für <br/><span aria-hidden="true" class="lineNumber" data-line-number="53"></span>Friedensbildung in die Schulen kommen können. Auch eine <strong>Zertifizierung <br/><span aria-hidden="true" class="lineNumber" data-line-number="54"></span>außerschulischer Bildungsangebote </strong>der Friedensbildung kann dazu beitragen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 13 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 13 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 13 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="12"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 13 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=12" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_13"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="55"></span><strong>WIR BESCHLIESSEN:</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 14 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 14 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 14 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="13"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 14 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=13" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_14"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="56"></span>Die 52. Bundesdelegiertenkonferenz von Bündnis 90/Die Grünen vom 4. – 6.12.2026 <br/><span aria-hidden="true" class="lineNumber" data-line-number="57"></span>in Berlin beschließt und unterstützt diese Forderungen zur Stärkung der <br/><span aria-hidden="true" class="lineNumber" data-line-number="58"></span>Friedensbildung in den Schulen. Die obigen Impulse gehen zurück auf die <strong>Kampagne <br/><span aria-hidden="true" class="lineNumber" data-line-number="59"></span>„Frieden in den Lehrplan“</strong>, die getragen wird von Pro Peace und weiteren <br/><span aria-hidden="true" class="lineNumber" data-line-number="60"></span>Kooperationspartnern, z.B. Aktionsgemeinschaft Dienst für den Frieden, Berghof <br/><span aria-hidden="true" class="lineNumber" data-line-number="61"></span>Foundation, Bund für Soziale Verteidigung, pax christi und gewaltfrei grün.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 15 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 15 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 15 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="14"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 15 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=14" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_15"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="62"></span>Die Bundesdelegiertenkonferenz fordert alle fachlich zuständigen grünen <br/><span aria-hidden="true" class="lineNumber" data-line-number="63"></span>Abgeordneten und Arbeitskreise auf, sich mit dem Thema Friedensbildung zu <br/><span aria-hidden="true" class="lineNumber" data-line-number="64"></span>befassen und auf Landes- und Bundesebene für die Umsetzung der obigen <br/><span aria-hidden="true" class="lineNumber" data-line-number="65"></span>Forderungen einzusetzen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 16 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 16 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 16 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="15"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 16 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=15" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_16"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="66"></span>Weitere Informationen zur Kampagne „Frieden in den Lehrplan“:<br/><span aria-hidden="true" class="lineNumber" data-line-number="67"></span><a href="https://www.propeace.de/de/unsere-arbeit/politik-kampagnen/frieden-in-den-lehrplan" target="_blank">https://www.propeace.de/de/unsere-arbeit/politik-kampagnen/frieden-in-den-<br/><span aria-hidden="true" class="lineNumber" data-line-number="68"></span>lehrplan</a></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 17 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 17 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 17 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="16"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 17 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create?sectionId=783&amp;paragraphNo=16" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div></section><section aria-labelledby="section_784_title" class="motionTextHolder sectionType1 motionTextHolder2" id="section_784"><h2 class="green" id="section_784_title">Einfache Sprache</h2><div class="paragraph lineNumbers" id="section_784_0"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="69"></span><strong>Frieden im Lehrplan</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_1"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="70"></span>Kriege betreffen junge Menschen stark.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="71"></span>Sie müssen Wehrdienst leisten.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="72"></span>Die Schulden für Waffen sind sehr hoch.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="73"></span>Das Geld fehlt für Bildung und Klima.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="74"></span>Kriege zeigen sich auch in der Schule.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 2 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 2 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 2 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="1"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 2 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_2"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="75"></span>Junge Menschen haben das Recht mitzusprechen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="76"></span>Sie brauchen Wissen über Krieg und Frieden.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="77"></span>So können sie eine friedliche Zukunft gestalten.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 3 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 3 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 3 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="2"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 3 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_3"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="78"></span><strong>Forderung 1 Friedensbildung stärken</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 4 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 4 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 4 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="3"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 4 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_4"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="79"></span>Die Bildungsminister sollen Friedensbildung fördern.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="80"></span>Friedensbildung soll in allen Bundesländern wichtig sein.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="81"></span>Sie soll mit Demokratie und Menschenrechten verbunden sein.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="82"></span>Ein eigener Beschluss für Friedensbildung ist wichtig.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 5 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 5 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 5 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="4"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 5 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_5"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="83"></span><strong>Forderung 2 Friedensbildung in Schulen</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 6 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 6 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 6 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="5"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 6 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_6"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="84"></span>Friedensbildung ist mehr als Wissen über Krieg.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="85"></span>Sie lehrt gewaltfreien Umgang mit Konflikten.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="86"></span>Sie stärkt friedliches Handeln im Alltag.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="87"></span>Friedensbildung soll in allen Schulformen sein.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="88"></span>Sie soll in viele Fächer eingebaut werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 7 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 7 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 7 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="6"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 7 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_7"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="89"></span>Die Lehrpläne sind in jedem Bundesland anders.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="90"></span>Eine Studie soll die Unterschiede zeigen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="91"></span>So kann man Friedensbildung besser machen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 8 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 8 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 8 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="7"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 8 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_8"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="92"></span><strong>Forderung 3 Lehrkräfte ausbilden</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 9 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 9 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 9 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="8"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 9 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_9"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="93"></span>Konflikte zeigen sich auch in der Schule.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="94"></span>Lehrkräfte müssen damit umgehen können.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="95"></span>Friedensbildung soll im Studium und in Fortbildungen sein.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="96"></span>Es braucht Lehrstühle für Friedensbildung an Hochschulen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="97"></span>Fachstellen sollen Schulen und Lehrkräfte unterstützen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 10 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 10 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 10 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="9"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 10 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_10"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="98"></span><strong>Forderung 4 Außerschulische Akteure</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 11 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 11 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 11 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="10"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 11 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_11"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="99"></span>Die Bundeswehr ist oft im Thema Krieg und Frieden.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="100"></span>Es gibt auch zivile Fachkräfte für Frieden.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="101"></span>Diese Arbeit ist in Deutschland wenig bekannt.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="102"></span>Man soll mehr Fachleute für Frieden in Schulen holen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="103"></span>Programme und Stellen für Friedensbildung sollen mehr Geld bekommen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="104"></span>Eine Zertifizierung kann gute Friedensangebote zeigen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="105"></span>So kommen mehr Fachleute in die Schulen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 12 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 12 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 12 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="11"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 12 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_12"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="106"></span><strong>Beschluss zur Friedensbildung</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 13 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 13 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 13 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="12"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 13 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_13"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="107"></span>Der Parteitag von Bündnis 90/Die Grünen ist vom 4. bis 6. Dezember 2026 in <br/><span aria-hidden="true" class="lineNumber" data-line-number="108"></span>Berlin.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="109"></span>Er beschließt Forderungen zur Friedens-Bildung in den Schulen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="110"></span>Die Forderungen kommen von der Kampagne Frieden in den Lehr-Plan.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="111"></span>Diese Kampagne machen Pro Peace und andere Gruppen zusammen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="112"></span>Zum Beispiel Aktions-Gemeinschaft Dienst für den Frieden und Berghof Foundation.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 14 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 14 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 14 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="13"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 14 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_14"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="113"></span>Der Parteitag fordert alle grünen Abgeordneten und Arbeits-Kreise auf.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="114"></span>Sie sollen sich mit Friedens-Bildung beschäftigen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="115"></span>Sie sollen die Forderungen auf Landes- und Bundes-Ebene umsetzen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 15 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 15 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 15 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="14"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 15 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_15"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="116"></span>Mehr Informationen gibt es auf der Internet-Seite von Pro Peace.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="117"></span>Die Adresse ist www.propeace.de/de/unsere-arbeit/politik-kampagnen/frieden-in-<br/><span aria-hidden="true" class="lineNumber" data-line-number="118"></span>den-lehrplan</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 16 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 16 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 16 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="15"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 16 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div></section><section aria-labelledby="section_785_title" class="motionTextHolder sectionType1 motionTextHolder3" id="section_785"><h2 class="green" id="section_785_title">Begründung</h2><div class="paragraph" id="section_785_0"><div class="text motionTextFormattings textOrig" dir="ltr"><p>Begründung siehe: <a href="https://gewaltfrei-gruen.de" target="_blank">www.gewaltfrei-gruen.de</a></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Begründung) öffnen</span> </button>
+</div>
+<form action="/52bdk/frieden-in-den-lehrplan-10685" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="XSL2oQ35eQseH5NbqkFY-mDPazdYPTwgHHCAla37OVUMFJCRT4g7ZVZA62nEGTOjDb5eZ3VSSm9VO8_47JUNDQ=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Begründung) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Begründung) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="785"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Begründung)</span> Speichern    </button>
+</form></section>
+</div></div></section> <form class="gotoLineNumerPanel form-inline">
+<div class="form-group">
+<label class="sr-only" for="gotoLineNumber">Line number</label>
+<div class="input-group">
+<div class="input-group-addon">Gehe zu Zeile:</div>
+<input class="form-control" id="gotoLineNumber" name="lineNumber" type="number"/>
+<span class="input-group-btn">
+<button class="btn btn-default" type="submit">Los</button>
+</span>
+</div>
+</div>
+<span class="lineNumberNotFound hidden">Zeile nicht gefunden</span>
+</form>
+<section aria-labelledby="supportersTitle" class="supporters" id="supporters">
+<h2 class="green" id="supportersTitle">weitere Antragsteller*innen</h2>
+<div class="content"><br/><div class="expandableList"><strong>Insgesamt 94 Unterstützer*innen.</strong><button class="btn btn-link btnShowAll" type="button"><span aria-hidden="true" class="glyphicon glyphicon-chevron-down"></span>Alle anzeigen</button><ul class="fullList hidden"><li>Kerstin Täubner-Benicke (KV Starnberg)</li><li>Nicole Lauterwald (KV Frankfurt)</li><li>Stefan Muck (KV Landsberg-Lech)</li><li>Peter Meiwald (KV Ammerland)</li><li>Karl-Wilhelm Koch (KV Vulkaneifel)</li><li>Andreas Kleist (KV Coburg-Land)</li><li>Eberhard Müller (KV Ortenau)</li><li>Philipp Schmagold (KV Plön)</li><li>David Baltzer (KV Berlin-Kreisfrei)</li><li>Manuel Mühlbauer (KV Fürth-Land)</li><li>Anja Kiemle (KV Starnberg)</li><li>Stefan Hartisch (KV Starnberg)</li><li>Erich Hinderer (KV Main-Spessart)</li><li>Anne Devaux (KV München)</li><li>Lene Greve (KV Hamburg-Altona)</li><li>Detlef Wilske (KV Berlin-Lichtenberg)</li><li>Sabine Hebbelmann (KV Odenwald-Kraichgau)</li><li>Walburga Halbrügge-Schneider (KV Steinfurt)</li><li>Christopher Stark (KV München)</li><li>Barbara Romanowski (KV Oberberg)</li><li>Claudia Laux (KV Coburg-Land)</li><li>Wolf-Christian Bleek (KV Starnberg)</li><li>Tobias Balke (KV Berlin-Charlottenburg/Wilmersdorf)</li><li>Ulrike Kaldewey (KV Segeberg)</li><li>Jakob Gintars (KV Bonn)</li><li>Tabitha Elkins (LV Bayern)</li><li>Gregor Kaiser (KV Olpe)</li><li>Kathrin Weber (KV Bielefeld)</li><li>Simon Gast (KV Osnabrück-Land)</li><li>Martin Pilgram (KV Starnberg)</li><li>Lars Gohlke (KV Barnim)</li><li>Stefan Stahlbaum (KV Barnim)</li><li>Jana Ketzenberg-Schmid (KV Barnim)</li><li>Christian Goldammer (KV Barnim)</li><li>Nils Juncken (KV Barnim)</li><li>Katja Hoyer (KV Barnim)</li><li>Gisela Haas (KV Barnim)</li><li>Diethardt Stamm (KV Wetterau)</li><li>Anke Przybilla (KV Barnim)</li><li>Hanna Tlach (KV Konstanz)</li><li>Andreas Voland (KV Barnim)</li><li>Joachim Saling (KV Rems/Murr)</li><li>Sarah Holzgreve (KV Barnim)</li><li>Andreas Müller (KV Essen)</li><li>Maren Schüpphaus (KV München)</li><li>Margarete Stippig (KV München)</li><li>Christa Schlotterbeck (KV Ingolstadt)</li><li>Elisabeth Bobinger (KV Augsburg-Land)</li><li>Berti Furtner-Loleit (KV München)</li><li>Gabriele Triebel (KV Landsberg-Lech)</li><li>Gabriele Müllender (KV Ansbach)</li><li>Renate Ellmenreich (KV Nürnberg-Stadt)</li><li>Hans-Jörg Ernst Hosch (KV Ortenau)</li><li>Michaela Leonhardt (KV Landsberg-Lech)</li><li>Klaus Wenger (KV Würzburg-Stadt)</li><li>Klemens Griesehop (KV Berlin-Reinickendorf)</li><li>Alexander Schnapper (KV Ansbach)</li><li>Maria Hilgarth (KV Ansbach)</li><li>Christian Wapler (KV Barnim)</li><li>Lisa Geiger (KV Passau-Land)</li><li>Konstantin Weddige (KV München)</li><li>Christoph Behnke (KV Stade)</li><li>Rudi Lutter (KV München)</li><li>Sibylle Brosius (KV Rhein-Pfalz)</li><li>Philipp Schwertner (KV Ansbach)</li><li>Julius Burghardt (KV Bonn)</li><li>Tim Friederichs (KV Stade)</li><li>Stefanie Suhr-Meyer (RWKV Ansbach)</li><li>Sophia Göppel-Kraft (KV Ansbach)</li><li>Hans Schmidt (KV Bad Tölz-Wolfratshausen)</li><li>Michael Sichelstiel (KV Ansbach)</li><li>Astrid Fladung (KV Ansbach)</li><li>Claudia Osthues (KV Köln)</li><li>Jan Kießling (KV Landsberg-Lech)</li><li>Oliver Körber (KV Ansbach)</li><li>Christian Masser (KV Südliche Weinstraße)</li><li>Maria-Anne Gallen (KV Fürstenfeldbruck)</li><li>Matteo Parisi (KV Bonn)</li><li>Antje Bunse (KV Ostholstein)</li><li>Birgit Eitner (KV Amberg-Sulzbach)</li><li>Sebastian Klusak (KV Heidelberg)</li><li>Monika Saak (KV Fürstenfeldbruck)</li><li>Martina Fischer (KV Berlin-Kreisfrei)</li><li>Jutta Niel (KV Rhein-Lahn)</li><li>Susanne Odin (KV München)</li><li>Anna Walter (KV Fürstenfeldbruck)</li><li>Michael Beck (KV München)</li><li>Friedrich Lange (KV Fürstenfeldbruck)</li><li>Tanja Schröter (KV Barnim)</li><li>Albert Hartl (KV Fürstenfeldbruck)</li><li>Anne Franke (KV Starnberg)</li><li>Elke Struzena (KV Fürstenfeldbruck)</li><li>Delphine Scheel (KV Berlin-Tempelhof/Schöneberg)</li><li>Katharina Helling (KV München)</li></ul><ul class="shortList"><li class="halfVisible">Oliver Körber (KV Ansbach)</li><li>Christian Masser (KV Südliche Weinstraße)</li><li>Maria-Anne Gallen (KV Fürstenfeldbruck)</li><li>Matteo Parisi (KV Bonn)</li><li>Antje Bunse (KV Ostholstein)</li><li>Birgit Eitner (KV Amberg-Sulzbach)</li><li>Sebastian Klusak (KV Heidelberg)</li><li>Monika Saak (KV Fürstenfeldbruck)</li><li>Martina Fischer (KV Berlin-Kreisfrei)</li><li>Jutta Niel (KV Rhein-Lahn)</li><li>Susanne Odin (KV München)</li><li>Anna Walter (KV Fürstenfeldbruck)</li><li>Michael Beck (KV München)</li><li>Friedrich Lange (KV Fürstenfeldbruck)</li><li>Tanja Schröter (KV Barnim)</li><li>Albert Hartl (KV Fürstenfeldbruck)</li><li>Anne Franke (KV Starnberg)</li><li>Elke Struzena (KV Fürstenfeldbruck)</li><li>Delphine Scheel (KV Berlin-Tempelhof/Schöneberg)</li><li>Katharina Helling (KV München)</li></ul></div><div class="alert alert-info" role="alert"><span aria-hidden="true" class="icon glyphicon glyphicon-exclamation-sign"></span><span class="sr-only">Fehler:</span>Nur zugelassene Gruppen können Anträge unterstützen.
+                </div></div>
+</section><section aria-labelledby="amendmentsTitle" class="amendments"><h2 class="green" id="amendmentsTitle">Änderungsanträge</h2>
+<div class="content"><div class="pull-right"><a class="btn btn-default btn-sm" href="/52bdk/frieden-in-den-lehrplan-10685/amendment/create" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Änderungsantrag stellen</a></div><em>keine</em></div></section><script crossorigin="anonymous" type="module">
+    import { initComments } from '/js/modules/frontend/Comments.js';
+    document.querySelectorAll(".commentsWidget").forEach(widget => initComments(widget));
+</script>
+<nav class="motionPrevNextLinks toolbarAtBottom">
+<div class="prev">
+<a href="/52bdk/das-gelbe-heft-weiterdenken-kindergesundheit-starken-und-pravention-f-43896">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            Voriger Antrag        </a>
+</div>
+<div class="next">
+<a href="/52bdk/fur-die-ubergewinnsteuer-37086">
+            Nächster Antrag            <span aria-hidden="true" class="glyphicon glyphicon-chevron-right"></span>
+</a>
+</div>
+</nav>
+</main>

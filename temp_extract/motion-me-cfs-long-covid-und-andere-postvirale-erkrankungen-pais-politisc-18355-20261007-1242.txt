@@ -1,0 +1,812 @@
+=== METADATEN ===
+type: motion
+motionSlug: me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355
+url: https://antraege.gruene.de/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355
+timestamp: 2026-10-07T12:42:04.776252
+=== INHALT ===
+<main class="antragsgruen-width-main well" id="mainContent"> <div class="primaryHeader"><h1>V-04: ME/CFS, Long Covid und andere postvirale Erkrankungen (PAIS): Politische Heimat und dauerhafte Interessenvertretung</h1></div><script crossorigin="anonymous" type="module">
+    import { MotionShow } from '/js/modules/frontend/MotionShow.js';
+    new MotionShow();
+</script>
+<nav class="navbar navbar-default sidebarSmall visible-sm-block visible-xs-block" id="motionSidebarSmall">
+<div class="container-fluid">
+<div class="navbar-header">
+<a class="navbar-brand" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Änderungsantrag stellen</a><button aria-expanded="false" class="navbar-toggle collapsed" data-target="#sidebarSmallContent" data-toggle="collapse" type="button">
+<span class="sr-only">Hauptmenü</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="sidebarSmallContent">
+<ul><li class="download"><a href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/pdf" target="_blank"><span aria-hidden="true" class="icon glyphicon glyphicon-download-alt"></span>PDF-Version</a></li></ul>
+</div>
+</div>
+</nav><nav class="motionPrevNextLinks toolbarBelowTitle">
+<div class="prev">
+<a href="/52bdk/stop-killing-games-schutz-von-digitalen-spielen-und-inhalten-durch-di-13921">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            Voriger Antrag        </a>
+</div>
+<div class="next">
+<a href="/52bdk/gesundheit-schutzen-praxen-und-kliniken-entlasten-wirtschaft-starken-6767">
+            Nächster Antrag            <span aria-hidden="true" class="glyphicon glyphicon-chevron-right"></span>
+</a>
+</div>
+</nav>
+<div class="motionData" style="min-height: 20px;"><div class="content"><div class="sr-only" id="motionDataTableDescription">Diese Tabelle beschreibt den Status, die Antragstellerin und verschiedene Rahmendaten zum Antrag</div><table aria-describedby="motionDataTableDescription" class="motionDataTable"><caption>Rahmendaten zum Antrag</caption><tr><th scope="row">Veranstaltung:</th><td><a href="/52bdk">52. Bundesdelegiertenkonferenz Berlin</a></td></tr>
+<tr><th scope="row">Tagesordnungspunkt:</th><td>V TOP 10 - Verschiedenes (1/2)</td></tr>
+<tr><th scope="row">Antragsteller*in:</th><td>Vanessa Hüber <small style="font-weight: normal;">(KV Karlsruhe)</small><div class="moreSupporters"><a href="#supporters">und 124 weitere Antragsteller*innen</a> <span class="womenQuota">(Frauenanteil: 60%)</span></div></td></tr>
+<tr class="statusRow"><th scope="row">Status:</th><td>Eingereicht</td></tr>
+<tr><th scope="row">Eingereicht:</th><td>03.10.2026, 18:28</td></tr>
+</table></div></div><section aria-labelledby="section_783_title" class="motionTextHolder sectionType1 motionTextHolder1" id="section_783"><h2 class="green" id="section_783_title">Antragstext</h2><div class="paragraph lineNumbers" id="section_783_0"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="1"></span>Die Corona-Pandemie hat deutlich gemacht, wie weitreichend die gesundheitlichen <br/><span aria-hidden="true" class="lineNumber" data-line-number="2"></span>und gesellschaftlichen Folgen von Virusinfektionen (PAIS, Post-akutes <br/><span aria-hidden="true" class="lineNumber" data-line-number="3"></span>Infektionssyndrom) sein können. Viele Menschen leben bis heute mit langfristigen <br/><span aria-hidden="true" class="lineNumber" data-line-number="4"></span>gesundheitlichen Einschränkungen, auch nach vermeintlich harmlosen Infektionen. <br/><span aria-hidden="true" class="lineNumber" data-line-number="5"></span>Postvirale Folgeerkrankungen wie Long Covid und ME/CFS* (Myalgische <br/><span aria-hidden="true" class="lineNumber" data-line-number="6"></span>Enzephalomyelitis), aber auch andere die schon lange vor Pandemiebeginn <br/><span aria-hidden="true" class="lineNumber" data-line-number="7"></span>bestanden, werden politisch und gesellschaftlich bislang nicht ausreichend <br/><span aria-hidden="true" class="lineNumber" data-line-number="8"></span>wahrgenommen, anerkannt und aufgearbeitet.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=0" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_1"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="9"></span><em>*ME/CFS ist eine schwere neuroimmunologische Erkrankung, die überwiegend, aber <br/><span aria-hidden="true" class="lineNumber" data-line-number="10"></span>nicht ausschließlich, durch Virusinfektionen ausgelöst werden kann. Wenn wir von <br/><span aria-hidden="true" class="lineNumber" data-line-number="11"></span>ME/CFS-Betroffenen sprechen, meinen wir alle Menschen, die mit dieser Erkrankung <br/><span aria-hidden="true" class="lineNumber" data-line-number="12"></span>leben.</em></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 2 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 2 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 2 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="1"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 2 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=1" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_2"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="13"></span>Wir stellen uns an die Seite der Erkrankten und kämpfen gemeinsam mit ihnen und <br/><span aria-hidden="true" class="lineNumber" data-line-number="14"></span>für sie für Forschung, Versorgung und Teilhabe sowie gegen Stigmatisierung, <br/><span aria-hidden="true" class="lineNumber" data-line-number="15"></span>Verharmlosung und Ausgrenzung.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 3 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 3 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 3 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="2"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 3 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=2" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_3"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="16"></span>Menschen mit ME/CFS, Long Covid und anderen postviralen Erkrankungen sind häufig <br/><span aria-hidden="true" class="lineNumber" data-line-number="17"></span>in ihrer Lebensqualität, sozialen Teilhabe und wirtschaftlichen <br/><span aria-hidden="true" class="lineNumber" data-line-number="18"></span>Selbstständigkeit erheblich eingeschränkt. Bündnis 90/Die Grünen wollen diesen <br/><span aria-hidden="true" class="lineNumber" data-line-number="19"></span>Menschen eine soziale und politische Heimat sein, sie unterstützen und ihnen zu <br/><span aria-hidden="true" class="lineNumber" data-line-number="20"></span>Sichtbarkeit verhelfen. Wir verankern mit ihnen eine PAIS&amp;ME/CFS-<br/><span aria-hidden="true" class="lineNumber" data-line-number="21"></span>Interessenvertretung für die gesundheitspolitische Bearbeitung dauerhaft in <br/><span aria-hidden="true" class="lineNumber" data-line-number="22"></span>unserer Partei. Ihre Erfahrungen und ihre Expertise wollen wir dabei in <br/><span aria-hidden="true" class="lineNumber" data-line-number="23"></span>politische Entscheidungen einbeziehen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 4 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 4 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 4 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="3"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 4 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=3" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_4"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="24"></span><strong>Bündnis 90/Die Grünen setzen sich dafür ein:</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 5 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 5 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 5 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="4"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 5 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=4" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_5"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="25"></span><strong>1. Gesundheitsversorgung und Forschung stärken</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 6 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 6 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 6 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="5"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 6 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=5" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_6"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><p><span aria-hidden="true" class="lineNumber" data-line-number="26"></span>den Ausbau bedarfsgerechter medizinischer Versorgungsangebote und die <br/><span aria-hidden="true" class="lineNumber" data-line-number="27"></span>Schließung bestehender Versorgungslücken zu fordern; dabei <br/><span aria-hidden="true" class="lineNumber" data-line-number="28"></span>sicherzustellen, dass psychosoziale Unterstützungsangebote die Anerkennung <br/><span aria-hidden="true" class="lineNumber" data-line-number="29"></span>der körperlichen Erkrankung und die notwendige biomedizinische Versorgung <br/><span aria-hidden="true" class="lineNumber" data-line-number="30"></span>nicht ersetzen;</p></li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 7 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 7 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 7 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="6"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 7 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=6" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_7"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><p><span aria-hidden="true" class="lineNumber" data-line-number="31"></span>die biomedizinische Forschung zu Ursachen, Krankheitsmechanismen, <br/><span aria-hidden="true" class="lineNumber" data-line-number="32"></span>Diagnostik und Behandlung sowie klinische Studien zu stärken und <br/><span aria-hidden="true" class="lineNumber" data-line-number="33"></span>sicherzustellen, dass dringend notwendige Forschungsgelder nicht in <br/><span aria-hidden="true" class="lineNumber" data-line-number="34"></span>verjährte psychosoziale Forschung investiert werden. Ziel ist es, <br/><span aria-hidden="true" class="lineNumber" data-line-number="35"></span>Betroffenen ein Leben mit mehr gesundheitlicher, gesellschaftlicher und <br/><span aria-hidden="true" class="lineNumber" data-line-number="36"></span>beruflicher Teilhabe zu ermöglichen und krankheitsbedingte Erwerbsausfälle <br/><span aria-hidden="true" class="lineNumber" data-line-number="37"></span>sowie die damit verbundenen Belastungen für den Sozialstaat zu verringern;</p></li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 8 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 8 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 8 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="7"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 8 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=7" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_8"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><p><span aria-hidden="true" class="lineNumber" data-line-number="38"></span>Betroffene und ihre Selbstvertretungen an der Entwicklung von Forschungs- <br/><span aria-hidden="true" class="lineNumber" data-line-number="39"></span>und Versorgungskonzepten zu beteiligen;</p></li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 9 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 9 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 9 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="8"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 9 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=8" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_9"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><p><span aria-hidden="true" class="lineNumber" data-line-number="40"></span>durch öffentlichkeitswirksame Kampagnen Stigmatisierung und Verharmlosung <br/><span aria-hidden="true" class="lineNumber" data-line-number="41"></span>im Gesundheitswesen, in der Sozialversorgung und in der Gesellschaft <br/><span aria-hidden="true" class="lineNumber" data-line-number="42"></span>entgegenzuwirken und für eine sachgerechte Aufklärung über ME/CFS, Long <br/><span aria-hidden="true" class="lineNumber" data-line-number="43"></span>Covid und PAIS sowie deren Krankheitsbilder und Auswirkungen zu sorgen. <br/><span aria-hidden="true" class="lineNumber" data-line-number="44"></span>Dazu gehören insbesondere die gezielte Aufklärung und Fortbildung von <br/><span aria-hidden="true" class="lineNumber" data-line-number="45"></span>medizinischem Personal sowie Gutachtenden, um Fehldiagnosen und lange <br/><span aria-hidden="true" class="lineNumber" data-line-number="46"></span>Diagnosewege zu vermeiden und Betroffenen schneller Zugang zu angemessener <br/><span aria-hidden="true" class="lineNumber" data-line-number="47"></span>Diagnostik und Versorgung zu ermöglichen. So wollen wir Betroffene und das <br/><span aria-hidden="true" class="lineNumber" data-line-number="48"></span>Gesundheitssystem entlasten;</p></li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 10 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 10 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 10 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="9"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 10 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=9" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_10"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><p><span aria-hidden="true" class="lineNumber" data-line-number="49"></span>die sozialrechtlichen Begutachtungs- und Bewertungssysteme so <br/><span aria-hidden="true" class="lineNumber" data-line-number="50"></span>weiterzuentwickeln, dass ME/CFS, Long Covid und andere postvirale <br/><span aria-hidden="true" class="lineNumber" data-line-number="51"></span>Erkrankungen (PAIS) sowie ihre spezifischen und häufig schwankenden <br/><span aria-hidden="true" class="lineNumber" data-line-number="52"></span>Funktionseinschränkungen angemessen berücksichtigt werden. Dazu gehören <br/><span aria-hidden="true" class="lineNumber" data-line-number="53"></span>die Überarbeitung der Bewertungsgrundlagen für den Grad der Behinderung <br/><span aria-hidden="true" class="lineNumber" data-line-number="54"></span>(GdB), die Pflegebegutachtung und die Erwerbsminderungsrente sowie die <br/><span aria-hidden="true" class="lineNumber" data-line-number="55"></span>Berücksichtigung von Post-Exertional Malaise (PEM) und weitere <br/><span aria-hidden="true" class="lineNumber" data-line-number="56"></span>krankheitstypischen Symptome;</p></li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 11 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 11 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 11 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="10"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 11 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=10" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_11"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><p><span aria-hidden="true" class="lineNumber" data-line-number="57"></span>sich gegenüber der Deutschen Rentenversicherung (DRV) dafür einzusetzen, <br/><span aria-hidden="true" class="lineNumber" data-line-number="58"></span>dass Menschen mit ME/CFS und vorliegender Post-Exertional Malaise (PEM) <br/><span aria-hidden="true" class="lineNumber" data-line-number="59"></span>keine Rehabilitationsmaßnahmen zugewiesen werden, die eine gesundheitliche <br/><span aria-hidden="true" class="lineNumber" data-line-number="60"></span>Verschlechterung riskieren;</p></li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 12 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 12 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 12 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="11"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 12 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=11" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_12"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="61"></span><strong>2. Frauengesundheit thematisieren und stärken</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 13 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 13 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 13 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="12"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 13 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=12" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_13"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><p><span aria-hidden="true" class="lineNumber" data-line-number="62"></span>ME/CFS, Long Covid und PAIS und ihre Folgen dauerhaft in der frauen- und <br/><span aria-hidden="true" class="lineNumber" data-line-number="63"></span>gesundheitspolitischen Arbeit zu berücksichtigen;</p></li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 14 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 14 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 14 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="13"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 14 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=13" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_14"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><p><span aria-hidden="true" class="lineNumber" data-line-number="64"></span>frauendominierte Arbeitsstätten, insbesondere in Medizin, Bildung und <br/><span aria-hidden="true" class="lineNumber" data-line-number="65"></span>Pflege, als Bereiche mit hoher Infektionsgefährdung besonders in den Blick <br/><span aria-hidden="true" class="lineNumber" data-line-number="66"></span>zu nehmen und uns für bessere betriebliche Schutzmaßnahmen einzusetzen, <br/><span aria-hidden="true" class="lineNumber" data-line-number="67"></span>insbesondere zur Verringerung der aerogenen Virusübertragung, um das <br/><span aria-hidden="true" class="lineNumber" data-line-number="68"></span>Risiko postviraler Langzeitfolgenzu senken.</p></li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 15 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 15 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 15 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="14"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 15 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=14" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_15"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="69"></span><strong>3. Die politische und parlamentarische Bearbeitung verstetigen</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 16 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 16 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 16 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="15"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 16 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=15" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_16"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><p><span aria-hidden="true" class="lineNumber" data-line-number="70"></span>die langfristigen gesundheitlichen, sozialen und wirtschaftlichen Folgen <br/><span aria-hidden="true" class="lineNumber" data-line-number="71"></span>von SARS-CoV-2 und anderer Virusinfektionen kontinuierlich politisch <br/><span aria-hidden="true" class="lineNumber" data-line-number="72"></span>einzubringen und evidenzbasiert aufzuarbeiten;</p></li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 17 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 17 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 17 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="16"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 17 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=16" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_17"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><p><span aria-hidden="true" class="lineNumber" data-line-number="73"></span>die Anliegen und Erfahrungen Betroffener durch parlamentarische <br/><span aria-hidden="true" class="lineNumber" data-line-number="74"></span>Initiativen, Anfragen und Anhörungen verstärkt einzubringen</p></li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 18 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 18 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 18 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="17"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 18 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=17" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_18"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="75"></span><strong>4. Die Interessenvertretung dauerhaft in der Partei verankern</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 19 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 19 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 19 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="18"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 19 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=18" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_19"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><p><span aria-hidden="true" class="lineNumber" data-line-number="76"></span>die kontinuierliche Bearbeitung der Anliegen von Menschen mit Long Covid, <br/><span aria-hidden="true" class="lineNumber" data-line-number="77"></span>ME/CFS und PAIS in den zuständigen Bundesarbeitsgemeinschaften, <br/><span aria-hidden="true" class="lineNumber" data-line-number="78"></span>insbesondere Gesundheit, Soziales, Frauen und Teilhabe und Bildung, durch <br/><span aria-hidden="true" class="lineNumber" data-line-number="79"></span>feste Zuständigkeiten und regelmäßige Beratung zu verankern;</p></li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 20 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 20 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 20 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="19"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 20 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=19" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers list" id="section_783_20"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><ul><li><p><span aria-hidden="true" class="lineNumber" data-line-number="80"></span>die Interessenvertretung als dauerhafte politische Aufgabe zu etablieren.</p></li></ul><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 21 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 21 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 21 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="20"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 21 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create?sectionId=783&amp;paragraphNo=20" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div></section><section aria-labelledby="section_784_title" class="motionTextHolder sectionType1 motionTextHolder2" id="section_784"><h2 class="green" id="section_784_title">Einfache Sprache</h2><div class="paragraph lineNumbers" id="section_784_0"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="81"></span>Die Corona-Pandemie hat gezeigt: Virus-Infektionen können schwere und lang <br/><span aria-hidden="true" class="lineNumber" data-line-number="82"></span>anhaltende Folgen für die Gesundheit und das Leben der Menschen haben. Viele <br/><span aria-hidden="true" class="lineNumber" data-line-number="83"></span>Menschen sind bis heute krank. Das gilt auch nach Infektionen, die zunächst <br/><span aria-hidden="true" class="lineNumber" data-line-number="84"></span>harmlos erschienen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_1"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="85"></span>Long Covid, ME/CFS (Myalgische Enzephalomyelitis) und andere Erkrankungen nach <br/><span aria-hidden="true" class="lineNumber" data-line-number="86"></span>Infektionen werden in der Politik und in der Gesellschaft noch immer nicht <br/><span aria-hidden="true" class="lineNumber" data-line-number="87"></span>ausreichend wahrgenommen und anerkannt. Auch die Folgen dieser Erkrankungen <br/><span aria-hidden="true" class="lineNumber" data-line-number="88"></span>werden bisher nicht ausreichend aufgearbeitet.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 2 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 2 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 2 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="1"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 2 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_2"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="89"></span>ME/CFS ist eine schwere Erkrankung. Sie betrifft unter anderem das Nerven- und <br/><span aria-hidden="true" class="lineNumber" data-line-number="90"></span>das Immunsystem. Sie kann durch Virus-Infektionen ausgelöst werden, aber auch <br/><span aria-hidden="true" class="lineNumber" data-line-number="91"></span>andere Ursachen haben. Wenn wir von Menschen mit ME/CFS sprechen, meinen wir <br/><span aria-hidden="true" class="lineNumber" data-line-number="92"></span>alle Menschen, die mit dieser Erkrankung leben, egal wie ausgelöst.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 3 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 3 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 3 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="2"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 3 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_3"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="93"></span>Wir stehen an der Seite der Erkrankten. Gemeinsam mit ihnen und für sie setzen <br/><span aria-hidden="true" class="lineNumber" data-line-number="94"></span>wir uns für mehr Forschung, eine bessere medizinische Versorgung und <br/><span aria-hidden="true" class="lineNumber" data-line-number="95"></span>gesellschaftliche Teilhabe ein. Wir kämpfen gegen Vorurteile, Verharmlosung und <br/><span aria-hidden="true" class="lineNumber" data-line-number="96"></span>Ausgrenzung.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 4 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 4 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 4 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="3"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 4 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_4"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="97"></span>Menschen mit ME/CFS, Long Covid und anderen postviralen Erkrankungen sind oft <br/><span aria-hidden="true" class="lineNumber" data-line-number="98"></span>stark in ihrem Alltag eingeschränkt. Viele können nur noch wenig am <br/><span aria-hidden="true" class="lineNumber" data-line-number="99"></span>gesellschaftlichen Leben teilnehmen. Manche können nicht mehr oder nur <br/><span aria-hidden="true" class="lineNumber" data-line-number="100"></span>eingeschränkt arbeiten und ihren Lebensunterhalt selbst verdienen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 5 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 5 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 5 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="4"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 5 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_5"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="101"></span>Bündnis 90/Die Grünen wollen diesen Menschen eine politische Heimat geben. Wir <br/><span aria-hidden="true" class="lineNumber" data-line-number="102"></span>wollen sie unterstützen und dafür sorgen, dass ihre Anliegen sichtbar werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 6 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 6 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 6 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="5"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 6 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_6"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="103"></span>Wir wollen eine dauerhafte Interessenvertretung für Menschen mit PAIS und ME/CFS <br/><span aria-hidden="true" class="lineNumber" data-line-number="104"></span>in unserer Partei verankern. PAIS ist die Abkürzung für Erkrankungen, die nach <br/><span aria-hidden="true" class="lineNumber" data-line-number="105"></span>einer Infektion auftreten und lange anhalten können. Die Erfahrungen und das <br/><span aria-hidden="true" class="lineNumber" data-line-number="106"></span>Wissen der Betroffenen sollen in politische Entscheidungen einfließen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 7 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 7 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 7 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="6"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 7 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_7"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="107"></span><strong>Bündnis 90/Die Grünen setzen sich dafür ein:</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 8 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 8 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 8 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="7"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 8 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_8"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="108"></span><strong>1. Medizinische Versorgung und Forschung stärken</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 9 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 9 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 9 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="8"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 9 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_9"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="109"></span>- Mehr passende medizinische Angebote schaffen: Es soll mehr medizinische <br/><span aria-hidden="true" class="lineNumber" data-line-number="110"></span>Angebote für Menschen mit ME/CFS, Long Covid und anderen postviralen <br/><span aria-hidden="true" class="lineNumber" data-line-number="111"></span>Erkrankungen geben. Lücken in der Versorgung sollen geschlossen werden. <br/><span aria-hidden="true" class="lineNumber" data-line-number="112"></span>Psychologische und psychosoziale Unterstützung darf die Anerkennung der <br/><span aria-hidden="true" class="lineNumber" data-line-number="113"></span>körperlichen Erkrankung und die notwendige medizinische Versorgung nicht <br/><span aria-hidden="true" class="lineNumber" data-line-number="114"></span>ersetzen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 10 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 10 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 10 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="9"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 10 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_10"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="115"></span>- Forschung stärken: Es soll mehr Forschung zu den Ursachen, Krankheitsabläufen, <br/><span aria-hidden="true" class="lineNumber" data-line-number="116"></span>zur Diagnose und zur Behandlung dieser Erkrankungen geben. Auch klinische <br/><span aria-hidden="true" class="lineNumber" data-line-number="117"></span>Studien sollen gestärkt werden. Dringend benötigtes Forschungsgeld soll nicht in <br/><span aria-hidden="true" class="lineNumber" data-line-number="118"></span>überholte psychosoziale Forschungsansätze fließen. Ziel ist, dass Betroffene <br/><span aria-hidden="true" class="lineNumber" data-line-number="119"></span>wieder mehr am gesellschaftlichen Leben teilnehmen und möglichst wieder arbeiten <br/><span aria-hidden="true" class="lineNumber" data-line-number="120"></span>können. Dadurch sollen auch die finanziellen Belastungen für den Sozialstaat <br/><span aria-hidden="true" class="lineNumber" data-line-number="121"></span>sinken.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 11 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 11 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 11 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="10"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 11 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_11"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="122"></span>- Betroffene beteiligen: Menschen mit diesen Erkrankungen und ihre <br/><span aria-hidden="true" class="lineNumber" data-line-number="123"></span>Selbstvertretungen sollen bei der Planung von Forschung und medizinischer <br/><span aria-hidden="true" class="lineNumber" data-line-number="124"></span>Versorgung mitreden können.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 12 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 12 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 12 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="11"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 12 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_12"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="125"></span>- Über die Erkrankungen aufklären und Vorurteile abbauen: Mit öffentlichen <br/><span aria-hidden="true" class="lineNumber" data-line-number="126"></span>Kampagnen soll gegen Vorurteile und die Verharmlosung der Erkrankungen <br/><span aria-hidden="true" class="lineNumber" data-line-number="127"></span>vorgegangen werden. Das gilt im Gesundheitswesen, bei der Sozialversorgung und <br/><span aria-hidden="true" class="lineNumber" data-line-number="128"></span>in der Gesellschaft. Die Menschen sollen besser über ME/CFS, Long Covid und <br/><span aria-hidden="true" class="lineNumber" data-line-number="129"></span>andere postvirale Erkrankungen und deren Folgen informiert werden. Dazu sollen <br/><span aria-hidden="true" class="lineNumber" data-line-number="130"></span>auch Ärztinnen und Ärzte sowie Gutachtende gezielt geschult werden. So sollen <br/><span aria-hidden="true" class="lineNumber" data-line-number="131"></span>falsche Diagnosen und lange Wege bis zur Diagnose vermieden werden. Betroffene <br/><span aria-hidden="true" class="lineNumber" data-line-number="132"></span>sollen schneller die richtige Untersuchung und Versorgung erhalten. Das soll <br/><span aria-hidden="true" class="lineNumber" data-line-number="133"></span>auch Arztpraxen und Kliniken entlasten.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 13 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 13 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 13 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="12"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 13 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_13"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="134"></span>- Die Erkrankungen bei der sozialen Absicherung besser berücksichtigen: Die <br/><span aria-hidden="true" class="lineNumber" data-line-number="135"></span>Regeln für Begutachtungen und Bewertungen sollen so angepasst werden, dass <br/><span aria-hidden="true" class="lineNumber" data-line-number="136"></span>ME/CFS, Long Covid und andere postvirale Erkrankungen besser berücksichtigt <br/><span aria-hidden="true" class="lineNumber" data-line-number="137"></span>werden. Das betrifft den Grad der Behinderung (GdB), die Pflegebegutachtung und <br/><span aria-hidden="true" class="lineNumber" data-line-number="138"></span>die Erwerbsminderungsrente. Auch schwankende Beschwerden und besondere <br/><span aria-hidden="true" class="lineNumber" data-line-number="139"></span>Belastungsgrenzen sollen berücksichtigt werden. Dazu gehört insbesondere die <br/><span aria-hidden="true" class="lineNumber" data-line-number="140"></span>Post-Exertional Malaise (PEM). Das bedeutet, dass sich der Gesundheitszustand <br/><span aria-hidden="true" class="lineNumber" data-line-number="141"></span>nach körperlicher oder geistiger Anstrengung oft deutlich verschlechtert, <br/><span aria-hidden="true" class="lineNumber" data-line-number="142"></span>manchmal erst Stunden oder Tage später.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 14 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 14 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 14 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="13"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 14 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_14"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="143"></span>- Vor gesundheitsschädlichen Reha-Maßnahmen schützen: Die Deutsche <br/><span aria-hidden="true" class="lineNumber" data-line-number="144"></span>Rentenversicherung (DRV) soll Menschen mit ME/CFS und PEM keine Reha-Maßnahmen <br/><span aria-hidden="true" class="lineNumber" data-line-number="145"></span>zuweisen, die ihren Gesundheitszustand verschlechtern können.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 15 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 15 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 15 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="14"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 15 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_15"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="146"></span><strong>2. Frauengesundheit berücksichtigen und stärken</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 16 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 16 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 16 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="15"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 16 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_16"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="147"></span>- ME/CFS, Long Covid und andere postvirale Erkrankungen und ihre Folgen sollen <br/><span aria-hidden="true" class="lineNumber" data-line-number="148"></span>dauerhaft in der Frauen- und Gesundheitspolitik berücksichtigt werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 17 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 17 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 17 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="16"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 17 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_17"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="149"></span>- Arbeitsplätze, an denen besonders viele Frauen arbeiten, sollen stärker vor <br/><span aria-hidden="true" class="lineNumber" data-line-number="150"></span>Infektionen geschützt werden. Dazu gehören vor allem Medizin, Bildung und <br/><span aria-hidden="true" class="lineNumber" data-line-number="151"></span>Pflege. Dort sollen bessere Schutzmaßnahmen eingeführt werden. Insbesondere soll <br/><span aria-hidden="true" class="lineNumber" data-line-number="152"></span>verhindert werden, dass sich Viren über die Luft verbreiten. So soll das Risiko <br/><span aria-hidden="true" class="lineNumber" data-line-number="153"></span>für lang anhaltende Erkrankungen nach Infektionen sinken.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 18 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 18 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 18 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="17"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 18 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_18"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="154"></span><strong>3. Die politische und parlamentarische Arbeit dauerhaft fortführen</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 19 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 19 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 19 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="18"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 19 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_19"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="155"></span>- Die langfristigen gesundheitlichen, sozialen und wirtschaftlichen Folgen von <br/><span aria-hidden="true" class="lineNumber" data-line-number="156"></span>Corona und anderen Virus-Infektionen sollen kontinuierlich in der Politik <br/><span aria-hidden="true" class="lineNumber" data-line-number="157"></span>behandelt werden. Dabei sollen wissenschaftliche Erkenntnisse berücksichtigt <br/><span aria-hidden="true" class="lineNumber" data-line-number="158"></span>werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 20 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 20 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 20 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="19"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 20 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_20"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="159"></span>- Die Anliegen und Erfahrungen der Betroffenen sollen stärker in die <br/><span aria-hidden="true" class="lineNumber" data-line-number="160"></span>parlamentarische Arbeit einfließen. Dazu sollen zum Beispiel politische <br/><span aria-hidden="true" class="lineNumber" data-line-number="161"></span>Initiativen, Anfragen und Anhörungen genutzt werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 21 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 21 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 21 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="20"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 21 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_21"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="162"></span><strong>4. Die Interessenvertretung dauerhaft in der Partei verankern</strong></p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 22 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 22 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 22 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="21"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 22 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_22"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="163"></span>- Die Anliegen von Menschen mit Long Covid, ME/CFS und anderen postviralen <br/><span aria-hidden="true" class="lineNumber" data-line-number="164"></span>Erkrankungen sollen dauerhaft in den zuständigen Bundesarbeitsgemeinschaften der <br/><span aria-hidden="true" class="lineNumber" data-line-number="165"></span>Grünen bearbeitet werden. Dazu gehören insbesondere die Bereiche Gesundheit, <br/><span aria-hidden="true" class="lineNumber" data-line-number="166"></span>Soziales, Frauen und Teilhabe sowie Bildung. Es soll feste Zuständigkeiten geben <br/><span aria-hidden="true" class="lineNumber" data-line-number="167"></span>und regelmäßig über die Anliegen der Betroffenen beraten werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 23 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 23 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 23 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="22"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 23 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_23"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="168"></span>- Die Interessenvertretung von Menschen mit Long Covid, ME/CFS und anderen <br/><span aria-hidden="true" class="lineNumber" data-line-number="169"></span>postviralen Erkrankungen soll eine dauerhafte Aufgabe der Partei werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 24 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 24 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 24 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="23"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 24 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div></section><section aria-labelledby="section_785_title" class="motionTextHolder sectionType1 motionTextHolder3" id="section_785"><h2 class="green" id="section_785_title">Begründung</h2><div class="paragraph" id="section_785_0"><div class="text motionTextFormattings textOrig" dir="ltr"><p>ME/PAIS belasten Betroffene, Angehörige &amp; Wirtschaft. Versorgungslücken und Stigmatisierung sind ableistisch. Auch sind ME/PAIS ein besonderes Risiko für Frauen: erhöhte Infektionsrisiken in frauendom. Jobs &amp; ein höheres Risiko für Langzeitfolgen, inkl. Verlust von Selbstständigkeit &amp; Sichtbarkeit.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Begründung) öffnen</span> </button>
+</div>
+<form action="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="8mezxHXcu814PulXqeKmNmbzCRLcTmm8kSC--CytOKnHX_6mE5uNgRNJqhXzo-BEE6xPfeksWOvgE-quAcsN6g=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Begründung) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Begründung) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="785"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Begründung)</span> Speichern    </button>
+</form></section>
+</div></div></section> <form class="gotoLineNumerPanel form-inline">
+<div class="form-group">
+<label class="sr-only" for="gotoLineNumber">Line number</label>
+<div class="input-group">
+<div class="input-group-addon">Gehe zu Zeile:</div>
+<input class="form-control" id="gotoLineNumber" name="lineNumber" type="number"/>
+<span class="input-group-btn">
+<button class="btn btn-default" type="submit">Los</button>
+</span>
+</div>
+</div>
+<span class="lineNumberNotFound hidden">Zeile nicht gefunden</span>
+</form>
+<section aria-labelledby="supportersTitle" class="supporters" id="supporters">
+<h2 class="green" id="supportersTitle">weitere Antragsteller*innen</h2>
+<div class="content"><br/><div class="expandableList"><strong>Insgesamt 124 Unterstützer*innen.</strong><button class="btn btn-link btnShowAll" type="button"><span aria-hidden="true" class="glyphicon glyphicon-chevron-down"></span>Alle anzeigen</button><ul class="fullList hidden"><li>Charlotte Basaric-Steinhübl (KV Mannheim)</li><li>Jochen Stiepel (KV Hannover)</li><li>Yvonne Jeschke (KV Herford)</li><li>Sarah Zwittian (KV Hannover)</li><li>Annette Lindemann (KV Bottrop)</li><li>Philipp Rösch (KV Berlin-Steglitz/Zehlendorf)</li><li>Alexander Kräß (KV Berlin-Steglitz/Zehlendorf)</li><li>Kristina Schormann (KV Bautzen)</li><li>Jörn Serbser (KV Hamburg-Eimsbüttel)</li><li>Marie Elisabeth Zeidler (KV Berlin-Friedrichshain/Kreuzberg)</li><li>Uta Saenger (KV Hannover)</li><li>Jonas Krone (KV Berlin-Steglitz/Zehlendorf)</li><li>Hermann E. Ott (KV Berlin-Steglitz/Zehlendorf)</li><li>Nina Stahr (KV Berlin-Steglitz/Zehlendorf)</li><li>Birgit Vasiliades (KV Berlin-Steglitz/Zehlendorf)</li><li>Sebastian Roth (WKV Hannover)</li><li>Silke Lambeck (KV Berlin-Steglitz/Zehlendorf)</li><li>Michael Oberst (KV Berlin-Pankow)</li><li>Alina Biesenbaum-Hegemann (KV Berlin-Steglitz/Zehlendorf)</li><li>Daniel Eliasson (KV Berlin-Steglitz/Zehlendorf)</li><li>Tatjana Milinski (KV Garmisch-Partenkirchen)</li><li>Laura Kloth (KV Augsburg-Stadt)</li><li>Klara Ruhl (KV Berlin-Steglitz/Zehlendorf)</li><li>Henriette Glocke (KV Nordsachsen)</li><li>Lisa Bessey (KV Böblingen)</li><li>Sabine Sturm (KV Coesfeld)</li><li>Marius Meyer (KV Hannover)</li><li>Sven Jeschke (KV Herford)</li><li>Andrea Nolte (KV Hannover)</li><li>Birgit Ritter (KV Hannover)</li><li>Joscha Brandhorst (KV Breisgau-Hochschwarzwald)</li><li>Philipp Stender (KV Düsseldorf)</li><li>Elfi Hartung (KV Breisgau-Hochschwarzwald)</li><li>Maike Wennemer (KV Düsseldorf)</li><li>Dirk Pape (KV Berlin-Steglitz/Zehlendorf)</li><li>Irene Pape (KV Berlin-Steglitz/Zehlendorf)</li><li>Esther Engberding (KV Düsseldorf)</li><li>Cornelia Teske (KV Freiburg)</li><li>Maren Stoll (KV Hamburg-Wandsbek)</li><li>Jürgen Veidt (KV Heidekreis)</li><li>Leonie Tonsen (KV Düsseldorf)</li><li>Damian Kunkis (KV Reutlingen)</li><li>Nadine Candelaresi (KV Böblingen)</li><li>Jacqueline Güntzel (1aKJV Landkreis Leipzig)</li><li>Marek Biermann (hGKV Hannover)</li><li>Sonja Woll-Penzing (KV Rems/Murr)</li><li>Lui Dosin (KV Dortmund)</li><li>Anne Sommer (KV Düsseldorf)</li><li>Felix A. Bauer (KV Dortmund)</li><li>Judith Potthast-Masseida (KV Dortmund)</li><li>Andy May (KV Karlsruhe-Land)</li><li>Antonia Schwarz (KV Berlin-Steglitz/Zehlendorf)</li><li>Philipp Rademacher (KV Bochum)</li><li>Irene Dause (KV Berlin-Tempelhof/Schöneberg)</li><li>Jana Balzer (KV Meißen)</li><li>Verena Zipf (KV Duisburg)</li><li>Ulrich Beutenmüller (KV Ludwigsburg)</li><li>Eva Malecha-Konietz (KV Krefeld)</li><li>Jana-Madeline Staupe (KV Dortmund)</li><li>Sebastian Henneick (KV Hannover)</li><li>Gerhard Fontagnier (KV Mannheim)</li><li>Jasmin Dekkers (KV Friesland)</li><li>Catherina Pieroth-Manelli (KV Berlin-Tempelhof/Schöneberg)</li><li>Gregor Fabian (KV Dortmund)</li><li>Cornelia Lichtenthäler (KV Altenkirchen)</li><li>Franziska Holten (KV Regensburg-Land)</li><li>Christian Potthast (KV Dortmund)</li><li>Judith Tamara Betten (KV Aurich-Norden)</li><li>Steffen Wirsik (KV Aurich-Norden)</li><li>Anja-Katharina Neukirch (KV Oldenburg-Stadt)</li><li>Yvonne Gleditzsch (KV Lüneburg)</li><li>Heiko Garrelts (KV Göttingen)</li><li>Karsten Beinhorn (KV Göttingen)</li><li>Mirjam Niedermeyer (KV Berlin-Steglitz/Zehlendorf)</li><li>Katrin Herbel (KV Breisgau-Hochschwarzwald)</li><li>Kathryn Heuser (KV Duisburg)</li><li>Elisabeth Klemens (KV Göttingen)</li><li>Carmen Fontagnier (KV Mannheim)</li><li>Richard Kinder (KV Vorpommern-Rügen)</li><li>Sebastian Braun (KV Vorpommern-Rügen)</li><li>Thomas de Klein (KV Göttingen)</li><li>Myriam-Sophie Wyderka (KV Göttingen)</li><li>Virpi Stöldt (KV Frankfurt)</li><li>Conrad Busse (KV Vorpommern-Rügen)</li><li>Florian Schürenberg (KV Dortmund)</li><li>Katrin Zohsel (KV Mannheim)</li><li>Tatjana Busse (KV Vorpommern-Rügen)</li><li>Ann-Sophie Hinz (KV Vorpommern-Rügen)</li><li>Anja Stelzig (KV Altenkirchen)</li><li>Ina Thaidigsmann Weyrich (KV Ludwigsburg)</li><li>Herbert Mey (KV Göttingen)</li><li>Heidi Schilberg (KV Oldenburg-Land)</li><li>Florian Lillpopp (KV Göttingen)</li><li>Daniel Hübscher (KV Göttingen)</li><li>Judith Gondorf (KV Altenkirchen)</li><li>Sara Klatt (KV Berlin-Tempelhof/Schöneberg)</li><li>Sven Drebes (KV Berlin-Mitte)</li><li>Antje Westhues (KV Bochum)</li><li>Heidi Terpoorten (KV Dillingen)</li><li>Axel Siewert (KV Altenkirchen)</li><li>Desiree Leinenbach (KV Berlin-Kreisfrei)</li><li>Melanie Rocksien-Riad (KV Vorpommern-Rügen)</li><li>Lea Wolff (KV Vorpommern-Rügen)</li><li>Dorothee Friedel (KV Berlin-Steglitz/Zehlendorf)</li><li>Tobias Wilmes (KV Vorpommern-Rügen)</li><li>Sandra Kothe-Woywode (KV Vorpommern-Rügen)</li><li>Kerstin Martin (KV Dresden)</li><li>Ewald Epping (XKV München)</li><li>Petra Kühnast (KV Berlin-Kreisfrei)</li><li>Bernhard Hoffmann (KV Oberhavel)</li><li>Dirk Hähnel (KV Duisburg)</li><li>Ina Kaup (KV Altenkirchen)</li><li>Kirsten Kayser (KV Lüneburg)</li><li>Christoph Hussy (KV Peine)</li><li>Johannes Pramod Alef (KV Altenkirchen)</li><li>Anastasia Semke (KV Peine)</li><li>Leonie Köhler (KV Berlin-Lichtenberg)</li><li>Yannik Herbst (KV Hildesheim)</li><li>Adolf (Addi) Wiedemann (KV Berlin-Steglitz/Zehlendorf)</li><li>Michaela Kusal (KV Bochum)</li><li>Sissi Karnehm-Wolf (KV Göttingen)</li><li>Michael Wiesner (KV Essen)</li><li>Milan Weyrauch (KV Berlin-Tempelhof/Schöneberg)</li><li>Timo Niedermeyer (KV Berlin-Steglitz/Zehlendorf)</li></ul><ul class="shortList"><li class="halfVisible">Tobias Wilmes (KV Vorpommern-Rügen)</li><li>Sandra Kothe-Woywode (KV Vorpommern-Rügen)</li><li>Kerstin Martin (KV Dresden)</li><li>Ewald Epping (XKV München)</li><li>Petra Kühnast (KV Berlin-Kreisfrei)</li><li>Bernhard Hoffmann (KV Oberhavel)</li><li>Dirk Hähnel (KV Duisburg)</li><li>Ina Kaup (KV Altenkirchen)</li><li>Kirsten Kayser (KV Lüneburg)</li><li>Christoph Hussy (KV Peine)</li><li>Johannes Pramod Alef (KV Altenkirchen)</li><li>Anastasia Semke (KV Peine)</li><li>Leonie Köhler (KV Berlin-Lichtenberg)</li><li>Yannik Herbst (KV Hildesheim)</li><li>Adolf (Addi) Wiedemann (KV Berlin-Steglitz/Zehlendorf)</li><li>Michaela Kusal (KV Bochum)</li><li>Sissi Karnehm-Wolf (KV Göttingen)</li><li>Michael Wiesner (KV Essen)</li><li>Milan Weyrauch (KV Berlin-Tempelhof/Schöneberg)</li><li>Timo Niedermeyer (KV Berlin-Steglitz/Zehlendorf)</li></ul></div><div class="alert alert-info" role="alert"><span aria-hidden="true" class="icon glyphicon glyphicon-exclamation-sign"></span><span class="sr-only">Fehler:</span>Nur zugelassene Gruppen können Anträge unterstützen.
+                </div></div>
+</section><section aria-labelledby="amendmentsTitle" class="amendments"><h2 class="green" id="amendmentsTitle">Änderungsanträge</h2>
+<div class="content"><div class="pull-right"><a class="btn btn-default btn-sm" href="/52bdk/me-cfs-long-covid-und-andere-postvirale-erkrankungen-pais-politisc-18355/amendment/create" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Änderungsantrag stellen</a></div><em>keine</em></div></section><script crossorigin="anonymous" type="module">
+    import { initComments } from '/js/modules/frontend/Comments.js';
+    document.querySelectorAll(".commentsWidget").forEach(widget => initComments(widget));
+</script>
+<nav class="motionPrevNextLinks toolbarAtBottom">
+<div class="prev">
+<a href="/52bdk/stop-killing-games-schutz-von-digitalen-spielen-und-inhalten-durch-di-13921">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            Voriger Antrag        </a>
+</div>
+<div class="next">
+<a href="/52bdk/gesundheit-schutzen-praxen-und-kliniken-entlasten-wirtschaft-starken-6767">
+            Nächster Antrag            <span aria-hidden="true" class="glyphicon glyphicon-chevron-right"></span>
+</a>
+</div>
+</nav>
+</main>

@@ -1,0 +1,12 @@
+=== METADATEN ===
+amendmentId: 25242
+motionSlug: Anhang-3-Urabstimmungsordnung-10-Abs-1-Abstimmungsverfahren-62381
+readable: False
+url: https://antraege.gruene.de/52bdk/Anhang-3-Urabstimmungsordnung-10-Abs-1-Abstimmungsverfahren-62381/25242
+timestamp: 2026-10-07T12:41:57.265344
+=== INHALT ===
+<main class="antragsgruen-width-main well" id="mainContent"><h1>Error</h1>
+<div class="content">
+<div class="alert alert-danger">Dieser Änderungsantrag kann nicht angezeigt werden.</div>
+</div>
+</main>

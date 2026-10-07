@@ -1,0 +1,436 @@
+=== METADATEN ===
+type: motion
+motionSlug: wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611
+url: https://antraege.gruene.de/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611
+timestamp: 2026-10-07T12:42:01.774436
+=== INHALT ===
+<main class="antragsgruen-width-main well" id="mainContent"> <div class="primaryHeader"><h1>WO-RP 01: Wahlordnung für die Wahl der Rechnungsprüfungskommission</h1></div><script crossorigin="anonymous" type="module">
+    import { MotionShow } from '/js/modules/frontend/MotionShow.js';
+    new MotionShow();
+</script>
+<nav class="navbar navbar-default sidebarSmall visible-sm-block visible-xs-block" id="motionSidebarSmall">
+<div class="container-fluid">
+<div class="navbar-header">
+<a class="navbar-brand" href="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611/amendment/create" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Änderungsantrag stellen</a><button aria-expanded="false" class="navbar-toggle collapsed" data-target="#sidebarSmallContent" data-toggle="collapse" type="button">
+<span class="sr-only">Hauptmenü</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="sidebarSmallContent">
+<ul><li class="download"><a href="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611/pdf" target="_blank"><span aria-hidden="true" class="icon glyphicon glyphicon-download-alt"></span>PDF-Version</a></li></ul>
+</div>
+</div>
+</nav><nav class="motionPrevNextLinks toolbarBelowTitle">
+<div class="prev">
+<a href="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            Voriger Antrag        </a>
+</div>
+</nav>
+<div class="motionData" style="min-height: 20px;"><div class="content"><div class="sr-only" id="motionDataTableDescription">Diese Tabelle beschreibt den Status, die Antragstellerin und verschiedene Rahmendaten zum Antrag</div><table aria-describedby="motionDataTableDescription" class="motionDataTable"><caption>Rahmendaten zum Antrag</caption><tr><th scope="row">Veranstaltung:</th><td><a href="/52bdk">52. Bundesdelegiertenkonferenz Berlin</a></td></tr>
+<tr><th scope="row">Tagesordnungspunkt:</th><td>T TOP 01 - Formalia</td></tr>
+<tr><th scope="row">Antragsteller*in:</th><td>Bundesvorstand <small style="font-weight: normal;">(dort beschlossen am: 05.10.2026)</small></td></tr>
+<tr class="statusRow"><th scope="row">Status:</th><td>Eingereicht</td></tr>
+<tr><th scope="row">Eingereicht:</th><td>05.10.2026, 17:11</td></tr>
+</table></div></div><section aria-labelledby="section_783_title" class="motionTextHolder sectionType1 motionTextHolder1" id="section_783"><h2 class="green" id="section_783_title">Antragstext</h2><div class="paragraph lineNumbers" id="section_783_0"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="1"></span>- Die Rechnungsprüfungskommission besteht aus sechs Mitgliedern, § 21. Abs. 1 <br/><span aria-hidden="true" class="lineNumber" data-line-number="2"></span>der Satzung. Sie wird durch die Bundesversammlung gewählt. Es werden sechs <br/><span aria-hidden="true" class="lineNumber" data-line-number="3"></span>Rechnungsprüfer*innen gewählt. Dabei werden je drei Frauen- und drei offene <br/><span aria-hidden="true" class="lineNumber" data-line-number="4"></span>Plätze gewählt.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611/amendment/create?sectionId=783&amp;paragraphNo=0" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_1"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="5"></span>- Die Wahl der Rechnungsprüfungskommission erfolgt im Wege der elektronischen <br/><span aria-hidden="true" class="lineNumber" data-line-number="6"></span>Kommunikation mit einer Abstimmungssoftware (Openslides).</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 2 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 2 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 2 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="1"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 2 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611/amendment/create?sectionId=783&amp;paragraphNo=1" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_2"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="7"></span>- Die Wahl erfolgt in verbundener Einzelwahl.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 3 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 3 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 3 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="2"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 3 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611/amendment/create?sectionId=783&amp;paragraphNo=2" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_3"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="8"></span>- Bewerbungen sollen bis zum Freitag, 20. November 2026, 11:59 Uhr über <br/><span aria-hidden="true" class="lineNumber" data-line-number="9"></span><a href="https://antraege.gruene.de" target="_blank">https://antraege.gruene.de</a> eingereicht werden. Die Bewerbung bis zum Wahlgang <br/><span aria-hidden="true" class="lineNumber" data-line-number="10"></span>bleibt ungeachtet dieser Frist möglich.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 4 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 4 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 4 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="3"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 4 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611/amendment/create?sectionId=783&amp;paragraphNo=3" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_4"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="11"></span>- Alle Kandidat*innen stellen sich nur einmal vor. Die Kandidat*innenvorstellung <br/><span aria-hidden="true" class="lineNumber" data-line-number="12"></span>erfolgt in alphabetischer Reihenfolge der Nachnamen. Die Vorstellungszeit <br/><span aria-hidden="true" class="lineNumber" data-line-number="13"></span>beträgt bis zu 3 Minuten. Es besteht keine Möglichkeit für Fragen. Danach <br/><span aria-hidden="true" class="lineNumber" data-line-number="14"></span>beginnt der Wahlgang.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 5 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 5 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 5 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="4"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 5 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611/amendment/create?sectionId=783&amp;paragraphNo=4" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_5"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="15"></span>- Soweit die Anzahl der Kandidatinnen der Anzahl der Frauenplätze entspricht, <br/><span aria-hidden="true" class="lineNumber" data-line-number="16"></span>werden Frauen und offene Plätze in einem Wahlgang gewählt.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 6 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 6 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 6 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="5"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 6 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611/amendment/create?sectionId=783&amp;paragraphNo=5" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_6"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="17"></span>- Die Delegierten haben in jedem Wahlgang jeweils so viele Stimmen, wie in <br/><span aria-hidden="true" class="lineNumber" data-line-number="18"></span>diesem Wahlgang Rechnungsprüfer*innen zu wählen sind.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 7 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 7 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 7 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="6"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 7 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611/amendment/create?sectionId=783&amp;paragraphNo=6" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_7"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="19"></span>- Gewählt ist jeweils im ersten und zweiten Wahlgang, wer mehr als 50 Prozent <br/><span aria-hidden="true" class="lineNumber" data-line-number="20"></span>der abgegebenen gültigen Stimmen erhält. Erreichen mehr Kandidat*innen in einem <br/><span aria-hidden="true" class="lineNumber" data-line-number="21"></span>Wahlgang die erforderliche Mehrheit, als zu wählen sind, so sind nur die <br/><span aria-hidden="true" class="lineNumber" data-line-number="22"></span>Kandidat*innen mit den meisten Stimmen gewählt. Kandidat*innen, die in einem <br/><span aria-hidden="true" class="lineNumber" data-line-number="23"></span>Wahlgang weniger als 10 Prozent der abgegebenen gültigen Stimmen erhalten, <br/><span aria-hidden="true" class="lineNumber" data-line-number="24"></span>scheiden für die folgenden Wahlgänge aus. Ab dem dritten Wahlgang reicht die <br/><span aria-hidden="true" class="lineNumber" data-line-number="25"></span>relative Mehrheit. Es muss jedoch ein Mindestquorum von 25 Prozent der <br/><span aria-hidden="true" class="lineNumber" data-line-number="26"></span>abgegebenen gültigen Stimmen erreicht werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 8 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 8 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 8 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="7"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 8 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611/amendment/create?sectionId=783&amp;paragraphNo=7" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div></section><section aria-labelledby="section_784_title" class="motionTextHolder sectionType1 motionTextHolder2" id="section_784"><h2 class="green" id="section_784_title">Einfache Sprache</h2><div class="paragraph lineNumbers" id="section_784_0"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="27"></span>Diese Wahlordnung regelt den Ablauf der Wahl der Rechnungsprüfungskommission.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_1"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="28"></span>Was ist die Rechnungs-Prüfungs-Kommission?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="29"></span>Die Rechnungs-Prüfungs-Kommission ist eine Gruppe von 6 Personen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="30"></span>Diese Personen kontrollieren die Finanzen der Partei.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="31"></span>Das steht in der Satzung, in Paragraf 21, Absatz 1.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 2 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 2 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 2 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="1"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 2 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_2"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="32"></span>Die Bundes-Versammlung wählt diese 6 Personen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="33"></span>Es gibt 2 Arten von Plätzen:
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="34"></span>3 Plätze sind für Frauen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="35"></span>3 Plätze sind offene Plätze. Hier können alle gewählt werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 3 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 3 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 3 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="2"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 3 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_3"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="36"></span>Wie wird gewählt?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="37"></span>Die Wahl ist digital.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="38"></span>Dafür gibt es ein Computer-Programm. Es heißt Openslides.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 4 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 4 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 4 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="3"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 4 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_4"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="39"></span>Alle Plätze werden in einer gemeinsamen Wahl gewählt.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="40"></span>Aber man stimmt über jede Person einzeln ab.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="41"></span>Das nennt man: verbundene Einzel-Wahl.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 5 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 5 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 5 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="4"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 5 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_5"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="42"></span>Wie kann man sich bewerben?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="43"></span>Bitte bewerben Sie sich bis Freitag, 20. November 2026, 11:59 Uhr.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="44"></span>Die Bewerbung geht über diese Internet-Seite: <a href="https://antraege.gruene.de" target="_blank">https://antraege.gruene.de</a>
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="45"></span>Sie können sich auch später noch bewerben.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="46"></span>Das geht bis kurz vor der Wahl.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 6 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 6 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 6 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="5"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 6 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_6"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="47"></span>Wie stellen sich die Personen vor?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="48"></span>Jede Person stellt sich nur 1 Mal vor.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="49"></span>Die Reihenfolge geht nach dem Alphabet.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="50"></span>Dabei zählt der Nach-Name.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="51"></span>Jede Person hat bis zu 3 Minuten Zeit.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="52"></span>Man darf keine Fragen stellen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="53"></span>Nach den Vorstellungen beginnt die Wahl.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 7 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 7 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 7 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="6"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 7 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_7"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="54"></span>Wann wählt man alle Plätze zusammen?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="55"></span>Manchmal gibt es genau so viele Frauen, die sich bewerben, wie es Frauen-Plätze <br/><span aria-hidden="true" class="lineNumber" data-line-number="56"></span>gibt.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="57"></span>Also genau 3 Frauen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="58"></span>Dann wählt man die Frauen-Plätze und die offenen Plätze zusammen in einer Wahl.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 8 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 8 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 8 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="7"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 8 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_8"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="59"></span>Wie viele Stimmen hat man?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="60"></span>Die Delegierten haben in jeder Wahl-Runde so viele Stimmen, wie es freie Plätze <br/><span aria-hidden="true" class="lineNumber" data-line-number="61"></span>gibt.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="62"></span>Ein Beispiel: Es sind noch 6 Plätze frei. Dann hat jede delegierte Person 6 <br/><span aria-hidden="true" class="lineNumber" data-line-number="63"></span>Stimmen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 9 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 9 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 9 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="8"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 9 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_9"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="64"></span>Wer ist gewählt?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="65"></span>In der 1. und 2. Wahl-Runde:
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="66"></span>Eine Person ist gewählt, wenn sie mehr als die Hälfte der gültigen Stimmen <br/><span aria-hidden="true" class="lineNumber" data-line-number="67"></span>bekommt.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="68"></span>Also mehr als 50 Prozent.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 10 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 10 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 10 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="9"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 10 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_10"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="69"></span>Manchmal schaffen das mehr Personen, als es Plätze gibt.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="70"></span>Dann sind nur die Personen mit den meisten Stimmen gewählt.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 11 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 11 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 11 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="10"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 11 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_11"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="71"></span>Wer zu wenige Stimmen bekommt, scheidet aus:
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="72"></span>Eine Person bekommt in einer Runde weniger als 10 Prozent der gültigen Stimmen?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="73"></span>Dann darf sie in den nächsten Runden nicht mehr mitmachen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 12 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 12 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 12 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="11"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 12 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_12"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="74"></span>Ab der 3. Wahl-Runde:
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="75"></span>Jetzt gewinnt, wer die meisten Stimmen hat.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="76"></span>Man braucht nicht mehr die Hälfte der Stimmen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="77"></span>Aber: Man braucht mindestens 25 Prozent der gültigen Stimmen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 13 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="OsgdtTqYYykPNZLnum9UlskEKR7NNnVHPsyYQOB5CCkCv1XaQ68Of3dd9KLOHyXfvmt_Xal8WCUO9NwXjQxyHA=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 13 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 13 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="12"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 13 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div></section> <form class="gotoLineNumerPanel form-inline">
+<div class="form-group">
+<label class="sr-only" for="gotoLineNumber">Line number</label>
+<div class="input-group">
+<div class="input-group-addon">Gehe zu Zeile:</div>
+<input class="form-control" id="gotoLineNumber" name="lineNumber" type="number"/>
+<span class="input-group-btn">
+<button class="btn btn-default" type="submit">Los</button>
+</span>
+</div>
+</div>
+<span class="lineNumberNotFound hidden">Zeile nicht gefunden</span>
+</form>
+<section aria-labelledby="supportersTitle" class="supporters" id="supporters">
+<h2 class="green" id="supportersTitle">weitere Antragsteller*innen</h2>
+<div class="content"><br/><div class="alert alert-info" role="alert"><span aria-hidden="true" class="icon glyphicon glyphicon-exclamation-sign"></span><span class="sr-only">Fehler:</span>Nur zugelassene Gruppen können Anträge unterstützen.
+                </div></div>
+</section><section aria-labelledby="amendmentsTitle" class="amendments"><h2 class="green" id="amendmentsTitle">Änderungsanträge</h2>
+<div class="content"><div class="pull-right"><a class="btn btn-default btn-sm" href="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611/amendment/create" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Änderungsantrag stellen</a></div><em>keine</em></div></section><script crossorigin="anonymous" type="module">
+    import { initComments } from '/js/modules/frontend/Comments.js';
+    document.querySelectorAll(".commentsWidget").forEach(widget => initComments(widget));
+</script>
+<nav class="motionPrevNextLinks toolbarAtBottom">
+<div class="prev">
+<a href="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            Voriger Antrag        </a>
+</div>
+</nav>
+</main>

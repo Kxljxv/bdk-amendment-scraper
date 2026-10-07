@@ -1,0 +1,1164 @@
+=== METADATEN ===
+type: motion
+motionSlug: sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301
+url: https://antraege.gruene.de/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301
+timestamp: 2026-10-07T12:42:02.161423
+=== INHALT ===
+<main class="antragsgruen-width-main well" id="mainContent"> <div class="primaryHeader"><h1>O-03: Sexueller Missbrauch: Endlich rechtsverbindliche politische Rahmenbedingungen für Aufarbeitung und Prävention schaffen!</h1></div><script crossorigin="anonymous" type="module">
+    import { MotionShow } from '/js/modules/frontend/MotionShow.js';
+    new MotionShow();
+</script>
+<nav class="navbar navbar-default sidebarSmall visible-sm-block visible-xs-block" id="motionSidebarSmall">
+<div class="container-fluid">
+<div class="navbar-header">
+<a class="navbar-brand" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Änderungsantrag stellen</a><button aria-expanded="false" class="navbar-toggle collapsed" data-target="#sidebarSmallContent" data-toggle="collapse" type="button">
+<span class="sr-only">Hauptmenü</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="sidebarSmallContent">
+<ul><li class="download"><a href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/pdf" target="_blank"><span aria-hidden="true" class="icon glyphicon glyphicon-download-alt"></span>PDF-Version</a></li></ul>
+</div>
+</div>
+</nav><nav class="motionPrevNextLinks toolbarBelowTitle">
+<div class="prev">
+<a href="/52bdk/qualifizierte-vermogensteuer-3936">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            Voriger Antrag        </a>
+</div>
+<div class="next">
+<a href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558">
+            Nächster Antrag            <span aria-hidden="true" class="glyphicon glyphicon-chevron-right"></span>
+</a>
+</div>
+</nav>
+<div class="motionData" style="min-height: 20px;"><div class="content"><div class="sr-only" id="motionDataTableDescription">Diese Tabelle beschreibt den Status, die Antragstellerin und verschiedene Rahmendaten zum Antrag</div><table aria-describedby="motionDataTableDescription" class="motionDataTable"><caption>Rahmendaten zum Antrag</caption><tr><th scope="row">Veranstaltung:</th><td><a href="/52bdk">52. Bundesdelegiertenkonferenz Berlin</a></td></tr>
+<tr><th scope="row">Tagesordnungspunkt:</th><td>O TOP 02 - Verantwortung übernehmen, Orientierung geben, Vertrauen gewinnen</td></tr>
+<tr><th scope="row">Antragsteller*in:</th><td>BAG Religionen <small style="font-weight: normal;">(dort beschlossen am: 03.10.2026)</small></td></tr>
+<tr class="statusRow"><th scope="row">Status:</th><td>Eingereicht</td></tr>
+<tr><th scope="row">Eingereicht:</th><td>06.10.2026, 11:01</td></tr>
+</table></div></div><section aria-labelledby="section_783_title" class="motionTextHolder sectionType1 motionTextHolder1" id="section_783"><h2 class="green" id="section_783_title">Antragstext</h2><div class="paragraph lineNumbers" id="section_783_0"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="1"></span>Einleitung</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=0" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_1"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="2"></span>Sexueller Missbrauch ist eine tiefgreifende gesellschaftliche Realität, die <br/><span aria-hidden="true" class="lineNumber" data-line-number="3"></span>nachhaltige politische und institutionelle Antworten erfordert. Aufarbeitung und <br/><span aria-hidden="true" class="lineNumber" data-line-number="4"></span>Prävention dürfen nicht von individuellem Engagement abhängen, sondern müssen in <br/><span aria-hidden="true" class="lineNumber" data-line-number="5"></span>verbindlichen Strukturen verankert sein.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 2 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 2 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 2 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="1"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 2 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=1" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_2"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="6"></span>Wir setzen uns dafür ein, dass Bund, Länder, Kommunen und alle <br/><span aria-hidden="true" class="lineNumber" data-line-number="7"></span>gesellschaftlichen Institutionen und Organisationen Verantwortung übernehmen, um <br/><span aria-hidden="true" class="lineNumber" data-line-number="8"></span>Betroffene zu unterstützen, strukturelles Versagen aufzuarbeiten und zukünftigen <br/><span aria-hidden="true" class="lineNumber" data-line-number="9"></span>sexuellen Missbrauch zu verhindern. Die Politik muss die dafür notwendigen <br/><span aria-hidden="true" class="lineNumber" data-line-number="10"></span>Rahmenbedingungen schaffen. Die Perspektive der Betroffenen muss <br/><span aria-hidden="true" class="lineNumber" data-line-number="11"></span>handlungsleitend sein.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 3 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 3 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 3 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="2"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 3 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=2" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_3"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="12"></span>Im Folgenden unterbreiten wir Vorschläge, die lösungsorientiert sind und auf <br/><span aria-hidden="true" class="lineNumber" data-line-number="13"></span>konkrete politische strukturelle und gesellschaftliche Veränderungen zielen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 4 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 4 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 4 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="3"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 4 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=3" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_4"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="14"></span>1. Politische Verantwortung und klare Zuständigkeiten</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 5 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 5 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 5 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="4"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 5 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=4" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_5"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="15"></span>Die Aufarbeitung und Prävention sexuellen Missbrauchs brauchen politische <br/><span aria-hidden="true" class="lineNumber" data-line-number="16"></span>Ansprechpersonen auf allen Ebenen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 6 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 6 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 6 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="5"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 6 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=5" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_6"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="17"></span>Wir fordern, dass in jedem Bundesland verbindliche Zuständigkeiten für <br/><span aria-hidden="true" class="lineNumber" data-line-number="18"></span>Aufarbeitung und Prävention geschaffen werden. Die zuständigen Stellen müssen <br/><span aria-hidden="true" class="lineNumber" data-line-number="19"></span>mit einem politischen Mandat, Entscheidungskompetenz und einem angemessenen <br/><span aria-hidden="true" class="lineNumber" data-line-number="20"></span>Budget ausgestattet sein. Die auf Bundesebene entwickelten wissenschaftlich <br/><span aria-hidden="true" class="lineNumber" data-line-number="21"></span>fundierten Standards fürAufarbeitung und Prävention müssen auf kommunaler Ebene <br/><span aria-hidden="true" class="lineNumber" data-line-number="22"></span>implementiert werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 7 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 7 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 7 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="6"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 7 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=6" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_7"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="23"></span>Kommunen müssen Austausch- und Schutzräume sichern und bestehende Netzwerke <br/><span aria-hidden="true" class="lineNumber" data-line-number="24"></span>stärken. In diesen Fachstellen muss geschultes Fachpersonal verfügbar sein. Das <br/><span aria-hidden="true" class="lineNumber" data-line-number="25"></span>Thema gehört in Wahlprogramme und Regierungsvereinbarungen. Alle Institutionen <br/><span aria-hidden="true" class="lineNumber" data-line-number="26"></span>und Einrichtungen, die mit Kindern, Jugendlichen und erwachsenen <br/><span aria-hidden="true" class="lineNumber" data-line-number="27"></span>Schutzbefohlenen arbeiten, auch die Religionsgemeinschaften, müssen in Fragen <br/><span aria-hidden="true" class="lineNumber" data-line-number="28"></span>von Aufarbeitung und Prävention der DSGVO (insbesondere Artikel 31) unterliegen <br/><span aria-hidden="true" class="lineNumber" data-line-number="29"></span>und mit der jeweiligen Aufsichtsbehörde zusammenarbeiten.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 8 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 8 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 8 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="7"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 8 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=7" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_8"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="30"></span>2. Ressourcen sichern – Institutionen stärken</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 9 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 9 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 9 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="8"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 9 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=8" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_9"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="31"></span>Das Amt der Unabhängigen Bundesbeauftragten gegen sexuellen Missbrauch von <br/><span aria-hidden="true" class="lineNumber" data-line-number="32"></span>Kindern und Jugendlichen (UBSKM) muss dauerhaft mit angemessenen finanziellen <br/><span aria-hidden="true" class="lineNumber" data-line-number="33"></span>und personellen Ressourcen ausgestattet werden. Auch der Fonds Sexueller <br/><span aria-hidden="true" class="lineNumber" data-line-number="34"></span>Missbrauch muss dauerhaft weitergeführt werden. Aufarbeitung und Prävention sind <br/><span aria-hidden="true" class="lineNumber" data-line-number="35"></span>Teil der Menschen- und Kinderrechtepolitik und dürfen nicht als Sonderthema <br/><span aria-hidden="true" class="lineNumber" data-line-number="36"></span>behandelt werden. Die UBSKM soll zudem als zentrale Anlaufstelle für Betroffene <br/><span aria-hidden="true" class="lineNumber" data-line-number="37"></span>– Kinder, Jugendliche und Erwachsene - weiterentwickelt werden. Auch hierfür <br/><span aria-hidden="true" class="lineNumber" data-line-number="38"></span>muss die finanzielle und personelle Ausstattung angemessen und dauerhaft <br/><span aria-hidden="true" class="lineNumber" data-line-number="39"></span>gesichert sein.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 10 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 10 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 10 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="9"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 10 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=9" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_10"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="40"></span>3. Qualitätssicherung und verbindliche Standards</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 11 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 11 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 11 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="10"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 11 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=10" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_11"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="41"></span>Verantwortungsträger*innen in Politik, Verwaltung, Kirche, Vereinen und <br/><span aria-hidden="true" class="lineNumber" data-line-number="42"></span>Organisationen müssen über klare Qualifkationsanforderungen verfügen. Diese <br/><span aria-hidden="true" class="lineNumber" data-line-number="43"></span>sollen den Standards der UBSKM folgen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 12 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 12 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 12 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="11"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 12 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=11" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_12"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="44"></span>In Vorstellungsgesprächen und Führungsprüfungen sind Fragen zu Fachkenntnis im <br/><span aria-hidden="true" class="lineNumber" data-line-number="45"></span>Umgang mit sexuellem Missbrauch verbindlich zu verankern. Dementsprechend müssen <br/><span aria-hidden="true" class="lineNumber" data-line-number="46"></span>Personen in Personalführungsverantwortung im Themenkomplex sexueller Missbrauch <br/><span aria-hidden="true" class="lineNumber" data-line-number="47"></span>geschult sein. Rechtsgrundlagen sind klar zu definieren, konsequent anzuwenden <br/><span aria-hidden="true" class="lineNumber" data-line-number="48"></span>und weiterzuentwickeln und müssen in Präventionsschulungen thematisiert und <br/><span aria-hidden="true" class="lineNumber" data-line-number="49"></span>evaluiert werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 13 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 13 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 13 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="12"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 13 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=12" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_13"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="50"></span>4. Wissenschaftliche Verankerung und Ausbildung</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 14 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 14 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 14 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="13"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 14 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=13" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_14"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="51"></span>Die Bearbeitung des Themas sexueller Missbrauch braucht wissenschaftliche <br/><span aria-hidden="true" class="lineNumber" data-line-number="52"></span>Grundlagen. Wir fordern, den Umgang mit Missbrauch als Querschnittsthema <br/><span aria-hidden="true" class="lineNumber" data-line-number="53"></span>wissenschaftlich zu etablieren, interdisziplinär zu verankern und auszurichten <br/><span aria-hidden="true" class="lineNumber" data-line-number="54"></span>sowie in Forschung, Lehre und Fachpraxis angemessen auszustatten, zum Beispiel <br/><span aria-hidden="true" class="lineNumber" data-line-number="55"></span>in pädagogischen Studiengängen soll das Thema im Curriculum verankert werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 15 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 15 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 15 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="14"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 15 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=14" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_15"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="56"></span>5. Rechtliche und institutionelle Rahmenbedingungen</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 16 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 16 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 16 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="15"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 16 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=15" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_16"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="57"></span>Alle Institutionen und Organisationen unserer Gesellschaft müssen Verantwortung <br/><span aria-hidden="true" class="lineNumber" data-line-number="58"></span>übernehmen, unabhängig von ihrer Trägerschaft und Rechtsform – orientiert an <br/><span aria-hidden="true" class="lineNumber" data-line-number="59"></span>wissenschaftlichen Leitlinien. Hierzu gehört eine umfassende staatliche <br/><span aria-hidden="true" class="lineNumber" data-line-number="60"></span>Aufarbeitung von sexuellem Missbrauch in staatlich verantworteten Einrichtungen <br/><span aria-hidden="true" class="lineNumber" data-line-number="61"></span>(Schulen, Kindergärten, Kinder und Jugendhilfe, etc.), auch für die Zeit der <br/><span aria-hidden="true" class="lineNumber" data-line-number="62"></span>ehemaligen DDR. Kirchen und andere religiöse Gemeinschaften dürfen kein <br/><span aria-hidden="true" class="lineNumber" data-line-number="63"></span>Eigenrecht (Schrankenformel Art. 140 GG i.V.m. Art. 137(3) WRV) in Fragen des <br/><span aria-hidden="true" class="lineNumber" data-line-number="64"></span>Schutzes und der Aufarbeitung beanspruchen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 17 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 17 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 17 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="16"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 17 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=16" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_17"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="65"></span>Wissenschaftlich fundierte Schutzkonzepte sind in allen Einrichtungen <br/><span aria-hidden="true" class="lineNumber" data-line-number="66"></span>verpflichtend einzuführen, deren Einhaltung muss regelmäßig extern evaluiert und <br/><span aria-hidden="true" class="lineNumber" data-line-number="67"></span>angepasst werden. Disziplinarverfahren müssen extern und transparent <br/><span aria-hidden="true" class="lineNumber" data-line-number="68"></span>kontrolliert werden. Politik und Aufsichtsbehörden tragen hierbei eine besondere <br/><span aria-hidden="true" class="lineNumber" data-line-number="69"></span>Verantwortung. Aufarbeitung und Prävention werden in den Fachstellen (siehe <br/><span aria-hidden="true" class="lineNumber" data-line-number="70"></span>Punkt 1) koordiniert.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 18 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 18 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 18 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="17"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 18 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=17" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_18"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="71"></span>6. Gesellschaftliche Bewusstseinsbildung und Verantwortung</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 19 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 19 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 19 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="18"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 19 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=18" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_19"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="72"></span>Sexueller Missbrauch betrifft die gesamte Gesellschaft. Toxische <br/><span aria-hidden="true" class="lineNumber" data-line-number="73"></span>Machtasymmetrien sind Nährboden für dieses Phänomen und bedürfen der <br/><span aria-hidden="true" class="lineNumber" data-line-number="74"></span>Sensibilisierung. Vorhandene Unterstützungsnetzwerke müssen erhalten und <br/><span aria-hidden="true" class="lineNumber" data-line-number="75"></span>ausgebaut werden, insbesondere auf kommunaler Ebene.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 20 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 20 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 20 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="19"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 20 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=19" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_20"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="76"></span>Wir fordern eine verbindliche Aufnahme von sexueller Aufklärung und Prävention <br/><span aria-hidden="true" class="lineNumber" data-line-number="77"></span>in die Lehrpläne aller Schulformen – bestenfalls in fächerübergreifenden <br/><span aria-hidden="true" class="lineNumber" data-line-number="78"></span>Settings.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 21 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 21 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 21 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="20"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 21 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=20" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_21"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="79"></span>Neben Prävention, die auch Täter*innenstrategien sichtbar macht, braucht es <br/><span aria-hidden="true" class="lineNumber" data-line-number="80"></span>klare</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 22 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 22 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 22 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="21"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 22 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=21" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_22"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="81"></span>Interventionsstrukturen, um Betroffene zu schützen und mit dem irritierten <br/><span aria-hidden="true" class="lineNumber" data-line-number="82"></span>System zu arbeiten. Gesellschaftliche Bewusstseinsarbeit soll aufzeigen, welche <br/><span aria-hidden="true" class="lineNumber" data-line-number="83"></span>Systeme und Machtverhältnisse sexuellen Missbrauch begünstigen. <br/><span aria-hidden="true" class="lineNumber" data-line-number="84"></span>Gesellschaftliche Bedingungen, die Täter*innenverhalten ermöglichen, decken und <br/><span aria-hidden="true" class="lineNumber" data-line-number="85"></span>schützen, müssen sichtbar gemacht werden. Medien tragen dabei eine zentrale <br/><span aria-hidden="true" class="lineNumber" data-line-number="86"></span>Verantwortung: Für glaubwürdige Berichterstattung braucht es Fachwissen und <br/><span aria-hidden="true" class="lineNumber" data-line-number="87"></span>Problembewusstsein. Dazu müssen die öffentlich-rechtlichen Medien entsprechend <br/><span aria-hidden="true" class="lineNumber" data-line-number="88"></span>ausgestattet werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 23 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 23 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 23 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="22"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 23 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create?sectionId=783&amp;paragraphNo=22" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div></section><section aria-labelledby="section_784_title" class="motionTextHolder sectionType1 motionTextHolder2" id="section_784"><h2 class="green" id="section_784_title">Einfache Sprache</h2><div class="paragraph lineNumbers" id="section_784_0"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="89"></span>Sexueller Missbrauch: Klare Regeln für Aufarbeitung und Schutz</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_1"><div class="text motionTextFormattings textOrig" dir="ltr"><h2><span aria-hidden="true" class="lineNumber" data-line-number="90"></span>Einleitung</h2><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 2 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 2 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 2 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="1"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 2 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_2"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="91"></span>Sexueller Missbrauch ist ein großes gesellschaftliches Problem. Viele Menschen <br/><span aria-hidden="true" class="lineNumber" data-line-number="92"></span>leiden ihr Leben lang unter den Folgen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 3 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 3 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 3 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="2"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 3 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_3"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="93"></span>Deshalb brauchen wir klare Regeln für Aufarbeitung und Schutz. Diese Aufgaben <br/><span aria-hidden="true" class="lineNumber" data-line-number="94"></span>dürfen nicht nur von einzelnen engagierten Menschen abhängen. Sie müssen fest in <br/><span aria-hidden="true" class="lineNumber" data-line-number="95"></span>Politik, Behörden und Einrichtungen verankert sein.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 4 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 4 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 4 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="3"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 4 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_4"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="96"></span>Bund, Länder, Kommunen und alle gesellschaftlichen Einrichtungen müssen <br/><span aria-hidden="true" class="lineNumber" data-line-number="97"></span>Verantwortung übernehmen. Betroffene brauchen Unterstützung. Fehler und <br/><span aria-hidden="true" class="lineNumber" data-line-number="98"></span>Versäumnisse müssen aufgearbeitet werden. Sexueller Missbrauch muss verhindert <br/><span aria-hidden="true" class="lineNumber" data-line-number="99"></span>werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 5 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 5 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 5 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="4"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 5 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_5"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="100"></span>Dabei muss die Sicht der Betroffenen immer im Mittelpunkt stehen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 6 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 6 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 6 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="5"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 6 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_6"><div class="text motionTextFormattings textOrig" dir="ltr"><h2><span aria-hidden="true" class="lineNumber" data-line-number="101"></span>1. Politische Verantwortung und klare <br/><span aria-hidden="true" class="lineNumber" data-line-number="102"></span>Zuständigkeiten</h2><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 7 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 7 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 7 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="6"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 7 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_7"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="103"></span>Für Aufarbeitung und Schutz braucht es feste Ansprechpersonen auf allen <br/><span aria-hidden="true" class="lineNumber" data-line-number="104"></span>politischen Ebenen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 8 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 8 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 8 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="7"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 8 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_8"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="105"></span>In jedem Bundesland soll es klare Zuständigkeiten geben. Die verantwortlichen <br/><span aria-hidden="true" class="lineNumber" data-line-number="106"></span>Stellen müssen Entscheidungen treffen können und genügend Geld und Personal <br/><span aria-hidden="true" class="lineNumber" data-line-number="107"></span>haben.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 9 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 9 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 9 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="8"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 9 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_9"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="108"></span>Die wissenschaftlichen Standards für Aufarbeitung und Prävention sollen überall <br/><span aria-hidden="true" class="lineNumber" data-line-number="109"></span>umgesetzt werden – auch in Städten und Gemeinden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 10 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 10 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 10 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="9"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 10 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_10"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="110"></span>Kommunen sollen Schutzräume und Austauschmöglichkeiten für Betroffene sichern <br/><span aria-hidden="true" class="lineNumber" data-line-number="111"></span>und bestehende Netzwerke stärken. Dafür braucht es gut ausgebildete Fachkräfte.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 11 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 11 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 11 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="10"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 11 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_11"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="112"></span>Das Thema sexueller Missbrauch muss auch in Wahlprogrammen und <br/><span aria-hidden="true" class="lineNumber" data-line-number="113"></span>Regierungsvereinbarungen vorkommen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 12 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 12 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 12 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="11"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 12 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_12"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="114"></span>Alle Einrichtungen, die mit Kindern, Jugendlichen oder anderen schutzbedürftigen <br/><span aria-hidden="true" class="lineNumber" data-line-number="115"></span>Menschen arbeiten, müssen mit den zuständigen Aufsichtsbehörden <br/><span aria-hidden="true" class="lineNumber" data-line-number="116"></span>zusammenarbeiten. Das gilt auch für Religionsgemeinschaften.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 13 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 13 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 13 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="12"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 13 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_13"><div class="text motionTextFormattings textOrig" dir="ltr"><h2><span aria-hidden="true" class="lineNumber" data-line-number="117"></span>2. Ausreichend Geld und Personal bereitstellen</h2><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 14 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 14 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 14 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="13"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 14 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_14"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="118"></span>Das Amt der Unabhängigen Bundesbeauftragten gegen sexuellen Missbrauch von <br/><span aria-hidden="true" class="lineNumber" data-line-number="119"></span>Kindern und Jugendlichen (UBSKM) braucht dauerhaft genügend Geld und Personal.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 15 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 15 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 15 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="14"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 15 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_15"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="120"></span>Auch der Fonds Sexueller Missbrauch muss dauerhaft erhalten bleiben.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 16 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 16 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 16 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="15"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 16 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_16"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="121"></span>Aufarbeitung und Prävention sind wichtige Aufgaben für den Schutz von Menschen- <br/><span aria-hidden="true" class="lineNumber" data-line-number="122"></span>und Kinderrechten. Sie dürfen nicht als Nebenthema behandelt werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 17 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 17 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 17 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="16"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 17 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_17"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="123"></span>Die UBSKM soll außerdem eine zentrale Anlaufstelle für Betroffene sein – für <br/><span aria-hidden="true" class="lineNumber" data-line-number="124"></span>Kinder, Jugendliche und Erwachsene. Auch dafür braucht sie ausreichende Mittel.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 18 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 18 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 18 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="17"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 18 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_18"><div class="text motionTextFormattings textOrig" dir="ltr"><h2><span aria-hidden="true" class="lineNumber" data-line-number="125"></span>3. Verbindliche Standards und Qualifizierung</h2><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 19 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 19 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 19 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="18"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 19 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_19"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="126"></span>Menschen mit Verantwortung in Politik, Verwaltung, Kirchen, Vereinen und anderen <br/><span aria-hidden="true" class="lineNumber" data-line-number="127"></span>Organisationen müssen über ausreichendes Wissen zum Thema sexueller Missbrauch <br/><span aria-hidden="true" class="lineNumber" data-line-number="128"></span>verfügen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 20 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 20 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 20 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="19"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 20 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_20"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="129"></span>Dafür sollen verbindliche Standards gelten. Diese sollen sich an den <br/><span aria-hidden="true" class="lineNumber" data-line-number="130"></span>Empfehlungen der UBSKM orientieren.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 21 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 21 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 21 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="20"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 21 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_21"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="131"></span>Wer Personal führt, muss zu diesem Thema geschult sein.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 22 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 22 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 22 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="21"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 22 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_22"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="132"></span>In Bewerbungs- und Auswahlverfahren für Führungsaufgaben sollen Kenntnisse zum <br/><span aria-hidden="true" class="lineNumber" data-line-number="133"></span>Umgang mit sexuellem Missbrauch berücksichtigt werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 23 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 23 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 23 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="22"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 23 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_23"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="134"></span>Die rechtlichen Grundlagen müssen klar sein, regelmäßig überprüft und <br/><span aria-hidden="true" class="lineNumber" data-line-number="135"></span>weiterentwickelt werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 24 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 24 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 24 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="23"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 24 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_24"><div class="text motionTextFormattings textOrig" dir="ltr"><h2><span aria-hidden="true" class="lineNumber" data-line-number="136"></span>4. Forschung und Ausbildung stärken</h2><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 25 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 25 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 25 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="24"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 25 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_25"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="137"></span>Der Umgang mit sexuellem Missbrauch braucht eine gute wissenschaftliche <br/><span aria-hidden="true" class="lineNumber" data-line-number="138"></span>Grundlage.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 26 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 26 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 26 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="25"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 26 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_26"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="139"></span>Das Thema soll in Forschung, Ausbildung und Studium stärker verankert werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 27 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 27 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 27 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="26"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 27 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_27"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="140"></span>Besonders in pädagogischen Studiengängen und anderen sozialen Berufen muss es <br/><span aria-hidden="true" class="lineNumber" data-line-number="141"></span>ein fester Bestandteil der Ausbildung sein.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 28 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 28 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 28 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="27"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 28 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_28"><div class="text motionTextFormattings textOrig" dir="ltr"><h2><span aria-hidden="true" class="lineNumber" data-line-number="142"></span>5. Klare rechtliche Regeln für alle <br/><span aria-hidden="true" class="lineNumber" data-line-number="143"></span>Einrichtungen</h2><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 29 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 29 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 29 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="28"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 29 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_29"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="144"></span>Alle Einrichtungen und Organisationen müssen Verantwortung übernehmen – <br/><span aria-hidden="true" class="lineNumber" data-line-number="145"></span>unabhängig davon, wer ihr Träger ist.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 30 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 30 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 30 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="29"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 30 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_30"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="146"></span>Dazu gehört auch die Aufarbeitung von sexuellem Missbrauch in staatlichen <br/><span aria-hidden="true" class="lineNumber" data-line-number="147"></span>Einrichtungen wie Schulen, Kindergärten oder Einrichtungen der Kinder- und <br/><span aria-hidden="true" class="lineNumber" data-line-number="148"></span>Jugendhilfe. Das gilt auch für Missbrauchsfälle in der ehemaligen DDR.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 31 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 31 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 31 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="30"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 31 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_31"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="149"></span>Kirchen und andere Religionsgemeinschaften dürfen beim Schutz von Betroffenen <br/><span aria-hidden="true" class="lineNumber" data-line-number="150"></span>und bei der Aufarbeitung keine Sonderrechte beanspruchen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 32 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 32 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 32 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="31"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 32 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_32"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="151"></span>Alle Einrichtungen müssen wissenschaftlich fundierte Schutzkonzepte einführen. <br/><span aria-hidden="true" class="lineNumber" data-line-number="152"></span>Diese müssen regelmäßig von unabhängigen Fachleuten überprüft und verbessert <br/><span aria-hidden="true" class="lineNumber" data-line-number="153"></span>werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 33 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 33 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 33 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="32"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 33 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_33"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="154"></span>Disziplinarverfahren müssen transparent sein und unabhängig kontrolliert werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 34 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 34 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 34 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="33"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 34 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_34"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="155"></span>Politik und Aufsichtsbehörden tragen dafür eine besondere Verantwortung.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 35 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 35 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 35 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="34"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 35 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_35"><div class="text motionTextFormattings textOrig" dir="ltr"><h2><span aria-hidden="true" class="lineNumber" data-line-number="156"></span>6. Gesellschaftliche Verantwortung und <br/><span aria-hidden="true" class="lineNumber" data-line-number="157"></span>Aufklärung</h2><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 36 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 36 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 36 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="35"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 36 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_36"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="158"></span>Sexueller Missbrauch betrifft die gesamte Gesellschaft.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 37 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 37 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 37 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="36"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 37 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_37"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="159"></span>Missbrauch wird oft durch Machtgefälle und Abhängigkeiten begünstigt. Deshalb <br/><span aria-hidden="true" class="lineNumber" data-line-number="160"></span>müssen Menschen dafür sensibilisiert werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 38 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 38 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 38 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="37"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 38 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_38"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="161"></span>Bestehende Hilfsangebote und Netzwerke sollen erhalten und ausgebaut werden, <br/><span aria-hidden="true" class="lineNumber" data-line-number="162"></span>besonders vor Ort in den Kommunen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 39 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 39 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 39 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="38"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 39 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_39"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="163"></span>Sexuelle Aufklärung und Prävention müssen verbindlich in allen Schulen behandelt <br/><span aria-hidden="true" class="lineNumber" data-line-number="164"></span>werden – möglichst in mehreren Fächern.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 40 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 40 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 40 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="39"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 40 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_40"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="165"></span>Prävention bedeutet auch, Strategien von Täterinnen und Tätern sichtbar zu <br/><span aria-hidden="true" class="lineNumber" data-line-number="166"></span>machen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 41 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 41 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 41 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="40"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 41 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_41"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="167"></span>Außerdem braucht es klare Abläufe, damit Betroffene schnell geschützt werden <br/><span aria-hidden="true" class="lineNumber" data-line-number="168"></span>können.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 42 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 42 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 42 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="41"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 42 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_42"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="169"></span>Die Gesellschaft muss verstehen, welche Strukturen und Machtverhältnisse <br/><span aria-hidden="true" class="lineNumber" data-line-number="170"></span>sexuellen Missbrauch ermöglichen oder verdecken.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 43 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 43 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 43 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="42"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 43 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_43"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="171"></span>Auch die Medien tragen Verantwortung. Für eine gute Berichterstattung brauchen <br/><span aria-hidden="true" class="lineNumber" data-line-number="172"></span>Journalistinnen und Journalisten Fachwissen und ein Bewusstsein für die <br/><span aria-hidden="true" class="lineNumber" data-line-number="173"></span>Problematik. Deshalb müssen die öffentlich-rechtlichen Medien dafür ausreichend <br/><span aria-hidden="true" class="lineNumber" data-line-number="174"></span>ausgestattet werden.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 44 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 44 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 44 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="43"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 44 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div></section><section aria-labelledby="section_785_title" class="motionTextHolder sectionType1 motionTextHolder3" id="section_785"><h2 class="green" id="section_785_title">Begründung</h2><div class="paragraph" id="section_785_0"><div class="text motionTextFormattings textOrig" dir="ltr"><p>Sexueller Missbrauch kann überall stattfinden, wo Macht missbraucht wird. Wir brauchen klare Zuständigkeiten, ausreichende Ressourcen und verbindliche Schutzkonzepte, um Betroffene zu unterstützen und zukünftigen Missbrauch wirksam zu verhindern.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Begründung) öffnen</span> </button>
+</div>
+<form action="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="NGFC3K3g2H0US4u44FOHd8zQgkhFG9u0qW5ehw_yAZdXMSyDzISMOE4lxvOlOesav5zIeHBCq4LPKDnqWYVW4w=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Begründung) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Begründung) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="785"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Begründung)</span> Speichern    </button>
+</form></section>
+</div></div></section> <form class="gotoLineNumerPanel form-inline">
+<div class="form-group">
+<label class="sr-only" for="gotoLineNumber">Line number</label>
+<div class="input-group">
+<div class="input-group-addon">Gehe zu Zeile:</div>
+<input class="form-control" id="gotoLineNumber" name="lineNumber" type="number"/>
+<span class="input-group-btn">
+<button class="btn btn-default" type="submit">Los</button>
+</span>
+</div>
+</div>
+<span class="lineNumberNotFound hidden">Zeile nicht gefunden</span>
+</form>
+<section aria-labelledby="supportersTitle" class="supporters" id="supporters">
+<h2 class="green" id="supportersTitle">weitere Antragsteller*innen</h2>
+<div class="content"><br/><div class="alert alert-info" role="alert"><span aria-hidden="true" class="icon glyphicon glyphicon-exclamation-sign"></span><span class="sr-only">Fehler:</span>Nur zugelassene Gruppen können Anträge unterstützen.
+                </div></div>
+</section><section aria-labelledby="amendmentsTitle" class="amendments"><h2 class="green" id="amendmentsTitle">Änderungsanträge</h2>
+<div class="content"><div class="pull-right"><a class="btn btn-default btn-sm" href="/52bdk/sexueller-missbrauch-endlich-rechtsverbindliche-politische-rahmenbedi-32301/amendment/create" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Änderungsantrag stellen</a></div><em>keine</em></div></section><script crossorigin="anonymous" type="module">
+    import { initComments } from '/js/modules/frontend/Comments.js';
+    document.querySelectorAll(".commentsWidget").forEach(widget => initComments(widget));
+</script>
+<nav class="motionPrevNextLinks toolbarAtBottom">
+<div class="prev">
+<a href="/52bdk/qualifizierte-vermogensteuer-3936">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            Voriger Antrag        </a>
+</div>
+<div class="next">
+<a href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558">
+            Nächster Antrag            <span aria-hidden="true" class="glyphicon glyphicon-chevron-right"></span>
+</a>
+</div>
+</nav>
+</main>

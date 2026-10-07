@@ -1,0 +1,647 @@
+=== METADATEN ===
+type: motion
+motionSlug: wahlordnung-fur-die-wahl-des-bundesvorstands-49077
+url: https://antraege.gruene.de/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077
+timestamp: 2026-10-07T12:42:01.743248
+=== INHALT ===
+<main class="antragsgruen-width-main well" id="mainContent"> <div class="primaryHeader"><h1>WO-BV-01: Wahlordnung für die Wahl des Bundesvorstands</h1></div><script crossorigin="anonymous" type="module">
+    import { MotionShow } from '/js/modules/frontend/MotionShow.js';
+    new MotionShow();
+</script>
+<nav class="navbar navbar-default sidebarSmall visible-sm-block visible-xs-block" id="motionSidebarSmall">
+<div class="container-fluid">
+<div class="navbar-header">
+<a class="navbar-brand" href="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077/amendment/create" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Änderungsantrag stellen</a><button aria-expanded="false" class="navbar-toggle collapsed" data-target="#sidebarSmallContent" data-toggle="collapse" type="button">
+<span class="sr-only">Hauptmenü</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="sidebarSmallContent">
+<ul><li class="download"><a href="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077/pdf" target="_blank"><span aria-hidden="true" class="icon glyphicon glyphicon-download-alt"></span>PDF-Version</a></li></ul>
+</div>
+</div>
+</nav><nav class="motionPrevNextLinks toolbarBelowTitle">
+<div class="prev">
+<a href="/52bdk/wahlordnung-fur-die-wahl-der-antragskommission-63250">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            Voriger Antrag        </a>
+</div>
+<div class="next">
+<a href="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611">
+            Nächster Antrag            <span aria-hidden="true" class="glyphicon glyphicon-chevron-right"></span>
+</a>
+</div>
+</nav>
+<div class="motionData" style="min-height: 20px;"><div class="content"><div class="sr-only" id="motionDataTableDescription">Diese Tabelle beschreibt den Status, die Antragstellerin und verschiedene Rahmendaten zum Antrag</div><table aria-describedby="motionDataTableDescription" class="motionDataTable"><caption>Rahmendaten zum Antrag</caption><tr><th scope="row">Veranstaltung:</th><td><a href="/52bdk">52. Bundesdelegiertenkonferenz Berlin</a></td></tr>
+<tr><th scope="row">Tagesordnungspunkt:</th><td>T TOP 01 - Formalia</td></tr>
+<tr><th scope="row">Antragsteller*in:</th><td>Bundesvorstand <small style="font-weight: normal;">(dort beschlossen am: 05.10.2026)</small></td></tr>
+<tr class="statusRow"><th scope="row">Status:</th><td>Eingereicht</td></tr>
+<tr><th scope="row">Eingereicht:</th><td>05.10.2026, 16:58</td></tr>
+</table></div></div><section aria-labelledby="section_783_title" class="motionTextHolder sectionType1 motionTextHolder1" id="section_783"><h2 class="green" id="section_783_title">Antragstext</h2><div class="paragraph lineNumbers" id="section_783_0"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="1"></span>- Die Mitglieder des Bundesvorstandes gem. § 17 Abs. 2 der Satzung werden in <br/><span aria-hidden="true" class="lineNumber" data-line-number="2"></span>Einzelwahlverfahren gewählt. Reihenfolge: Vorsitzende, Vorsitzende*r, <br/><span aria-hidden="true" class="lineNumber" data-line-number="3"></span>Generalsekretär*in, Bundesschatzmeister*in, zwei stellvertretende Vorsitzende.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077/amendment/create?sectionId=783&amp;paragraphNo=0" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_1"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="4"></span>- Die Wahl erfolgt im Wege der elektronischen Kommunikation mit einer <br/><span aria-hidden="true" class="lineNumber" data-line-number="5"></span>Abstimmungssoftware (Openslides).</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 2 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 2 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 2 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="1"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 2 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077/amendment/create?sectionId=783&amp;paragraphNo=1" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_2"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="6"></span>- Bewerbungen sollen bis zum Freitag, 20. November 2026, 11:59 Uhr über <br/><span aria-hidden="true" class="lineNumber" data-line-number="7"></span><a href="https://antraege.gruene.de" target="_blank">https://antraege.gruene.de</a> eingereicht werden. Die Bewerbung bis zum Wahlgang <br/><span aria-hidden="true" class="lineNumber" data-line-number="8"></span>bleibt ungeachtet dieser Frist möglich.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 3 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 3 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 3 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="2"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 3 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077/amendment/create?sectionId=783&amp;paragraphNo=2" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_3"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="9"></span>- Kandidat*innen müssen gem. § 17 Abs. 9 der Satzung in ihrer schriftlichen <br/><span aria-hidden="true" class="lineNumber" data-line-number="10"></span>Bewerbung umfassend Auskunft über die von ihnen ausgeübten bezahlten und <br/><span aria-hidden="true" class="lineNumber" data-line-number="11"></span>unbezahlten Tätigkeiten geben. Kandidat*innen, die sich mündlich bewerben, <br/><span aria-hidden="true" class="lineNumber" data-line-number="12"></span>reichen diese Auskunft schriftlich beim Präsidium ein, welches den Delegierten <br/><span aria-hidden="true" class="lineNumber" data-line-number="13"></span>auf Wunsch Einsicht gewährt. Da die Ausführungsbestimmungen noch nicht erlassen <br/><span aria-hidden="true" class="lineNumber" data-line-number="14"></span>sind, gibt sich der bestehende Bundesvorstand Regeln, wie und in welchem Umfang <br/><span aria-hidden="true" class="lineNumber" data-line-number="15"></span>die Auskunft erfolgen soll. Kandidat*innen können diese Regeln ebenfalls nutzen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 4 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 4 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 4 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="3"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 4 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077/amendment/create?sectionId=783&amp;paragraphNo=3" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_4"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="16"></span>- Soweit die Kandidat*innen gem. § 17 Abs. 5 der Satzung ein Votum von drei <br/><span aria-hidden="true" class="lineNumber" data-line-number="17"></span>Kreismitgliederversammlungen oder eines Landesvorstandes vorweisen, ist dies in <br/><span aria-hidden="true" class="lineNumber" data-line-number="18"></span>der Bewerbung bei Antragsgrün anzugeben. Im Falle des Votums von drei <br/><span aria-hidden="true" class="lineNumber" data-line-number="19"></span>Kreismitgliederversammlungen sind die Beschlüsse der <br/><span aria-hidden="true" class="lineNumber" data-line-number="20"></span>Kreismitgliederversammlungen hochzuladen. Möchten die Kandidat*innen stattdessen <br/><span aria-hidden="true" class="lineNumber" data-line-number="21"></span>die Unterstützung von 10 % der Delegierten der BDK vorweisen, wird zu Beginn des <br/><span aria-hidden="true" class="lineNumber" data-line-number="22"></span>Tagesordnungspunktes Wahl Bundesvorstand eine Abstimmung mit einer <br/><span aria-hidden="true" class="lineNumber" data-line-number="23"></span>Abstimmungssoftware (Openslides) durchgeführt. Die Unterstützung ist dann <br/><span aria-hidden="true" class="lineNumber" data-line-number="24"></span>erlangt, wenn mindestens 10 % der Delegierten eine Ja-Stimme abgeben. Bewerben <br/><span aria-hidden="true" class="lineNumber" data-line-number="25"></span>sich mehrere Kandidat*innen um ein Votum wird gemeinsam abgestimmt, die <br/><span aria-hidden="true" class="lineNumber" data-line-number="26"></span>Delegierten haben dann so viele Ja-Stimmen wie Kandidat*innen, können pro <br/><span aria-hidden="true" class="lineNumber" data-line-number="27"></span>Kandidat*in jedoch nur eine Ja-Stimme abgeben. Hierfür besteht kein Rede- oder <br/><span aria-hidden="true" class="lineNumber" data-line-number="28"></span>Vorstellungsrecht.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 5 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 5 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 5 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="4"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 5 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077/amendment/create?sectionId=783&amp;paragraphNo=4" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_5"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="29"></span>- Alle Kandidat*innen stellen sich nur einmal vor, und zwar vor der Wahl des <br/><span aria-hidden="true" class="lineNumber" data-line-number="30"></span>Platzes, für den sie das erste Mal kandidieren. Die Kandidat*innenvorstellung <br/><span aria-hidden="true" class="lineNumber" data-line-number="31"></span>erfolgt auf den jeweilig zu vergebenden Plätzen in alphabetischer Reihenfolge <br/><span aria-hidden="true" class="lineNumber" data-line-number="32"></span>der Nachnamen. Die Vorstellungszeit für Kandidaturen zum Bundesvorstand beträgt <br/><span aria-hidden="true" class="lineNumber" data-line-number="33"></span>bis zu 10 Minuten.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 6 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 6 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 6 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="5"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 6 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077/amendment/create?sectionId=783&amp;paragraphNo=5" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_6"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="34"></span>- Während der Vorstellung der Kandidat*innen können Fragen unter Angabe von Name <br/><span aria-hidden="true" class="lineNumber" data-line-number="35"></span>und KV an die kandidierenden Personen schriftlich beim Präsidium eingereicht <br/><span aria-hidden="true" class="lineNumber" data-line-number="36"></span>werden. Die schriftliche Frage ist in eine der beiden bereitgestellten Urnen <br/><span aria-hidden="true" class="lineNumber" data-line-number="37"></span>(Frauen / Offen) einzuwerfen. Zur Beantwortung der Fragen stehen den jeweiligen <br/><span aria-hidden="true" class="lineNumber" data-line-number="38"></span>Kandidat*innen bis zu 3 Minuten zur Verfügung. Das Präsidium verliest pro <br/><span aria-hidden="true" class="lineNumber" data-line-number="39"></span>Kandidat*in maximal 2 gezogene Fragen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 7 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 7 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 7 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="6"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 7 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077/amendment/create?sectionId=783&amp;paragraphNo=6" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_7"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="40"></span>- Danach beginnen die Wahlgänge. In den Vorstand ist gewählt, wer mehr als die <br/><span aria-hidden="true" class="lineNumber" data-line-number="41"></span>Hälfte der abgegebenen gültigen Stimmen erhält. Bei einem erforderlichen zweiten <br/><span aria-hidden="true" class="lineNumber" data-line-number="42"></span>Wahlgang ist gewählt, wer mehr als die Hälfte der abgegebenen gültigen Stimmen <br/><span aria-hidden="true" class="lineNumber" data-line-number="43"></span>erhält. Kommt eine solche Entscheidung auch im 2. Wahlgang nicht zustande, <br/><span aria-hidden="true" class="lineNumber" data-line-number="44"></span>findet im 3. Wahlgang eine Stichwahl zwischen den beiden Bestplatzierten des 2. <br/><span aria-hidden="true" class="lineNumber" data-line-number="45"></span>Wahlgangs statt.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 8 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 8 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 8 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="7"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 8 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077/amendment/create?sectionId=783&amp;paragraphNo=7" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_8"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="46"></span>- Im Anschluss an die Wahl des Bundesvorstandes wird die frauenpolitische <br/><span aria-hidden="true" class="lineNumber" data-line-number="47"></span>Sprecherin, der/die vielfaltspolitische Sprecher*in sowie der/die europäische <br/><span aria-hidden="true" class="lineNumber" data-line-number="48"></span>und internationale Koordinator*in aus den gewählten Mitgliedern des <br/><span aria-hidden="true" class="lineNumber" data-line-number="49"></span>Bundesvorstandes offen per Stimmkartenzeichen gewählt.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 9 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 9 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 9 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="8"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 9 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077/amendment/create?sectionId=783&amp;paragraphNo=8" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div></section><section aria-labelledby="section_784_title" class="motionTextHolder sectionType1 motionTextHolder2" id="section_784"><h2 class="green" id="section_784_title">Einfache Sprache</h2><div class="paragraph lineNumbers" id="section_784_0"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="50"></span>Dieser Antrag regelt den Ablauf der Wahl des Bundesvorstandes auf der BDK 2026.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_1"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="51"></span>Welche Plätze werden gewählt?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="52"></span>Der Bundes-Vorstand ist die Leitung der Partei.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="53"></span>Wer zum Bundes-Vorstand gehört, steht in der Satzung, in Paragraf 17, Absatz 2.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 2 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 2 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 2 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="1"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 2 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_2"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="54"></span>Jeder Platz wird einzeln gewählt.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="55"></span>Die Reihenfolge ist so:
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="56"></span>- Vorsitzende (dieser Platz ist für eine Frau)
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="57"></span>- Vorsitzende*r (hier können alle gewählt werden)
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="58"></span>- General-Sekretär*in
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="59"></span>- Bundes-Schatzmeister*in (diese Person kümmert sich um das Geld der Partei)
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="60"></span>- 2 stellvertretende Vorsitzende</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 3 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 3 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 3 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="2"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 3 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_3"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="61"></span>Wie wird gewählt?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="62"></span>Die Wahl ist digital.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="63"></span>Dafür gibt es ein Computer-Programm. Es heißt Openslides.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 4 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 4 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 4 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="3"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 4 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_4"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="64"></span>Wie kann man sich bewerben?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="65"></span>Bitte bewerben Sie sich bis Freitag, 20. November 2026, 11:59 Uhr.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="66"></span>Die Bewerbung geht über diese Internet-Seite: <a href="https://antraege.gruene.de" target="_blank">https://antraege.gruene.de</a>
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="67"></span>Sie können sich auch später noch bewerben.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="68"></span>Das geht bis kurz vor der Wahl.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 5 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 5 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 5 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="4"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 5 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_5"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="69"></span>Was muss in der Bewerbung stehen?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="70"></span>Die Personen müssen sagen, welche Tätigkeiten sie haben.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="71"></span>Das gilt für bezahlte Arbeit und für unbezahlte Arbeit.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="72"></span>Das steht in der Satzung, in Paragraf 17, Absatz 9.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 6 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 6 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 6 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="5"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 6 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_6"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="73"></span>Manche Personen bewerben sich nur mündlich, also direkt auf der Versammlung.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="74"></span>Dann müssen sie diese Angaben schriftlich beim Präsidium abgeben.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="75"></span>Das Präsidium leitet die Versammlung.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="76"></span>Die Delegierten dürfen die Angaben dort ansehen, wenn sie das möchten.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 7 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 7 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 7 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="6"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 7 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_7"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="77"></span>Es gibt dafür noch keine genauen Regeln.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="78"></span>Darum hat sich der jetzige Bundes-Vorstand eigene Regeln gegeben.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="79"></span>Diese Regeln sagen: Wie genau und wie ausführlich sollen die Angaben sein?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="80"></span>Alle anderen Personen, die sich bewerben, können diese Regeln auch benutzen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 8 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 8 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 8 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="7"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 8 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_8"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="81"></span>Welche Unterstützung braucht man?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="82"></span>Wer sich bewirbt, braucht Unterstützung aus der Partei.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="83"></span>Das steht in der Satzung, in Paragraf 17, Absatz 5.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="84"></span>Es gibt 3 Möglichkeiten:</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 9 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 9 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 9 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="8"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 9 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_9"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="85"></span>- Möglichkeit 1: 3 Kreis-Mitglieder-Versammlungen unterstützen die Person.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="86"></span>Dann muss die Person das in der Bewerbung bei Antragsgrün angeben.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="87"></span>Und sie muss die Beschlüsse der 3 Versammlungen hochladen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 10 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 10 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 10 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="9"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 10 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_10"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="88"></span>- Möglichkeit 2: Ein Landes-Vorstand unterstützt die Person.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="89"></span>Dann muss die Person das in der Bewerbung bei Antragsgrün angeben.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 11 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 11 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 11 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="10"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 11 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_11"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="90"></span>- Möglichkeit 3: Mindestens 10 Prozent der Delegierten unterstützen die Person.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="91"></span>Dafür gibt es eine Abstimmung mit Openslides.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="92"></span>Diese Abstimmung ist ganz am Anfang, bevor der Bundes-Vorstand gewählt wird.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="93"></span>Die Person hat die Unterstützung, wenn mindestens 10 Prozent der Delegierten mit <br/><span aria-hidden="true" class="lineNumber" data-line-number="94"></span>Ja stimmen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 12 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 12 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 12 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="11"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 12 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_12"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="95"></span>Manchmal wollen mehrere Personen diese Unterstützung.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="96"></span>Dann stimmt man über alle zusammen ab.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="97"></span>Die Delegierten haben so viele Ja-Stimmen, wie es Personen gibt.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="98"></span>Aber jede Person kann von jeder delegierten Person nur 1 Ja-Stimme bekommen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="99"></span>Bei dieser Abstimmung dürfen die Personen nicht reden und sich nicht vorstellen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 13 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 13 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 13 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="12"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 13 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_13"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="100"></span>Wie stellen sich die Personen vor?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="101"></span>Jede Person stellt sich nur 1 Mal vor.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="102"></span>Das passiert vor der Wahl für den ersten Platz, für den sie sich bewirbt.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 14 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 14 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 14 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="13"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 14 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_14"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="103"></span>Für jeden Platz geht die Reihenfolge nach dem Alphabet.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="104"></span>Dabei zählt der Nach-Name.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="105"></span>Jede Person hat bis zu 10 Minuten Zeit.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 15 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 15 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 15 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="14"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 15 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_15"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="106"></span>Wie kann man Fragen stellen?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="107"></span>Während der Vorstellungen können die Delegierten Fragen aufschreiben.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="108"></span>Auf den Zettel kommen der eigene Name und der eigene Kreis-Verband.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="109"></span>Den Zettel wirft man in eine von 2 Urnen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="110"></span>Eine Urne ist für Fragen von Frauen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="111"></span>Die andere Urne ist für Fragen von alle anderen Personen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 16 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 16 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 16 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="15"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 16 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_16"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="112"></span>Das Präsidium zieht dann Fragen aus der Urne.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="113"></span>Es liest für jede Person höchstens 2 Fragen vor.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="114"></span>Die Person hat bis zu 3 Minuten Zeit für ihre Antworten.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 17 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 17 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 17 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="16"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 17 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_17"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="115"></span>Wer ist gewählt?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="116"></span>Nach den Fragen beginnt die Wahl.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 18 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 18 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 18 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="17"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 18 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_18"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="117"></span>1. Wahl-Runde:
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="118"></span>Eine Person ist gewählt, wenn sie mehr als die Hälfte der gültigen Stimmen <br/><span aria-hidden="true" class="lineNumber" data-line-number="119"></span>bekommt.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 19 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 19 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 19 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="18"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 19 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_19"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="120"></span>2. Wahl-Runde:
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="121"></span>Wenn niemand gewählt ist, gibt es eine 2. Runde.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="122"></span>Auch hier braucht man mehr als die Hälfte der gültigen Stimmen.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 20 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 20 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 20 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="19"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 20 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_20"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="123"></span>3. Wahl-Runde:
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="124"></span>Wenn wieder niemand gewählt ist, gibt es eine Stich-Wahl.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="125"></span>Dabei treten nur noch die 2 Personen an, die in der 2. Runde die meisten Stimmen <br/><span aria-hidden="true" class="lineNumber" data-line-number="126"></span>hatten.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 21 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 21 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 21 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="20"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 21 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_21"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="127"></span>Welche Aufgaben werden danach verteilt?
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="128"></span>Nach der Wahl werden 3 besondere Aufgaben verteilt.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="129"></span>Diese Aufgaben bekommen Personen, die schon in den Bundes-Vorstand gewählt <br/><span aria-hidden="true" class="lineNumber" data-line-number="130"></span>wurden:</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 22 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 22 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 22 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="21"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 22 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div><div class="paragraph lineNumbers" id="section_784_22"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="131"></span>- frauen-politische Sprecherin
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="132"></span>- vielfalts-politische Sprecher*in
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="133"></span>- Koordinator*in für Europa und internationale Themen
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="134"></span>Diese Wahl ist offen.
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="135"></span>Das heißt: Die Delegierten zeigen ihre Stimm-Karte hoch.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 23 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="0GK3LHQJl6X3sxrS_h8RASrhI1d1aT1hca2snOZihqKSUNZ1WV_vlp2eQJmrW3Rxa6YRbjgnTDlEz-vr0BjRyw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 23 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 23 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="22"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 23 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div></section> <form class="gotoLineNumerPanel form-inline">
+<div class="form-group">
+<label class="sr-only" for="gotoLineNumber">Line number</label>
+<div class="input-group">
+<div class="input-group-addon">Gehe zu Zeile:</div>
+<input class="form-control" id="gotoLineNumber" name="lineNumber" type="number"/>
+<span class="input-group-btn">
+<button class="btn btn-default" type="submit">Los</button>
+</span>
+</div>
+</div>
+<span class="lineNumberNotFound hidden">Zeile nicht gefunden</span>
+</form>
+<section aria-labelledby="supportersTitle" class="supporters" id="supporters">
+<h2 class="green" id="supportersTitle">weitere Antragsteller*innen</h2>
+<div class="content"><br/><div class="alert alert-info" role="alert"><span aria-hidden="true" class="icon glyphicon glyphicon-exclamation-sign"></span><span class="sr-only">Fehler:</span>Nur zugelassene Gruppen können Anträge unterstützen.
+                </div></div>
+</section><section aria-labelledby="amendmentsTitle" class="amendments"><h2 class="green" id="amendmentsTitle">Änderungsanträge</h2>
+<div class="content"><div class="pull-right"><a class="btn btn-default btn-sm" href="/52bdk/wahlordnung-fur-die-wahl-des-bundesvorstands-49077/amendment/create" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Änderungsantrag stellen</a></div><em>keine</em></div></section><script crossorigin="anonymous" type="module">
+    import { initComments } from '/js/modules/frontend/Comments.js';
+    document.querySelectorAll(".commentsWidget").forEach(widget => initComments(widget));
+</script>
+<nav class="motionPrevNextLinks toolbarAtBottom">
+<div class="prev">
+<a href="/52bdk/wahlordnung-fur-die-wahl-der-antragskommission-63250">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            Voriger Antrag        </a>
+</div>
+<div class="next">
+<a href="/52bdk/wahlordnung-fur-die-wahl-der-rechnungsprufungskommission-55611">
+            Nächster Antrag            <span aria-hidden="true" class="glyphicon glyphicon-chevron-right"></span>
+</a>
+</div>
+</nav>
+</main>

@@ -1,0 +1,154 @@
+=== METADATEN ===
+type: motion
+motionSlug: vorschlag-zur-tagesordnung-38811
+url: https://antraege.gruene.de/52bdk/vorschlag-zur-tagesordnung-38811
+timestamp: 2026-10-07T12:42:00.752144
+=== INHALT ===
+<main class="antragsgruen-width-main well" id="mainContent"> <div class="primaryHeader"><h1>TO-01: Vorschlag zur Tagesordnung</h1></div><script crossorigin="anonymous" type="module">
+    import { MotionShow } from '/js/modules/frontend/MotionShow.js';
+    new MotionShow();
+</script>
+<nav class="navbar navbar-default sidebarSmall visible-sm-block visible-xs-block" id="motionSidebarSmall">
+<div class="container-fluid">
+<div class="navbar-header">
+<a class="navbar-brand" href="/52bdk/vorschlag-zur-tagesordnung-38811/amendment/create" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Änderungsantrag stellen</a><button aria-expanded="false" class="navbar-toggle collapsed" data-target="#sidebarSmallContent" data-toggle="collapse" type="button">
+<span class="sr-only">Hauptmenü</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+<div class="collapse navbar-collapse" id="sidebarSmallContent">
+<ul><li class="download"><a href="/52bdk/vorschlag-zur-tagesordnung-38811/pdf" target="_blank"><span aria-hidden="true" class="icon glyphicon glyphicon-download-alt"></span>PDF-Version</a></li></ul>
+</div>
+</div>
+</nav><nav class="motionPrevNextLinks toolbarBelowTitle">
+<div class="prev">
+<a href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            Voriger Antrag        </a>
+</div>
+<div class="next">
+<a href="/52bdk/vom-aufstiegsversprechen-zur-chancengarantie-damit-herkunft-nicht-ub-13749">
+            Nächster Antrag            <span aria-hidden="true" class="glyphicon glyphicon-chevron-right"></span>
+</a>
+</div>
+</nav>
+<div class="motionData" style="min-height: 20px;"><div class="content"><div class="sr-only" id="motionDataTableDescription">Diese Tabelle beschreibt den Status, die Antragstellerin und verschiedene Rahmendaten zum Antrag</div><table aria-describedby="motionDataTableDescription" class="motionDataTable"><caption>Rahmendaten zum Antrag</caption><tr><th scope="row">Veranstaltung:</th><td><a href="/52bdk">52. Bundesdelegiertenkonferenz Berlin</a></td></tr>
+<tr><th scope="row">Tagesordnungspunkt:</th><td>T TOP 01 - Formalia</td></tr>
+<tr><th scope="row">Antragsteller*in:</th><td>Bundesvorstand <small style="font-weight: normal;">(dort beschlossen am: 25.09.2026)</small></td></tr>
+<tr class="statusRow"><th scope="row">Status:</th><td>Eingereicht</td></tr>
+<tr><th scope="row">Eingereicht:</th><td>25.09.2026, 16:12</td></tr>
+</table></div></div><section aria-labelledby="section_783_title" class="motionTextHolder sectionType1 motionTextHolder1" id="section_783"><h2 class="green" id="section_783_title">Antragstext</h2><div class="paragraph lineNumbers" id="section_783_0"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="1"></span>Freitag, 4.12.2026
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="2"></span>TOP 1 Formalia
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="3"></span>TOP 2 Verantwortung übernehmen, Orientierung geben, Vertrauen gewinnen
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="4"></span>TOP 3 ab 20:30 Uhr Satzung und Geschäftsordnungen (Teil 1/2)</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/vorschlag-zur-tagesordnung-38811" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="ytYkK0B8-rrWHUOivMSmZwHx2qVRarzTB_XJIZudnXeHpnBeOSyN-5ttNcDT8-Esdqmo7wEm74Zzn652-eqqTw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/vorschlag-zur-tagesordnung-38811/amendment/create?sectionId=783&amp;paragraphNo=0" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_1"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="5"></span>Samstag, 5.12.2026
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="6"></span>TOP 4 Haushalt
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="7"></span>TOP 5 Wahl Rechnungsprüfungskommission
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="8"></span>TOP 6 Starke Wirtschaft, faire Chancen
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="9"></span>TOP 7 Wahl Bundesvorstand
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="10"></span>TOP 8 Wahl Antragskommission
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="11"></span>TOP 9 Dringlichkeitsanträge
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="12"></span>TOP 10 Verschiedenes (Teil 1/2)</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 2 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/vorschlag-zur-tagesordnung-38811" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="ytYkK0B8-rrWHUOivMSmZwHx2qVRarzTB_XJIZudnXeHpnBeOSyN-5ttNcDT8-Esdqmo7wEm74Zzn652-eqqTw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 2 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 2 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="1"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 2 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/vorschlag-zur-tagesordnung-38811/amendment/create?sectionId=783&amp;paragraphNo=1" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div><div class="paragraph lineNumbers" id="section_783_2"><div class="text motionTextFormattings textOrig fixedWidthFont" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="13"></span>Sonntag, 6.12.2026
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="14"></span>TOP 11 Digitalisierungsstrategie
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="15"></span>TOP 12 KI-Strategie
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="16"></span>TOP 13 ab 11:30 Uhr Satzung und Geschäftsordnungen (Teil 2/2)
+<br/><span aria-hidden="true" class="lineNumber" data-line-number="17"></span>TOP 14 Verschiedenes (Teil 2/2)</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 3 (Antragstext) öffnen</span> </button>
+</div>
+<form action="/52bdk/vorschlag-zur-tagesordnung-38811" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="ytYkK0B8-rrWHUOivMSmZwHx2qVRarzTB_XJIZudnXeHpnBeOSyN-5ttNcDT8-Esdqmo7wEm74Zzn652-eqqTw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 3 (Antragstext) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 3 (Antragstext) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="2"/>
+<input name="sectionId" type="hidden" value="783"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 3 (Antragstext)</span> Speichern    </button>
+</form></section>
+<a class="btn btn-link btn-sm amendmentParaLink" href="/52bdk/vorschlag-zur-tagesordnung-38811/amendment/create?sectionId=783&amp;paragraphNo=2" rel="nofollow" title="Änderungsantrag zu diesem Absatz stellen"><img alt="Änderungsantrag zu diesem Absatz stellen" src="/cachebuster/img/aa-new-icon.svg"/></a></div></div></section><section aria-labelledby="section_784_title" class="motionTextHolder sectionType1 motionTextHolder2" id="section_784"><h2 class="green" id="section_784_title">Einfache Sprache</h2><div class="paragraph lineNumbers" id="section_784_0"><div class="text motionTextFormattings textOrig" dir="ltr"><p><span aria-hidden="true" class="lineNumber" data-line-number="18"></span>Vorschlag des Bundesvorstands zum Ablauf der Versammlung.</p><section class="privateParagraphNoteHolder">
+<div class="privateParagraphNoteOpener hidden">
+<button class="btn btn-link btn-xs" tabindex="0" type="button">
+<span aria-hidden="true" class="glyphicon glyphicon-pushpin"></span>
+                Private Notiz <span class="sr-only">zu Absatz 1 (Einfache Sprache) öffnen</span> </button>
+</div>
+<form action="/52bdk/vorschlag-zur-tagesordnung-38811" class="form-inline hidden" method="post">
+<input name="_csrf" type="hidden" value="ytYkK0B8-rrWHUOivMSmZwHx2qVRarzTB_XJIZudnXeHpnBeOSyN-5ttNcDT8-Esdqmo7wEm74Zzn652-eqqTw=="/> <label>
+<span class="sr-only">Private Notiz zu Absatz 1 (Einfache Sprache) eingeben</span>
+<textarea class="form-control" name="noteText" placeholder="Private Notiz zu Absatz 1 (Einfache Sprache) eingeben"></textarea>
+</label>
+<input name="paragraphNo" type="hidden" value="0"/>
+<input name="sectionId" type="hidden" value="784"/>
+<button class="btn btn-success" name="savePrivateNote" type="submit">
+<span class="sr-only">Private Notiz zu Absatz 1 (Einfache Sprache)</span> Speichern    </button>
+</form></section>
+</div></div></section> <form class="gotoLineNumerPanel form-inline">
+<div class="form-group">
+<label class="sr-only" for="gotoLineNumber">Line number</label>
+<div class="input-group">
+<div class="input-group-addon">Gehe zu Zeile:</div>
+<input class="form-control" id="gotoLineNumber" name="lineNumber" type="number"/>
+<span class="input-group-btn">
+<button class="btn btn-default" type="submit">Los</button>
+</span>
+</div>
+</div>
+<span class="lineNumberNotFound hidden">Zeile nicht gefunden</span>
+</form>
+<section aria-labelledby="supportersTitle" class="supporters" id="supporters">
+<h2 class="green" id="supportersTitle">weitere Antragsteller*innen</h2>
+<div class="content"><br/><div class="alert alert-info" role="alert"><span aria-hidden="true" class="icon glyphicon glyphicon-exclamation-sign"></span><span class="sr-only">Fehler:</span>Nur zugelassene Gruppen können Anträge unterstützen.
+                </div></div>
+</section><section aria-labelledby="amendmentsTitle" class="amendments"><h2 class="green" id="amendmentsTitle">Änderungsanträge</h2>
+<div class="content"><div class="pull-right"><a class="btn btn-default btn-sm" href="/52bdk/vorschlag-zur-tagesordnung-38811/amendment/create" rel="nofollow"><span aria-hidden="true" class="icon glyphicon glyphicon-flash"></span>Änderungsantrag stellen</a></div><em>keine</em></div></section><script crossorigin="anonymous" type="module">
+    import { initComments } from '/js/modules/frontend/Comments.js';
+    document.querySelectorAll(".commentsWidget").forEach(widget => initComments(widget));
+</script>
+<nav class="motionPrevNextLinks toolbarAtBottom">
+<div class="prev">
+<a href="/52bdk/anhang-3-zur-satzung-neu-mitgliederratsordnung-8558">
+<span aria-hidden="true" class="glyphicon glyphicon-chevron-left"></span>
+            Voriger Antrag        </a>
+</div>
+<div class="next">
+<a href="/52bdk/vom-aufstiegsversprechen-zur-chancengarantie-damit-herkunft-nicht-ub-13749">
+            Nächster Antrag            <span aria-hidden="true" class="glyphicon glyphicon-chevron-right"></span>
+</a>
+</div>
+</nav>
+</main>
