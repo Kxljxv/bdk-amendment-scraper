@@ -7,6 +7,7 @@ after each successful run, and logs everything to a file.
 
 import argparse
 import logging
+import shutil
 import sys
 import time
 import zipfile
@@ -138,6 +139,24 @@ def run_phase_3(storage: Storage, logger):
 
 def run_scrape_cycle(storage: Storage, logger):
     """Run one complete scrape cycle."""
+    # Clean output directory before starting new cycle (keep log and archive)
+    archive_dir = config.OUTPUT_DIR / "archive"
+    for p in config.OUTPUT_DIR.iterdir():
+        if p.resolve() == archive_dir.resolve():
+            continue
+        if p.name == "scraper.log":
+            continue
+        if p.is_file():
+            try:
+                p.unlink(missing_ok=True)
+            except Exception as e:
+                logger.warning(f"[Cleanup] Failed to delete file {p}: {e}")
+        elif p.is_dir():
+            try:
+                shutil.rmtree(p, ignore_errors=True)
+            except Exception as e:
+                logger.warning(f"[Cleanup] Failed to delete directory {p}: {e}")
+
     scan_results = []
 
     try:

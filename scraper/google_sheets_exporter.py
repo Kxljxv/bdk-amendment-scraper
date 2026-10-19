@@ -354,31 +354,36 @@ class GoogleSheetsExporter:
             return False
 
         # Parse all files
-        rows = []
+        rows_dict = {}  # amendmentId -> row data (deduplicate)
         for file_path in amendment_files:
             if file_path.name.startswith("motion-") or file_path.name == "amendment_urls.txt":
                 continue
             data = self._parse_amendment_file(file_path)
             if data:
-                rows.append([
-                    data.get("amendmentId", ""),
-                    data.get("url", ""),
-                    data.get("motionPrefix", ""),
-                    data.get("eingereicht", ""),
-                    data.get("anzahlAntragssteller", ""),
-                    data.get("frauenanteil", ""),
-                    data.get("status", ""),
-                    data.get("antragssteller", ""),
-                    data.get("zeitpunktAngelegt", ""),
-                    data.get("zuletztAktualisiert", ""),
-                    "",  # Notizen - will be filled from existing data
-                ])
+                amendment_id = data.get("amendmentId", "")
+                if amendment_id:
+                    # Keep the first (latest by sort order) or overwrite - deduplicate by amendmentId
+                    row_data = [
+                        amendment_id,
+                        data.get("url", ""),
+                        data.get("motionPrefix", ""),
+                        data.get("eingereicht", ""),
+                        data.get("anzahlAntragssteller", ""),
+                        data.get("frauenanteil", ""),
+                        data.get("status", ""),
+                        data.get("antragssteller", ""),
+                        data.get("zeitpunktAngelegt", ""),
+                        data.get("zuletztAktualisiert", ""),
+                        "",  # Notizen - will be filled from existing data
+                    ]
+                    rows_dict[amendment_id] = row_data
 
-        if not rows:
+        if not rows_dict:
             print("[SheetsExporter] No valid amendment data to export")
             return False
 
-        # Sort by amendmentId descending (largest ID first)
+        # Convert to list and sort by amendmentId descending (largest ID first)
+        rows = list(rows_dict.values())
         rows.sort(key=lambda r: int(r[0]) if r[0].isdigit() else 0, reverse=True)
 
         # Authenticate and export
@@ -393,9 +398,6 @@ class GoogleSheetsExporter:
             # Read existing notes before updating
             existing_notes = self._read_existing_notes(worksheet)
 
-            # Only update columns A through I, preserve J (Notizen) and formatting
-            # Do NOT clear the worksheet to preserve formatting
-            
             # Prepare data rows with preserved notes
             data_rows = []
             for row in rows:
@@ -406,9 +408,20 @@ class GoogleSheetsExporter:
                 else:
                     row[10] = ""
                 data_rows.append(row)
-            
+
             if data_rows:
-                # Update only columns A through K (including preserved notes)
+                # Clear existing data rows first (preserve header row 1)
+                # Get current sheet dimensions to clear all old data
+                try:
+                    all_values = worksheet.get_all_values()
+                    if len(all_values) > 1:
+                        last_row = len(all_values)
+                        # Clear from A2 to K{last_row}
+                        worksheet.batch_clear([f"A2:K{last_row}"])
+                except Exception:
+                    pass  # If clear fails, continue with update (will overwrite)
+                
+                # Write new data starting from row 2
                 worksheet.update(f"A2:K{len(data_rows) + 1}", data_rows)
 
             print(f"[SheetsExporter] Exported {len(rows)} amendments to Google Sheets")

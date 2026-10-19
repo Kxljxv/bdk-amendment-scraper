@@ -33,7 +33,7 @@ class Config:
     ARCHIVE_DIR: Path = OUTPUT_DIR / "archive"
 
     # Periodic execution
-    SCRAPE_INTERVAL_MINUTES: int = 10
+    SCRAPE_INTERVAL_MINUTES: int = 5
 
     # Content extraction
     CONTENT_CLASS: str = "antragsgruen-width-main"
