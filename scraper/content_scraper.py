@@ -11,6 +11,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from config import config
 from http_client import get_client
 from storage import Storage
+from cloudflare_sync import fetch_ajax_diff, parse_amendment_page
 
 logger = logging.getLogger(__name__)
 
@@ -78,6 +79,29 @@ class ContentScraper:
             content_html=content_html,
             breadcrumb_html=breadcrumb_html,
         )
+
+        # Structured metadata for the Cloudflare sync
+        try:
+            record = parse_amendment_page(
+                html,
+                amendment_id=amendment_id,
+                motion_slug=motion_slug,
+                url=url,
+            )
+            if not record.get("motion_slug"):
+                record["motion_slug"] = motion_slug
+
+            # The affected paragraphs are needed to place the amendment markers
+            # next to the lines that the amendment changes.
+            try:
+                record["diff_blocks"] = fetch_ajax_diff(self.http_client, url)
+            except Exception as e:
+                logger.warning(f"[ContentScraper] Error loading the diff of {amendment_id}: {e}")
+                record["diff_blocks"] = []
+
+            self.storage.save_amendment_record(record)
+        except Exception as e:
+            logger.error(f"[ContentScraper] Error parsing amendment {amendment_id}: {e}")
 
         return True
 

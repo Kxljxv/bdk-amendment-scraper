@@ -5,15 +5,22 @@ Scrapes motion pages from the convention start page.
 
 import re
 import logging
-from typing import List
+from typing import Dict, List, Optional
 
 from bs4 import BeautifulSoup
 
 from config import config
 from http_client import get_client
 from storage import Storage
+from cloudflare_sync import parse_motion_page
 
 logger = logging.getLogger(__name__)
+
+#: Motion URLs always consist of the convention and the motion slug.
+_MOTION_URL_RE = re.compile(rf"^/{re.escape(config.CONVENTION)}/([^/?#]+)/?$")
+
+#: Amendment URLs consist of the convention, the motion slug and the id.
+_AMENDMENT_URL_RE = re.compile(rf"^/{re.escape(config.CONVENTION)}/([^/?#]+)/\d+/?$")
 
 
 class MotionScraper:
@@ -22,6 +29,8 @@ class MotionScraper:
     def __init__(self, storage: Storage):
         self.http_client = get_client()
         self.storage = storage
+        self.motion_ids: Dict[str, int] = {}
+        self._motion_urls: Optional[List[str]] = None
 
     def get_start_page_url(self) -> str:
         """Get the URL of the convention start page."""
@@ -40,31 +49,89 @@ class MotionScraper:
         soup = BeautifulSoup(html, "html.parser")
         motion_links = []
 
-        # Find all links
+        # Primary source: the motion list markup carries a "motionLink<id>"
+        # class on every link that points to a motion page.
         for link in soup.find_all("a", href=True):
+            classes = link.get("class") or []
             href = link.get("href", "")
 
-            # Filter out amendment links, user links, etc.
-            if "/amendment/" in href:
-                continue
-            if href.startswith(f"/{config.CONVENTION}/"):
-                # Exclude non-motion links
-                if any(exclude in href for exclude in ["/user/", "/login", "/logout", "/rest/"]):
+            if any(name.startswith("motionLink") for name in classes):
+                match = _MOTION_URL_RE.match(href)
+                if not match:
                     continue
-
-                absolute_url = f"{config.BASE_URL}{href}" if href.startswith("/") else href
+                absolute_url = f"{config.BASE_URL}/{config.CONVENTION}/{match.group(1)}"
                 if absolute_url not in motion_links:
                     motion_links.append(absolute_url)
+            elif any(name.startswith("amendmentLink") for name in classes):
+                # Statutes ("Gesetze") are listed as amendments of type
+                # "amendmentsOnly". Their parent motion is not linked as a
+                # motion, so it is added explicitly here.
+                match = _AMENDMENT_URL_RE.match(href)
+                if not match:
+                    continue
+                parent_url = f"{config.BASE_URL}/{config.CONVENTION}/{match.group(1)}"
+                if parent_url not in motion_links:
+                    motion_links.append(parent_url)
+
+        if motion_links:
+            return motion_links
+
+        # Fallback: use every link that points to a motion-like path.
+        for link in soup.find_all("a", href=True):
+            href = link.get("href", "")
+            if not href.startswith(f"/{config.CONVENTION}/"):
+                continue
+            if any(exclude in href for exclude in ["/user/", "/login", "/logout", "/rest/", "/amendment/"]):
+                continue
+            absolute_url = f"{config.BASE_URL}{href}"
+            if absolute_url not in motion_links:
+                motion_links.append(absolute_url)
 
         return motion_links
+
+    def extract_motion_ids(self, html: str) -> Dict[str, int]:
+        """
+        Extract the numeric motion id for every motion listed on a page.
+
+        The motion list markup carries the id in the ``motionRow<id>`` /
+        ``motionLink<id>`` class names.
+
+        Args:
+            html: The HTML content of a motion list page
+
+        Returns:
+            Mapping of motion slug to motion id
+        """
+        soup = BeautifulSoup(html, "html.parser")
+        result: Dict[str, int] = {}
+
+        for link in soup.find_all("a", href=True):
+            href = link.get("href", "")
+            match = _MOTION_URL_RE.match(href)
+            if not match:
+                continue
+            slug = match.group(1)
+            for class_name in link.get("class") or []:
+                id_match = re.match(r"^motionLink(\d+)$", class_name)
+                if id_match:
+                    result[slug] = int(id_match.group(1))
+                    break
+
+        return result
 
     def scrape_start_page(self) -> List[str]:
         """
         Scrape the start page and extract all motion links.
 
+        The result is cached, so that the start page is only requested once per
+        run.
+
         Returns:
             List of motion URLs
         """
+        if self._motion_urls is not None:
+            return self._motion_urls
+
         url = self.get_start_page_url()
         logger.info(f"[MotionScraper] Scraping start page: {url}")
 
@@ -76,8 +143,13 @@ class MotionScraper:
             return []
 
         motion_links = self.extract_motion_links(html)
-        logger.info(f"[MotionScraper] Found {len(motion_links)} motion links")
+        self.motion_ids.update(self.extract_motion_ids(html))
+        logger.info(
+            f"[MotionScraper] Found {len(motion_links)} motion links "
+            f"({len(self.motion_ids)} motion ids)"
+        )
 
+        self._motion_urls = motion_links
         return motion_links
 
     def scrape_motion(self, url: str) -> bool:
@@ -123,16 +195,51 @@ class MotionScraper:
             content_html=content_html,
         )
 
+        # Structured metadata (including the officially visible amendments)
+        try:
+            record = parse_motion_page(html, slug=motion_slug, url=final_url)
+            record["motion_id"] = self.motion_ids.get(motion_slug)
+            self.storage.save_motion_record(record)
+        except Exception as e:
+            logger.error(f"[MotionScraper] Error parsing motion {motion_slug}: {e}")
+
         return True
 
-    def scrape_all_motions(self) -> int:
+    def count_motion_pages(self, extra_slugs: Optional[List[str]] = None) -> int:
+        """
+        Returns the number of motion pages that are going to be scraped.
+
+        Args:
+            extra_slugs: Additional motion slugs that are not linked on the
+                start page
+
+        Returns:
+            Number of motion pages
+        """
+        return len(self.collect_motion_urls(extra_slugs))
+
+    def collect_motion_urls(self, extra_slugs: Optional[List[str]] = None) -> List[str]:
+        """Returns the URLs of all motion pages, including the extra slugs."""
+        motion_urls = list(self.scrape_start_page())
+        for slug in extra_slugs or []:
+            url = f"{config.BASE_URL}/{config.CONVENTION}/{slug}"
+            if url not in motion_urls:
+                motion_urls.append(url)
+        return motion_urls
+
+    def scrape_all_motions(self, extra_slugs: Optional[List[str]] = None) -> int:
         """
         Scrape all motions from the start page.
+
+        Args:
+            extra_slugs: Additional motion slugs that are not linked on the
+                start page (for example the parents of statutes that are not
+                publicly listed yet).
 
         Returns:
             Number of successfully scraped motions
         """
-        motion_urls = self.scrape_start_page()
+        motion_urls = self.collect_motion_urls(extra_slugs)
 
         if not motion_urls:
             logger.info("[MotionScraper] No motions found to scrape")

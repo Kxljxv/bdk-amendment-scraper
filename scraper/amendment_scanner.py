@@ -186,66 +186,105 @@ class AmendmentScanner:
         self,
         start_id: int,
         max_consecutive_not_found: int = 50,
+        previous_results: Optional[List[Dict]] = None,
     ) -> List[Dict]:
         """
         Scan a range of amendment IDs starting from start_id.
 
-        Stops after max_consecutive_not_found consecutive IDs that don't exist.
+        The scan stops after max_consecutive_not_found consecutive IDs that
+        don't exist - but only after it has scanned beyond the highest ID that
+        is already known. Otherwise a gap in the ID space (the IDs are handed
+        out globally for all consultations) would end the scan and new
+        amendments would never be found.
 
         Args:
             start_id: The starting amendment ID
             max_consecutive_not_found: Stop after this many consecutive not-found IDs
+            previous_results: Results of the previous run, used to continue
+                the scan where it stopped and to keep the result complete
 
         Returns:
             List of scan results
         """
-        logger.info(f"[Scanner] Starting scan from ID {start_id}")
+        known = {
+            result["amendment_id"]: result
+            for result in (previous_results or [])
+            if result.get("exists")
+        }
+        highest_known = max(known) if known else None
+
+        if highest_known:
+            # Continue shortly before the highest known ID so that amendments
+            # created in the meantime are found as well.
+            start_id = max(start_id, highest_known - 5)
+            logger.info(
+                f"[Scanner] Continuing the scan at ID {start_id} "
+                f"(highest known ID: {highest_known})"
+            )
+        else:
+            logger.info(f"[Scanner] Starting scan from ID {start_id}")
+
+        # The scan always covers this range, even if there are gaps.
+        minimum_end = (highest_known or start_id) + config.SCAN_MARGIN_IDS
+
         logger.info(f"[Scanner] Will stop after {max_consecutive_not_found} consecutive not-found IDs")
+        logger.info(f"[Scanner] Scanning at least up to ID {minimum_end}")
         logger.info(f"[Scanner] Using {config.MAX_WORKERS} workers")
 
+        self.results = list(known.values())
         current_id = start_id
         consecutive_not_found = 0
         found_count = 0
         batch_size = config.MAX_WORKERS * 2
 
-        while True:
-            # Process in batches
-            batch_ids = list(range(current_id, current_id + batch_size))
-            batch_results = self._scan_batch(batch_ids)
+        with ThreadPoolExecutor(max_workers=config.MAX_WORKERS) as executor:
+            while True:
+                # Process in batches
+                batch_ids = list(range(current_id, current_id + batch_size))
+                batch_results = self._scan_batch(executor, batch_ids)
+                # The batch results arrive in completion order. Sorting them by id
+                # keeps the "consecutive not found" detection meaningful.
+                batch_results.sort(key=lambda result: result["amendment_id"])
 
-            for result in batch_results:
-                if not result["exists"]:
-                    consecutive_not_found += 1
+                for result in batch_results:
+                    if not result["exists"]:
+                        consecutive_not_found += 1
 
-                    if consecutive_not_found >= max_consecutive_not_found:
-                        logger.info(
-                            f"\n[Scanner] Stopping: {max_consecutive_not_found} consecutive "
-                            f"not-found IDs reached at ID {result['amendment_id']}"
+                        if (
+                            consecutive_not_found >= max_consecutive_not_found
+                            and result["amendment_id"] >= minimum_end
+                        ):
+                            logger.info(
+                                f"\n[Scanner] Stopping: {max_consecutive_not_found} consecutive "
+                                f"not-found IDs reached at ID {result['amendment_id']}"
+                            )
+                            logger.info(f"[Scanner] Scan complete. Found {found_count} new amendments.")
+                            return self.results
+                    else:
+                        consecutive_not_found = 0
+                        found_count += 1
+                        if result["amendment_id"] in known:
+                            continue
+                        self.results.append(result)
+                        self.storage.add_amendment_url(
+                            result["amendment_id"],
+                            result["motion_slug"],
+                            result["readable"],
+                            result["final_url"],
                         )
-                        return self.results
-                else:
-                    consecutive_not_found = 0
-                    found_count += 1
-                    self.results.append(result)
-                    self.storage.add_amendment_url(
-                        result["amendment_id"],
-                        result["motion_slug"],
-                        result["readable"],
-                        result["final_url"],
-                    )
 
-            current_id += batch_size
+                current_id += batch_size
 
-        logger.info(f"\n[Scanner] Scan complete. Found {found_count} amendments.")
-        logger.info(f"[Scanner] ID range scanned: {start_id} - {current_id - 1}")
-
-        return self.results
-
-    def _scan_batch(self, amendment_ids: List[int]) -> List[Dict]:
+    def _scan_batch(
+        self,
+        executor: ThreadPoolExecutor,
+        amendment_ids: List[int],
+    ) -> List[Dict]:
         """
         Scan a batch of amendment IDs in parallel.
 
         Args:
+            executor: The thread pool to use
             amendment_ids: List of amendment IDs to scan
 
         Returns:
@@ -254,27 +293,26 @@ class AmendmentScanner:
         results = []
 
         if config.USE_THREADING:
-            with ThreadPoolExecutor(max_workers=config.MAX_WORKERS) as executor:
-                future_to_id = {
-                    executor.submit(self.scan_single_id, aid): aid
-                    for aid in amendment_ids
-                }
+            future_to_id = {
+                executor.submit(self.scan_single_id, aid): aid
+                for aid in amendment_ids
+            }
 
-                for future in as_completed(future_to_id):
-                    try:
-                        result = future.result()
-                        results.append(result)
-                    except Exception as e:
-                        aid = future_to_id[future]
-                        logger.error(f"[Scanner] Error processing ID {aid}: {e}")
-                        results.append({
-                            "amendment_id": aid,
-                            "motion_slug": None,
-                            "readable": False,
-                            "final_url": "",
-                            "exists": False,
-                            "error": True
-                        })
+            for future in as_completed(future_to_id):
+                try:
+                    result = future.result()
+                    results.append(result)
+                except Exception as e:
+                    aid = future_to_id[future]
+                    logger.error(f"[Scanner] Error processing ID {aid}: {e}")
+                    results.append({
+                        "amendment_id": aid,
+                        "motion_slug": None,
+                        "readable": False,
+                        "final_url": "",
+                        "exists": False,
+                        "error": True
+                    })
         else:
             # Sequential processing for debugging
             for aid in amendment_ids:

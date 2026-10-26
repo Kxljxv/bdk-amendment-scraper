@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+    <title>Antragsgrün Amendment Sync</title>
+    <style>
+        :root { color-scheme: light dark; --green: #3b7d3b; }
+        body {
+            width: 340px;
+            margin: 0;
+            padding: 14px 16px 16px;
+            font: 13px/1.45 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        }
+        h1 { font-size: 15px; margin: 0 0 10px; }
+        h2 { font-size: 13px; margin: 0 0 8px; }
+        label { display: block; margin: 10px 0 3px; font-weight: 600; }
+        input[type="text"], input[type="password"], input[type="number"] {
+            width: 100%; box-sizing: border-box; padding: 5px 7px;
+            border: 1px solid #b6b6b6; border-radius: 3px; font-size: 12px;
+        }
+        .row { display: flex; align-items: center; gap: 8px; margin: 12px 0; }
+        .row input[type="checkbox"] { margin: 0; }
+        .status { margin: 10px 0; padding: 8px 10px; border-radius: 4px; background: #f1f1f1; white-space: pre-line; }
+        .status.error { background: #fde8e8; }
+        .status.ok { background: #e9f7e9; }
+        .muted { color: #6a6a6a; }
+        button {
+            padding: 6px 12px; border-radius: 3px; border: 1px solid #b6b6b6;
+            background: #fff; cursor: pointer; font-size: 12px;
+        }
+        button.primary { background: var(--green); border-color: #33692f; color: #fff; }
+        .actions { display: flex; gap: 8px; margin-top: 14px; }
+        .card { border: 1px solid #e0e0dc; border-radius: 4px; padding: 12px; margin-bottom: 14px; }
+        code { background: #f1f1f1; padding: 1px 4px; border-radius: 3px; }
+    </style>
+</head>
+<body>
+    <h1>Antragsgrün Amendment Sync</h1>
+
+    <div id="status" class="status">Lade Status …</div>
+
+    <section class="card" id="loginCard" hidden>
+        <h2>Anmelden</h2>
+        <label for="username">Benutzername</label>
+        <input type="text" id="username" autocomplete="username">
+        <label for="password">Passwort</label>
+        <input type="password" id="password" autocomplete="current-password">
+        <div class="actions">
+            <button id="login" class="primary">Anmelden</button>
+        </div>
+        <p class="muted">
+            Konten werden im Administration-Panel des Workers angelegt.
+        </p>
+    </section>
+
+    <section class="card" id="accountCard" hidden>
+        <h2>Angemeldet als <span id="currentUser"></span></h2>
+        <div class="actions">
+            <button id="logout">Abmelden</button>
+        </div>
+    </section>
+
+    <div class="row">
+        <input type="checkbox" id="enabled">
+        <label for="enabled" style="margin:0;font-weight:400">Injektion aktivieren</label>
+    </div>
+
+    <label for="workerUrl">Worker-URL</label>
+    <input type="text" id="workerUrl" spellcheck="false" placeholder="https://….workers.dev">
+
+    <label for="convention">Konvention</label>
+    <input type="text" id="convention" spellcheck="false" placeholder="52bdk">
+
+    <label for="refreshMinutes">Aktualisierung (Minuten)</label>
+    <input type="number" id="refreshMinutes" min="1" max="1440" step="1">
+
+    <div class="actions">
+        <button id="save" class="primary">Speichern</button>
+        <button id="refresh">Jetzt aktualisieren</button>
+    </div>
+
+    <p class="muted">
+        Die Daten werden bei jedem Seitenaufruf automatisch aktualisiert.
+        Einstellungen und Sitzung liegen ausschließlich lokal im Browser
+        (<code>chrome.storage.local</code>).
+    </p>
+
+    <script src="popup.js"></script>
+</body>
+</html>

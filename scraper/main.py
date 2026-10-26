@@ -22,22 +22,35 @@ from content_scraper import ContentScraper
 from motion_scraper import MotionScraper
 from google_sheets_exporter import GoogleSheetsExporter
 from health_endpoint import mark_success
+from cloudflare_sync import CloudflareSyncClient, build_sync_payload
 
 
 def setup_logging():
-    """Setup logging to file and console."""
+    """Setup logging to file and console.
+
+    The handlers are attached to the root logger, so that the messages of the
+    modules (scanner, content scraper, motion scraper, ...) end up in the log
+    file as well and not only on the console.
+    """
     log_file = config.OUTPUT_DIR / "scraper.log"
-    logger = logging.getLogger("scraper")
-    logger.setLevel(logging.INFO)
-    if not logger.handlers:
-        formatter = logging.Formatter("%(asctime)s [%(levelname)s] %(message)s")
+    formatter = logging.Formatter("%(asctime)s [%(levelname)s] %(message)s")
+
+    root = logging.getLogger()
+    if not root.handlers:
+        root.setLevel(logging.INFO)
         fh = logging.FileHandler(log_file, encoding="utf-8")
         fh.setFormatter(formatter)
-        logger.addHandler(fh)
+        root.addHandler(fh)
         ch = logging.StreamHandler(sys.stdout)
         ch.setFormatter(formatter)
-        logger.addHandler(ch)
-    return logger
+        root.addHandler(ch)
+
+    # The HTTP client logs every request on its own - that would drown the
+    # log file.
+    for noisy in ("httpx", "httpcore", "hpack"):
+        logging.getLogger(noisy).setLevel(logging.WARNING)
+
+    return logging.getLogger("scraper")
 
 
 def print_banner(logger):
@@ -98,8 +111,16 @@ def run_phase_1(storage: Storage, logger):
     logger.info("PHASE 1: Scanning Amendment IDs")
     logger.info("=" * 70)
 
+    # The results of the previous run are needed to continue the scan where it
+    # stopped and to keep the result complete.
+    previous_results = storage.load_scan_results() or []
+
     scanner = AmendmentScanner(storage)
-    results = scanner.scan_range(config.START_AMENDMENT_ID, config.MAX_CONSECUTIVE_NOT_FOUND)
+    results = scanner.scan_range(
+        config.START_AMENDMENT_ID,
+        config.MAX_CONSECUTIVE_NOT_FOUND,
+        previous_results=previous_results,
+    )
 
     if results:
         storage.save_scan_results(results)
@@ -125,16 +146,108 @@ def run_phase_2(storage: Storage, scan_results: list, logger):
 
     scraper = ContentScraper(storage)
     scraper.scrape_amendments_batch(scan_results)
+    storage.flush_structured_records()
 
 
-def run_phase_3(storage: Storage, logger):
-    """Run Phase 3: Scrape motions from start page."""
+def run_phase_3(storage: Storage, scan_results: list, logger):
+    """Run Phase 3: Scrape motions from start page.
+
+    Returns:
+        Tuple of (scraped motions, expected motions)
+    """
     logger.info("=" * 70)
     logger.info("PHASE 3: Scraping Motions")
     logger.info("=" * 70)
 
+    # Motions that are not linked on the start page (e.g. the parent of a
+    # statute that is not publicly listed) are derived from the scan results.
+    extra_slugs = []
+    for result in scan_results or []:
+        slug = result.get("motion_slug")
+        if slug and slug not in extra_slugs:
+            extra_slugs.append(slug)
+
     motion_scraper = MotionScraper(storage)
-    motion_scraper.scrape_all_motions()
+    expected = motion_scraper.count_motion_pages(extra_slugs=extra_slugs)
+    scraped = motion_scraper.scrape_all_motions(extra_slugs=extra_slugs)
+    storage.flush_structured_records()
+
+    return scraped, expected
+
+
+def run_phase_4(storage: Storage, logger, scraped_motions=0, expected_motions=0):
+    """Run Phase 4: Push the collected data to the Cloudflare Worker."""
+    logger.info("=" * 70)
+    logger.info("PHASE 4: Syncing to Cloudflare Worker")
+    logger.info("=" * 70)
+
+    if not config.CLOUDFLARE_SYNC_ENABLED:
+        logger.info("[Phase 4] Cloudflare sync is disabled")
+        return False
+
+    if not config.cloudflare_configured:
+        sources = config.describe_sources()
+        logger.warning(
+            "[Phase 4] Cloudflare sync is not configured - the data stays local. "
+            f"Searched the secrets file: {sources['secrets_file']} "
+            f"(exists: {sources['secrets_file_exists']}). "
+            "Set the environment variables CLOUDFLARE_SYNC_URL and "
+            "CLOUDFLARE_SYNC_TOKEN or provide WORKER_URL and SYNC_SECRET in that file."
+        )
+        return False
+
+    sources = config.describe_sources()
+    logger.info(
+        f"[Phase 4] Cloudflare sync configured "
+        f"(url from {'environment' if sources['url_from_env'] else 'secrets file'}, "
+        f"token from {'environment' if sources['token_from_env'] else 'secrets file'})"
+    )
+
+    motions = storage.get_motion_records()
+    amendments = storage.get_amendment_records()
+
+    if not motions:
+        logger.warning("[Phase 4] No motion records collected - nothing to sync")
+        return False
+
+    # If not every motion could be scraped, the data is merged into the
+    # existing data on the server instead of replacing it, so that nothing is
+    # lost because of a single failed request.
+    complete = scraped_motions >= expected_motions if expected_motions else True
+    if not complete:
+        logger.warning(
+            f"[Phase 4] Only {scraped_motions}/{expected_motions} motions were scraped - "
+            "the data is merged into the existing data on the server"
+        )
+
+    payload = build_sync_payload(
+        convention=config.CONVENTION,
+        base_url=config.BASE_URL,
+        title=config.CONVENTION_TITLE,
+        motions=motions,
+        amendments=amendments,
+        complete=complete,
+    )
+
+    hidden = [entry for entry in payload["amendments"] if not entry["visible"]]
+    logger.info(
+        f"[Phase 4] Prepared {len(payload['motions'])} motions, "
+        f"{len(payload['amendments'])} amendments "
+        f"({len(hidden)} not publicly listed)"
+    )
+
+    try:
+        with CloudflareSyncClient(
+            config.CLOUDFLARE_SYNC_URL,
+            config.CLOUDFLARE_SYNC_TOKEN,
+            timeout=config.CLOUDFLARE_SYNC_TIMEOUT,
+        ) as client:
+            result = client.push(payload)
+        logger.info(f"[Phase 4] Sync successful: {result}")
+        return True
+    except Exception as e:
+        logger.error(f"[Phase 4] Sync failed: {e}")
+        return False
 
 
 def run_scrape_cycle(storage: Storage, logger):
@@ -158,6 +271,9 @@ def run_scrape_cycle(storage: Storage, logger):
                 logger.warning(f"[Cleanup] Failed to delete directory {p}: {e}")
 
     scan_results = []
+    storage.clear_structured_records()
+    scraped_motions = 0
+    expected_motions = 0
 
     try:
         scan_results = run_phase_1(storage, logger)
@@ -170,9 +286,14 @@ def run_scrape_cycle(storage: Storage, logger):
         logger.error(f"[Phase 2] Error: {e}", exc_info=True)
 
     try:
-        run_phase_3(storage, logger)
+        scraped_motions, expected_motions = run_phase_3(storage, scan_results, logger)
     except Exception as e:
         logger.error(f"[Phase 3] Error: {e}", exc_info=True)
+
+    try:
+        run_phase_4(storage, logger, scraped_motions, expected_motions)
+    except Exception as e:
+        logger.error(f"[Phase 4] Error: {e}", exc_info=True)
 
 
 def main():
@@ -198,11 +319,38 @@ def main():
         default=0,
         help="Number of runs before exiting (default: 0 = infinite)",
     )
+    parser.add_argument(
+        "--no-sync",
+        action="store_true",
+        help="Disable the Cloudflare Worker sync (Phase 4)",
+    )
+    parser.add_argument(
+        "--worker-url",
+        default=None,
+        help="Override the Cloudflare Worker URL (default: from env or secrets file)",
+    )
+    parser.add_argument(
+        "--sync-token",
+        default=None,
+        help="Override the Cloudflare sync bearer token",
+    )
+    parser.add_argument(
+        "--sync-only",
+        action="store_true",
+        help="Only run the Cloudflare sync using the data of the last run",
+    )
 
     args = parser.parse_args()
 
     config.MAX_WORKERS = args.workers
     interval_seconds = args.interval * 60
+
+    if args.worker_url:
+        config.CLOUDFLARE_SYNC_URL = args.worker_url
+    if args.sync_token:
+        config.CLOUDFLARE_SYNC_TOKEN = args.sync_token
+    if args.no_sync:
+        config.CLOUDFLARE_SYNC_ENABLED = False
 
     logger = setup_logging()
     print_banner(logger)
@@ -223,6 +371,15 @@ def main():
             logger.info("=" * 70)
             logger.info(f"STARTING RUN #{run_count}")
             logger.info("=" * 70)
+
+            if args.sync_only:
+                storage.load_structured_records()
+                try:
+                    run_phase_4(storage, logger)
+                except Exception as e:
+                    logger.error(f"[Run #{run_count}] Sync error: {e}", exc_info=True)
+                logger.info(f"[Run #{run_count}] Completed (sync only). Exiting.")
+                break
 
             try:
                 run_scrape_cycle(storage, logger)
